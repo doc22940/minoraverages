@@ -1,0 +1,5 @@
+for source in `ls transcript`
+do
+echo "Processing ${source}..."
+python src/process.py ${source}
+done
