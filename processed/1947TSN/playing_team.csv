@@ -163,6 +163,30 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1946,North Carolina State League,Thomasville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,112,,2869,1195,243,88,0,13,,,0.944
 1946,North Carolina State League,Mooresville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109,,2759,1182,249,70,0,18,,,0.941
 1946,North Carolina State League,Lexington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,110,,2787,1151,295,49,0,31,,,0.93
+1946,Tobacco State League,Sanford,regular,,,71,48,1,0.597,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Clinton,regular,,,70,48,0,0.593,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Smithfield,regular,,,58,62,2,0.483,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Angier-Fuquay,regular,,,57,62,2,0.479,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Wilmington,regular,,,52,66,1,0.441,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Dunn-Erwin,regular,,,48,70,0,0.407,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Angier-Fuquay,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Sanford,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Clinton,semifinal,Semifinal 2,,4,1,,0.8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Smithfield,semifinal,Semifinal 2,,1,4,,0.2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Angier-Fuquay,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Clinton,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Tobacco State League,Angier-Fuquay,regular,,,,,,,,,121,,4223,815,,1245,1812,,235,25,94,720,508,,549,,39,43,,46,,0.295,,,,,,880,,,,,,,,,,,
+1946,Tobacco State League,Sanford,regular,,,,,,,,,120,,4165,819,,1202,1724,,212,38,78,766,588,,495,,34,71,,56,,0.289,,,,,,625,,,,,,,,,,,
+1946,Tobacco State League,Clinton,regular,,,,,,,,,118,,4107,862,,1183,1815,,197,57,107,729,506,,575,,43,52,,105,,0.288,,,,,,723,,,,,,,,,,,
+1946,Tobacco State League,Smithfield,regular,,,,,,,,,122,,4153,781,,1142,1528,,153,73,29,641,551,,599,,37,46,,67,,0.275,,,,,,807,,,,,,,,,,,
+1946,Tobacco State League,Wilmington,regular,,,,,,,,,119,,4055,636,,1053,1418,,174,34,41,556,476,,584,,33,47,,86,,0.26,,,,,,749,,,,,,,,,,,
+1946,Tobacco State League,Dunn-Erwin,regular,,,,,,,,,118,,4065,729,,1045,1464,,167,54,48,619,587,,566,,60,70,,80,,0.257,,,,,,858,,,,,,,,,,,
+1946,Tobacco State League,Sanford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120,,3075,1217,189,64,0,23,,,0.958
+1946,Tobacco State League,Angier-Fuquay,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3027,1239,266,96,0,17,,,0.941
+1946,Tobacco State League,Clinton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118,,3011,1229,268,80,0,13,,,0.941
+1946,Tobacco State League,Dunn-Erwin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118,,2983,1289,292,64,0,19,,,0.936
+1946,Tobacco State League,Smithfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,,3058,1259,305,76,0,18,,,0.934
+1946,Tobacco State League,Wilmington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,3028,1233,313,81,0,24,,,0.932
 1946,Tri-State League,Charlotte,regular,,,93,46,,0.669,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1946,Tri-State League,Asheville,regular,,,83,57,,0.593,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1946,Tri-State League,Knoxville,regular,,,73,67,,0.521,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
