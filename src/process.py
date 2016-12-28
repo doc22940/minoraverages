@@ -55,7 +55,7 @@ class Workbook(object):
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
         df.sort_values([ 'person.ref', 'S_STINT' ], inplace=True)
-        for col in [ 'nameLast', 'nameFirst', 'bats' ]:
+        for col in [ 'nameLast', 'nameFirst', 'phase.name', 'bats' ]:
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
         df.loc[df['S_STINT']=='T', 'nameClub1'] = None
@@ -106,7 +106,7 @@ class Workbook(object):
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
         df.sort_values([ 'person.ref', 'S_STINT' ], inplace=True)
-        for col in [ 'nameLast', 'nameFirst', 'throws' ]:
+        for col in [ 'nameLast', 'nameFirst', 'phase.name', 'throws' ]:
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
         df.loc[df['S_STINT']=='T', 'nameClub1'] = None
@@ -162,7 +162,7 @@ class Workbook(object):
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
         df.sort_values([ 'person.ref', 'S_STINT' ], inplace=True)
         df['Pos'] = df['Pos'].fillna(method='pad')
-        for col in [ 'nameLast', 'nameFirst', 'throws' ]:
+        for col in [ 'nameLast', 'nameFirst', 'phase.name', 'throws' ]:
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
         df.loc[df['S_STINT']=='T', 'nameClub1'] = None
