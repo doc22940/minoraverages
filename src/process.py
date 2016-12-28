@@ -268,7 +268,7 @@ class Workbook(object):
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         columns = [ 'league.year', 'league.name',
-                    'entry.name', 'seq', 'person.idref',
+                    'entry.name', 'seq', 'person.ref',
                     'person.name.last', 'person.name.given',
                     'S_FIRST', 'S_LAST' ]
         for col in columns:
@@ -426,9 +426,10 @@ def defloat_columns(df):
     pandas' usage of floats for numeric columns which can have nulls."""
     df['league.year'] = df['league.year'].apply(int)
     for col in [ x for x in df.columns
-                 if x[:2] in [ "B_", "F_", "P_", "M_", "R_" ] and
-                 x not in [ "B_AVG", "P_IP", "P_ERA" ]  and
-                 x[-4:] != "_PCT" ]:
+                 if (x[:2] in [ "B_", "F_", "P_", "M_", "R_" ] and
+                     x not in [ "B_AVG", "P_IP", "P_ERA" ] and
+                     x[-4:] != "_PCT") or
+                    (x in [ "S_FIRST", "S_LAST" ])]:
         df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x)
                                 else x)
     return df
