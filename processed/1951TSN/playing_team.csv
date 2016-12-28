@@ -1,0 +1,39 @@
+league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_W,P_L,P_T,P_PCT,P_R,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1950,Big State League,Texarkana,regular,,,93,51,0,0.646,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Gainesville,regular,,,82,63,0,0.566,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Wichita Falls,regular,,,80,66,1,0.438,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Temple,regular,,,74,70,0,0.5138,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Greenville,regular,,,75,71,0,0.5136,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Waco,regular,,,72,76,0,0.486,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Sherman-Denison,regular,,,54,91,1,0.372,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Austin,regular,,,52,94,0,0.356,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Texarkana,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Temple,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Gainesville,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Wichita Falls,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Texarkana,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Gainesville,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Austin,regular,,,,,,,,116941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Temple,regular,,,,,,,,105081,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Wichita Falls,regular,,,,,,,,103439,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Waco,regular,,,,,,,,85173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Texarkana,regular,,,,,,,,83604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Gainesville,regular,,,,,,,,56890,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Greenville,regular,,,,,,,,50511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Sherman-Denison,regular,,,,,,,,48762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1950,Big State League,Texarkana,regular,,,,,,,,,144,,4948,950,,1474,2175,,324,22,111,881,668,,587,,39,72,,47,,0.298,,,,,,707,,,,,,,,,,,
+1950,Big State League,Waco,regular,,,,,,,,,148,,5146,813,,1472,2162,,254,35,122,725,544,,754,,26,47,,66,,0.286,,,,,,827,,,,,,,,,,,
+1950,Big State League,Temple,regular,,,,,,,,,144,,4966,756,,1404,2044,,291,50,83,690,503,,620,,20,66,,64,,0.283,,,,,,791,,,,,,,,,,,
+1950,Big State League,Greenville,regular,,,,,,,,,146,,5008,752,,1400,1973,,218,50,85,665,605,,677,,23,79,,48,,0.28,,,,,,751,,,,,,,,,,,
+1950,Big State League,Wichita Falls,regular,,,,,,,,,147,,5078,870,,1379,2036,,260,38,107,750,712,,789,,22,79,,76,,0.272,,,,,,755,,,,,,,,,,,
+1950,Big State League,Sherman-Denison,regular,,,,,,,,,146,,5036,701,,1362,1824,,226,31,58,628,507,,557,,22,94,,45,,0.27,,,,,,868,,,,,,,,,,,
+1950,Big State League,Gainesville,regular,,,,,,,,,145,,4911,785,,1325,1938,,256,45,89,685,569,,555,,30,68,,54,,0.27,,,,,,746,,,,,,,,,,,
+1950,Big State League,Austin,regular,,,,,,,,,146,,4969,612,,1324,1723,,202,37,41,541,498,,638,,30,59,,69,,0.266,,,,,,794,,,,,,,,,,,
+1950,Big State League,Texarkana,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,144,,3711,1507,181,115,0,18,,,0.966
+1950,Big State League,Temple,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,144,,3780,1601,207,146,0,18,,,0.963
+1950,Big State League,Sherman-Denison,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,146,,3803,1552,213,107,0,33,,,0.962
+1950,Big State League,Gainesville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,145,,3751,1458,208,123,0,23,,,0.962
+1950,Big State League,Waco,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,148,,3818,1708,227,190,0,12,,,0.961
+1950,Big State League,Greenville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,146,,3791,1552,225,134,0,11,,,0.96
+1950,Big State League,Wichita Falls,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,147,,3842,1606,240,142,0,33,,,0.958
+1950,Big State League,Austin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,146,,3749,1571,240,134,1,37,,,0.957
