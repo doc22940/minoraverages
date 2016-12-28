@@ -421,7 +421,19 @@ class Workbook(object):
         df = df[columns]
         return df
     
-
+def defloat_columns(df):
+    """Convert columns which should be integers to strings.  This deals with
+    pandas' usage of floats for numeric columns which can have nulls."""
+    df['league.year'] = df['league.year'].apply(int)
+    for col in [ x for x in df.columns
+                 if x[:2] in [ "B_", "F_", "P_", "M_", "R_" ] and
+                 x not in [ "B_AVG", "P_IP", "P_ERA" ]  and
+                 x[-4:] != "_PCT" ]:
+        df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x)
+                                else x)
+    return df
+    
+    
 if __name__ == '__main__':
     import glob
     import sys
@@ -442,6 +454,7 @@ if __name__ == '__main__':
     df = pd.concat([ Workbook(fn).individual_playing
                      for fn in books ],
                     ignore_index=True)
+    df = defloat_columns(df)
     df.to_csv("processed/%s/playing_individual.csv" % year, index=False)
 
     try:
@@ -449,6 +462,7 @@ if __name__ == '__main__':
                               [ Workbook(fn).individual_managing
                                 for fn in books ]),
                        ignore_index=True)
+        df = defloat_columns(df)
         df.to_csv("processed/%s/managing_individual.csv" % year, index=False)
     except ValueError as e:
         if not "No objects to concatenate" in str(e):
@@ -457,6 +471,7 @@ if __name__ == '__main__':
     df = pd.concat([ Workbook(fn).team_playing
                      for fn in books ],
                      ignore_index=True)
+    df = defloat_columns(df)
     df.to_csv("processed/%s/playing_team.csv" % year, index=False)
 
     print

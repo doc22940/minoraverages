@@ -1,73 +1,73 @@
 league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_W,P_L,P_T,P_PCT,P_R,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
-1920,Central League,Grand Rapids,regular,,,76.0,50.0,,0.603,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Central League,Kalamazoo,regular,,,64.0,60.0,,0.526,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Central League,Ludington,regular,,,63.0,63.0,,0.5,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Central League,Muskegon,regular,,,47.0,77.0,,0.379,4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Central League,Grand Rapids,regular,,,,,,,,,128.0,,4334.0,563.0,,1142.0,1435.0,,140.0,57.0,13.0,,454.0,,511.0,,57.0,127.0,,149.0,,0.263,,,,,,,,,,,,,,,,,
-1920,Central League,Ludington,regular,,,,,,,,,127.0,,4163.0,579.0,,1070.0,1429.0,,172.0,32.0,41.0,,482.0,,556.0,,59.0,184.0,,112.0,,0.257,,,,,,,,,,,,,,,,,
-1920,Central League,Muskegon,regular,,,,,,,,,125.0,,4284.0,524.0,,1102.0,1374.0,,166.0,41.0,8.0,,350.0,,563.0,,46.0,166.0,,68.0,,0.257,,,,,,,,,,,,,,,,,
-1920,Central League,Kalamazoo,regular,,,,,,,,,128.0,,4028.0,537.0,,960.0,1206.0,,109.0,46.0,15.0,,432.0,,561.0,,43.0,197.0,,211.0,,0.238,,,,,,,,,,,,,,,,,
-1920,Central League,Kalamazoo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128.0,,3316.0,1469.0,253.0,,,,,,0.95
-1920,Central League,Ludington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127.0,,3298.0,1465.0,250.0,,,,,,0.95
-1920,Central League,Grand Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128.0,,3372.0,1521.0,274.0,,,,,,0.947
-1920,Central League,Muskegon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125.0,,3257.0,1630.0,309.0,,,,,,0.941
-1920,Piedmont League,Greensboro,regular/first,,,40.0,20.0,,0.667,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Raleigh,regular/first,,,32.0,26.0,,0.552,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Danville,regular/first,,,31.0,29.0,,0.517,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,High Point,regular/first,,,27.0,29.0,,0.482,4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Durham,regular/first,,,24.0,33.0,,0.421,5.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Winston-Salem,regular/first,,,21.0,38.0,,0.356,6.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Raleigh,regular/second,,,35.0,27.0,,0.565,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Winston-Salem,regular/second,,,35.0,27.0,,0.565,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,High Point,regular/second,,,30.0,28.0,,0.517,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Greensboro,regular/second,,,29.0,31.0,,0.483,4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Durham,regular/second,,,29.0,32.0,,0.475,5.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Danville,regular/second,,,23.0,36.0,,0.39,6.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Greensboro,final,,,4.0,3.0,,0.571,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Raleigh,final,,,3.0,4.0,,0.429,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Greensboro,regular,,,,,,,,,119.0,,3862.0,544.0,,1039.0,1434.0,,,,,,,,,,,175.0,,151.0,,0.269,,,,,,,,,,,,,,,,,
-1920,Piedmont League,High Point,regular,,,,,,,,,117.0,,3866.0,505.0,,1017.0,1346.0,,,,,,,,,,,170.0,,100.0,,0.263,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Winston-Salem,regular,,,,,,,,,121.0,,4014.0,547.0,,1056.0,1380.0,,,,,,,,,,,151.0,,150.0,,0.263,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Danville,regular,,,,,,,,,120.0,,4063.0,489.0,,1044.0,1361.0,,,,,,,,,,,153.0,,120.0,,0.257,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Durham,regular,,,,,,,,,120.0,,3784.0,432.0,,963.0,1270.0,,,,,,,,,,,149.0,,135.0,,0.254,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Raleigh,regular,,,,,,,,,121.0,,3955.0,516.0,,968.0,1312.0,,,,,,,,,,,148.0,,153.0,,0.245,,,,,,,,,,,,,,,,,
-1920,Piedmont League,Greensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119.0,,3081.0,1445.0,194.0,,,,,,0.959
-1920,Piedmont League,Raleigh,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121.0,,3201.0,1393.0,218.0,,,,,,0.955
-1920,Piedmont League,Danville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120.0,,3395.0,1628.0,279.0,,,,,,0.947
-1920,Piedmont League,High Point,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117.0,,3121.0,1426.0,272.0,,,,,,0.944
-1920,Piedmont League,Winston-Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121.0,,3135.0,1625.0,297.0,,,,,,0.941
-1920,Piedmont League,Durham,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120.0,,3111.0,1381.0,294.0,,,,,,0.939
-1920,Western Association,Okmulgee,regular/first,,,46.0,18.0,,0.719,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Henryetta,regular/first,,,40.0,25.0,,0.615,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Fort Smith,regular/first,,,38.0,29.0,,0.567,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Enid,regular/first,,,31.0,30.0,,0.508,4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Drumright,regular/first,,,30.0,32.0,,0.484,5.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Chickaha,regular/first,,,28.0,32.0,,0.467,6.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Pawhuska,regular/first,,,18.0,44.0,,0.29,7.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Springfield,regular/first,,,17.0,46.0,,0.27,8.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Enid,regular/second,,,40.0,25.0,,0.615,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Fort Smith,regular/second,,,42.0,29.0,,0.592,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Okmulgee,regular/second,,,40.0,28.0,,0.588,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Springfield,regular/second,,,37.0,34.0,,0.549,4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Drumright,regular/second,,,36.0,30.0,,0.545,5.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Henryetta,regular/second,,,35.0,30.0,,0.538,6.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Chickasha,regular/second,,,26.0,38.0,,0.406,7.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Pawhuska,regular/second,,,15.0,51.0,,0.227,8.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Okmulgee,final,,,3.0,3.0,,0.5,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Enid,final,,,3.0,3.0,,0.5,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1920,Western Association,Okmulgee,regular,,,,,,,,,136.0,,4479.0,663.0,,1283.0,1661.0,,197.0,81.0,33.0,503.0,356.0,,,,,158.0,,189.0,,0.286,,,,,,,,,,,,,,,,,
-1920,Western Association,Henryetta,regular,,,,,,,,,131.0,,4251.0,536.0,,1129.0,1531.0,,215.0,50.0,29.0,463.0,236.0,,,,,179.0,,98.0,,0.266,,,,,,,,,,,,,,,,,
-1920,Western Association,Enid,regular,,,,,,,,,130.0,,4353.0,589.0,,1109.0,1480.0,,203.0,51.0,22.0,375.0,352.0,,,,,193.0,,114.0,,0.255,,,,,,,,,,,,,,,,,
-1920,Western Association,Springfield,regular,,,,,,,,,136.0,,4515.0,494.0,,1133.0,1516.0,,149.0,63.0,36.0,408.0,155.0,,,,,169.0,,152.0,,0.251,,,,,,,,,,,,,,,,,
-1920,Western Association,Fort Smith,regular,,,,,,,,,140.0,,4603.0,572.0,,1134.0,1485.0,,190.0,52.0,19.0,394.0,294.0,,,,,176.0,,166.0,,0.246,,,,,,,,,,,,,,,,,
-1920,Western Association,Chickasha,regular,,,,,,,,,130.0,,4226.0,461.0,,981.0,1270.0,,166.0,36.0,17.0,332.0,323.0,,,,,170.0,,83.0,,0.232,,,,,,,,,,,,,,,,,
-1920,Western Association,Drumright,regular,,,,,,,,,132.0,,4331.0,446.0,,975.0,1109.0,,185.0,46.0,14.0,323.0,277.0,,,,,174.0,,67.0,,0.225,,,,,,,,,,,,,,,,,
-1920,Western Association,Pawhuska,regular,,,,,,,,,130.0,,4205.0,340.0,,843.0,1161.0,,135.0,43.0,9.0,207.0,312.0,,,,,109.0,,79.0,,0.2,,,,,,,,,,,,,,,,,
-1920,Western Association,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136.0,,3552.0,1653.0,266.0,,,,,,0.951
-1920,Western Association,Drumright,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132.0,,3481.0,1670.0,282.0,,,,,,0.948
-1920,Western Association,Okmulgee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136.0,,3472.0,1683.0,291.0,,,,,,0.946
-1920,Western Association,Henryetta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,131.0,,3325.0,1606.0,280.0,,,,,,0.946
-1920,Western Association,Fort Smith,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140.0,,3628.0,1564.0,227.0,,,,,,0.941
-1920,Western Association,Enid,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130.0,,3434.0,1870.0,305.0,,,,,,0.94
-1920,Western Association,Chickasha,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130.0,,3404.0,1656.0,323.0,,,,,,0.94
-1920,Western Association,Pawhuska,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130.0,,3354.0,1651.0,380.0,,,,,,0.929
+1920,Central League,Grand Rapids,regular,,,76,50,,0.603,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Central League,Kalamazoo,regular,,,64,60,,0.526,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Central League,Ludington,regular,,,63,63,,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Central League,Muskegon,regular,,,47,77,,0.379,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Central League,Grand Rapids,regular,,,,,,,,,128,,4334,563,,1142,1435,,140,57,13,,454,,511,,57,127,,149,,0.263,,,,,,,,,,,,,,,,,
+1920,Central League,Ludington,regular,,,,,,,,,127,,4163,579,,1070,1429,,172,32,41,,482,,556,,59,184,,112,,0.257,,,,,,,,,,,,,,,,,
+1920,Central League,Muskegon,regular,,,,,,,,,125,,4284,524,,1102,1374,,166,41,8,,350,,563,,46,166,,68,,0.257,,,,,,,,,,,,,,,,,
+1920,Central League,Kalamazoo,regular,,,,,,,,,128,,4028,537,,960,1206,,109,46,15,,432,,561,,43,197,,211,,0.238,,,,,,,,,,,,,,,,,
+1920,Central League,Kalamazoo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3316,1469,253,,,,,,0.95
+1920,Central League,Ludington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3298,1465,250,,,,,,0.95
+1920,Central League,Grand Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3372,1521,274,,,,,,0.947
+1920,Central League,Muskegon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3257,1630,309,,,,,,0.941
+1920,Piedmont League,Greensboro,regular/first,,,40,20,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Raleigh,regular/first,,,32,26,,0.552,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Danville,regular/first,,,31,29,,0.517,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,High Point,regular/first,,,27,29,,0.482,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Durham,regular/first,,,24,33,,0.421,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Winston-Salem,regular/first,,,21,38,,0.356,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Raleigh,regular/second,,,35,27,,0.565,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Winston-Salem,regular/second,,,35,27,,0.565,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,High Point,regular/second,,,30,28,,0.517,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Greensboro,regular/second,,,29,31,,0.483,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Durham,regular/second,,,29,32,,0.475,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Danville,regular/second,,,23,36,,0.39,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Greensboro,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Raleigh,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Greensboro,regular,,,,,,,,,119,,3862,544,,1039,1434,,,,,,,,,,,175,,151,,0.269,,,,,,,,,,,,,,,,,
+1920,Piedmont League,High Point,regular,,,,,,,,,117,,3866,505,,1017,1346,,,,,,,,,,,170,,100,,0.263,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Winston-Salem,regular,,,,,,,,,121,,4014,547,,1056,1380,,,,,,,,,,,151,,150,,0.263,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Danville,regular,,,,,,,,,120,,4063,489,,1044,1361,,,,,,,,,,,153,,120,,0.257,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Durham,regular,,,,,,,,,120,,3784,432,,963,1270,,,,,,,,,,,149,,135,,0.254,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Raleigh,regular,,,,,,,,,121,,3955,516,,968,1312,,,,,,,,,,,148,,153,,0.245,,,,,,,,,,,,,,,,,
+1920,Piedmont League,Greensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,3081,1445,194,,,,,,0.959
+1920,Piedmont League,Raleigh,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3201,1393,218,,,,,,0.955
+1920,Piedmont League,Danville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120,,3395,1628,279,,,,,,0.947
+1920,Piedmont League,High Point,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117,,3121,1426,272,,,,,,0.944
+1920,Piedmont League,Winston-Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3135,1625,297,,,,,,0.941
+1920,Piedmont League,Durham,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120,,3111,1381,294,,,,,,0.939
+1920,Western Association,Okmulgee,regular/first,,,46,18,,0.719,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Henryetta,regular/first,,,40,25,,0.615,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Fort Smith,regular/first,,,38,29,,0.567,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Enid,regular/first,,,31,30,,0.508,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Drumright,regular/first,,,30,32,,0.484,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Chickaha,regular/first,,,28,32,,0.467,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Pawhuska,regular/first,,,18,44,,0.29,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Springfield,regular/first,,,17,46,,0.27,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Enid,regular/second,,,40,25,,0.615,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Fort Smith,regular/second,,,42,29,,0.592,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Okmulgee,regular/second,,,40,28,,0.588,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Springfield,regular/second,,,37,34,,0.549,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Drumright,regular/second,,,36,30,,0.545,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Henryetta,regular/second,,,35,30,,0.538,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Chickasha,regular/second,,,26,38,,0.406,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Pawhuska,regular/second,,,15,51,,0.227,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Okmulgee,final,,,3,3,,0.5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Enid,final,,,3,3,,0.5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Western Association,Okmulgee,regular,,,,,,,,,136,,4479,663,,1283,1661,,197,81,33,503,356,,,,,158,,189,,0.286,,,,,,,,,,,,,,,,,
+1920,Western Association,Henryetta,regular,,,,,,,,,131,,4251,536,,1129,1531,,215,50,29,463,236,,,,,179,,98,,0.266,,,,,,,,,,,,,,,,,
+1920,Western Association,Enid,regular,,,,,,,,,130,,4353,589,,1109,1480,,203,51,22,375,352,,,,,193,,114,,0.255,,,,,,,,,,,,,,,,,
+1920,Western Association,Springfield,regular,,,,,,,,,136,,4515,494,,1133,1516,,149,63,36,408,155,,,,,169,,152,,0.251,,,,,,,,,,,,,,,,,
+1920,Western Association,Fort Smith,regular,,,,,,,,,140,,4603,572,,1134,1485,,190,52,19,394,294,,,,,176,,166,,0.246,,,,,,,,,,,,,,,,,
+1920,Western Association,Chickasha,regular,,,,,,,,,130,,4226,461,,981,1270,,166,36,17,332,323,,,,,170,,83,,0.232,,,,,,,,,,,,,,,,,
+1920,Western Association,Drumright,regular,,,,,,,,,132,,4331,446,,975,1109,,185,46,14,323,277,,,,,174,,67,,0.225,,,,,,,,,,,,,,,,,
+1920,Western Association,Pawhuska,regular,,,,,,,,,130,,4205,340,,843,1161,,135,43,9,207,312,,,,,109,,79,,0.2,,,,,,,,,,,,,,,,,
+1920,Western Association,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3552,1653,266,,,,,,0.951
+1920,Western Association,Drumright,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132,,3481,1670,282,,,,,,0.948
+1920,Western Association,Okmulgee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3472,1683,291,,,,,,0.946
+1920,Western Association,Henryetta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,131,,3325,1606,280,,,,,,0.946
+1920,Western Association,Fort Smith,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3628,1564,227,,,,,,0.941
+1920,Western Association,Enid,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3434,1870,305,,,,,,0.94
+1920,Western Association,Chickasha,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3404,1656,323,,,,,,0.94
+1920,Western Association,Pawhuska,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3354,1651,380,,,,,,0.929
