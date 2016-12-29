@@ -249,6 +249,44 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Georgia State League,Fitzgerald,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3516,1303,300,67,1,,,,0.941
 1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3554,1459,318,113,0,,,,0.94
 1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3558,1359,311,96,0,,,,0.941
+1949,Interstate League,Allentown,regular,,,87,52,1,0.626,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,regular,,,75,62,1,0.547,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,74,64,2,0.536,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,regular,,,73,66,2,0.525,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Lancaster,regular,,,71,68,2,0.511,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,York,regular,,,66,72,1,0.478,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Sunbury,regular,,,59,81,2,0.421,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Hagerstown,regular,,,49,89,1,0.355,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Allentown,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Allentown,regular,,,,,,,,100788,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,York,regular,,,,,,,,93034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Lancaster,regular,,,,,,,,85796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,,,,,,80896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Sunbury,regular,,,,,,,,69746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,regular,,,,,,,,67604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,regular,,,,,,,,52427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Hagerstown,regular,,,,,,,,34762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Lancaster,regular,,,,,,,,,141,,4691,775,,1304,1803,,190,66,59,669,609,,578,,31,81,,111,,0.278,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,regular,,,,,,,,,141,,4672,752,,1236,1836,,182,83,84,653,659,,789,,34,107,,44,,0.265,,,,,,,,,,,,,,,,,
+1949,Interstate League,York,regular,,,,,,,,,139,,4631,567,,1226,1592,,178,52,28,487,487,,595,,26,99,,88,,0.265,,,,,,,,,,,,,,,,,
+1949,Interstate League,Allentown,regular,,,,,,,,,140,,4588,694,,1198,1684,,224,50,54,604,603,,576,,27,98,,90,,0.261,,,,,,,,,,,,,,,,,
+1949,Interstate League,Hagerstown,regular,,,,,,,,,139,,4647,583,,1202,1495,,175,32,18,488,646,,545,,28,57,,33,,0.259,,,,,,,,,,,,,,,,,
+1949,Interstate League,Sunbury,regular,,,,,,,,,142,,4631,633,,1200,1735,,210,38,83,565,577,,634,,35,78,,42,,0.259,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,regular,,,,,,,,,138,,4362,645,,1121,1489,,159,61,29,551,684,,614,,21,101,,68,,0.257,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,,,,,,,140,,4567,663,,1135,1674,,224,39,79,587,612,,827,,28,110,,54,,0.249,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3598,1722,196,175,0,13,,,0.964
+1949,Interstate League,Allentown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3546,1470,191,129,0,15,,,0.963
+1949,Interstate League,Trenton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3701,1445,228,110,0,18,,,0.958
+1949,Interstate League,Sunbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,,3618,1516,233,94,0,22,,,0.957
+1949,Interstate League,Wilmington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3471,1377,231,99,0,12,,,0.955
+1949,Interstate League,York,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3585,1643,252,120,0,10,,,0.954
+1949,Interstate League,Lancaster,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3537,1514,253,117,0,9,,,0.952
+1949,Interstate League,Hagerstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3583,1706,272,110,0,16,,,0.951
 1949,Ohio-Indiana League,Portsmouth,regular,,,81,58,0,0.583,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Ohio-Indiana League,Springfield,regular,,,77,63,0,0.55,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Ohio-Indiana League,Muncie,regular,,,75,63,1,0.543,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
