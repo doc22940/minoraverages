@@ -161,6 +161,26 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1915,North Carolina State League,Asheville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3257,1614,258,,,,,,0.95
 1915,North Carolina State League,Charlotte,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3214,1573,289,,,,,,0.943
 1915,North Carolina State League,Winston-Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3258,1521,290,,,,,,0.943
+1915,Northern League,Fargo-Moorhead,,,,74,49,0,0.602,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,St. Boniface,,,,61,55,6,0.526,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,Fort William,,,,61,58,8,0.513,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,Duluth,,,,60,62,4,0.492,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,Winnipeg,,,,58,61,9,0.487,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,Virginia,,,,53,69,2,0.434,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,Grand Forks,,,,21,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,Superior,,,,20,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Northern League,Duluth,regular,,,,,,,,,126,,4144,589,,1157,,,,,,,,,,,,138,,173,,0.279,,,,,,,,,,,,,,,,,
+1915,Northern League,Fort William,regular,,,,,,,,,127,,4152,580,,1104,,,,,,,,,,,,164,,188,,0.266,,,,,,,,,,,,,,,,,
+1915,Northern League,Winnipeg,regular,,,,,,,,,128,,4125,523,,1090,,,,,,,,,,,,171,,169,,0.264,,,,,,,,,,,,,,,,,
+1915,Northern League,Fargo-Moorhead,regular,,,,,,,,,123,,3921,531,,1026,,,,,,,,,,,,157,,202,,0.262,,,,,,,,,,,,,,,,,
+1915,Northern League,Virginia,regular,,,,,,,,,124,,3974,525,,1021,,,,,,,,,,,,182,,178,,0.257,,,,,,,,,,,,,,,,,
+1915,Northern League,St. Boniface,regular,,,,,,,,,122,,3979,530,,1000,,,,,,,,,,,,150,,139,,0.251,,,,,,,,,,,,,,,,,
+1915,Northern League,Fargo-Moorhead,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3236,1535,225,,,,,,0.959
+1915,Northern League,Virginia,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3233,1503,226,,,,,,0.954
+1915,Northern League,St. Boniface,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,,3152,1406,257,,,,,,0.947
+1915,Northern League,Fort William,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3292,1391,279,,,,,,0.944
+1915,Northern League,Winnipeg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3325,1583,309,,,,,,0.941
+1915,Northern League,Duluth,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3337,1525,306,,,,,,0.941
 1915,Pacific Coast League,San Francisco,regular,,,118,89,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Pacific Coast League,Salt Lake,regular,,,108,89,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Pacific Coast League,Los Angeles,regular,,,110,98,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
