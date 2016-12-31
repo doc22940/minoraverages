@@ -79,6 +79,7 @@ class Workbook(object):
                             'HR':           'B_HR',
                             'RBI':          'B_RBI',
                             'BB':           'B_BB',
+                            'IBB':          'B_IBB',
                             'SO':           'B_SO',
                             'GDP':          'B_GDP',
                             'HP':           'B_HP',
@@ -133,8 +134,10 @@ class Workbook(object):
                             'H':            'P_H',
                             'R':            'P_R',
                             'ER':           'P_ER',
+                            'HR':           'P_HR',
                             'SH':           'P_SH',
                             'BB':           'P_BB',
+                            'IBB':          'P_IBB',
                             'SO':           'P_SO',
                             'HB':           'P_HP',
                             'SH':           'P_SH',
@@ -161,8 +164,7 @@ class Workbook(object):
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
         df.sort_values([ 'person.ref', 'S_STINT' ], inplace=True)
-        df['Pos'] = df['Pos'].fillna(method='pad')
-        for col in [ 'nameLast', 'nameFirst', 'phase.name', 'throws' ]:
+        for col in [ 'nameLast', 'nameFirst', 'Pos', 'phase.name', 'throws' ]:
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
         df.loc[df['S_STINT']=='T', 'nameClub1'] = None
@@ -209,13 +211,13 @@ class Workbook(object):
                  'phase.name', 'S_STINT', 'entry.name',
                  'B_G', 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_TB',
                  'B_1B', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
-                 'B_BB', 'B_SO', 'B_GDP', 'B_HP', 'B_SH', 'B_SF',
+                 'B_BB', 'B_IBB', 'B_SO', 'B_GDP', 'B_HP', 'B_SH', 'B_SF',
                  'B_SB', 'B_CS',
                  'B_AVG', 'B_AVG_RANK',
                  'P_G', 'P_GS', 'P_CG', 'P_SHO', 'P_TO', 'P_GF',
                  'P_W', 'P_L', 'P_T', 'P_PCT',
                  'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H',
-                 'P_HR', 'P_BB', 'P_SO', 'P_HP', 'P_SH',
+                 'P_HR', 'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH',
                  'P_WP', 'P_BK', 'P_SB',
                  'P_ERA', 'P_ERA_RANK',
                  'F_1B_POS', 'F_1B_G', 'F_1B_TC', 'F_1B_PO', 'F_1B_A', 'F_1B_E',
@@ -343,10 +345,29 @@ class Workbook(object):
                             'nameClub':    'entry.name',
                             'phase':    'phase.name',
                             'GP':       'P_G',
+                            'CG':       'P_CG',
+                            'SHO':      'P_SHO',
+                            'GF':       'P_GF',
                             'W':        'P_W',
                             'L':        'P_L',
                             'T':        'P_T',
-                            'PCT':      'P_PCT' })
+                            'PCT':      'P_PCT',
+                            'IP':       'P_IP',
+                            'AB':       'P_AB',
+                            'R':        'P_R',
+                            'ER':       'P_ER',
+                            'H':        'P_H',
+                            'HR':       'P_HR',
+                            'BB':       'P_BB',
+                            'IBB':      'P_IBB',
+                            'SO':       'P_SO',
+                            'HB':       'P_HP',
+                            'SH':       'P_SH',
+                            'SF':       'P_SF',
+                            'WP':       'P_WP',
+                            'BK':       'P_BK',
+                            'ERA':      'P_ERA'
+                             })
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         return df
@@ -412,7 +433,11 @@ class Workbook(object):
                     'B_BB', 'B_IBB', 'B_SO', 'B_GDP', 'B_HP',
                     'B_SH', 'B_SF', 'B_SB', 'B_CS',
                     'B_AVG',
-                    'P_G', 'P_W', 'P_L', 'P_T', 'P_PCT', 'P_R',
+                    'P_G', 'P_CG', 'P_SHO', 'P_GF',
+                    'P_W', 'P_L', 'P_T', 'P_PCT',
+                    'P_IP', 'P_AB', 'P_R', 'P_ER', 'P_H', 'P_HR',
+                    'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH', 'P_SF',
+                    'P_WP', 'P_BK', 'P_ERA',
                     'F_G', 'F_TC', 'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP',
                     'F_PB', 'F_XI', 'F_LOB', 'F_PCT' ]
         for col in columns:
