@@ -63,6 +63,11 @@ class Workbook(object):
         if 'Pos' in df:
             for pos in [ 'P', 'C', '1B', '2B', '3B', 'SS', 'OF' ]:
                 df['F_%s_POS' % pos] = df[~df.Pos.isnull()]['Pos'].apply(lambda x: 1 if pos in x.split("-") else 0)
+        # These are captured as YYYYMMDD - make sure they are treated as
+        # strings and not floats
+        for col in [ 'dateFirst', 'dateLast' ]:
+            if col in df:
+                df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x) else x)
                 
         df.rename(inplace=True,
                   columns={ 'year':         'league.year',
@@ -71,6 +76,8 @@ class Workbook(object):
                             'nameLast':     'person.name.last',
                             'nameFirst':    'person.name.given',
                             'bats':         'person.bats',
+                            'dateFirst':    'S_FIRST',
+                            'dateLast':     'S_LAST',
                             'G':            'B_G',
                             'AB':           'B_AB',
                             'R':            'B_R',
@@ -217,6 +224,7 @@ class Workbook(object):
                  'person.name.last', 'person.name.given',
                  'person.bats', 'person.throws',
                  'phase.name', 'S_STINT', 'entry.name',
+                 'S_FIRST', 'S_LAST',
                  'B_G', 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_TB',
                  'B_1B', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
                  'B_BB', 'B_IBB', 'B_SO', 'B_GDP', 'B_HP', 'B_SH', 'B_SF',
