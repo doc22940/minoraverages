@@ -59,7 +59,11 @@ class Workbook(object):
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
         df.loc[df['S_STINT']=='T', 'nameClub1'] = None
-        
+
+        if 'Pos' in df:
+            for pos in [ 'P', 'C', '1B', '2B', '3B', 'SS', 'OF' ]:
+                df['F_%s_POS' % pos] = df[~df.Pos.isnull()]['Pos'].apply(lambda x: 1 if pos in x.split("-") else 0)
+                
         df.rename(inplace=True,
                   columns={ 'year':         'league.year',
                             'nameLeague':   'league.name',
@@ -151,7 +155,10 @@ class Workbook(object):
     @property
     def individual_fielding(self):
         with open(self.fn) as f:
-            df = pd.read_excel(f, sheetname='Fielding')
+            try:
+                df = pd.read_excel(f, sheetname='Fielding')
+            except xlrd.biffh.XLRDError:
+                return None
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'F%04d%d' % (2000+x, damm.encode("%04d" % (2000+x))))
 
         if 'nameClub2' in df:
@@ -197,9 +204,10 @@ class Workbook(object):
                 
     @property
     def individual_playing(self):
-        df = pd.concat([ self.individual_batting,
-                         self.individual_pitching,
-                         self.individual_fielding ],
+        df = pd.concat(filter(lambda x: x is not None,
+                              [ self.individual_batting,
+                                self.individual_pitching,
+                                self.individual_fielding ]),
                        ignore_index=True)
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
