@@ -1,2 +1,3 @@
-league.year,league.name,entry.name,seq,person.idref,person.name.last,person.name.given,S_FIRST,S_LAST
-1920,Piedmont League,Greensboro,,,Carroll,Charles,,
+league.year,league.name,entry.name,seq,person.ref,person.name.last,person.name.given,S_FIRST,S_LAST
+1920,Piedmont League,Greensboro,,M90018,Carroll,Charles,,
+1920,South Dakota League,Mitchell,,M90018,Dougherty,R. R.,,
