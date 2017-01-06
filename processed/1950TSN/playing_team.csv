@@ -1,327 +1,365 @@
-league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_W,P_L,P_T,P_PCT,P_R,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
-1949,Appalachian League,Bluefield,regular,,,88,34,0,0.721,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Pulaski,regular,,,80,38,0,0.678,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bristol,regular,,,76,41,0,0.65,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Johnson City,regular,,,59,63,2,0.484,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,New River,regular,,,52,69,0,0.43,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Welch,regular,,,48,73,2,0.397,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Elizabethton,regular,,,40,76,0,0.345,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Kingsport,regular,,,35,84,2,0.294,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bluefield,semifinal,Semifinal 1,,2,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Johnson City,semifinal,Semifinal 1,,0,2,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bristol,semifinal,Semifinal 2,,2,1,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Pulaski,semifinal,Semifinal 2,,1,2,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bluefield,final,,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bristol,final,,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bluefield,regular,,,,,,,,116572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bristol,regular,,,,,,,,66536,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Pulaski,regular,,,,,,,,45580,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Welch,regular,,,,,,,,41092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Johnson City,regular,,,,,,,,40280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,New River,regular,,,,,,,,29476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Elizabethton,regular,,,,,,,,27265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Kingsport,regular,,,,,,,,23967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Appalachian League,Bluefield,regular,,,,,,,,,122,,4353,939,,1371,1987,,294,56,70,833,591,,537,,29,57,,100,,0.315,,,,,,560,,,,,,,,,,,
-1949,Appalachian League,Pulaski,regular,,,,,,,,,118,,4106,978,,1239,1840,,219,86,70,781,682,,563,,37,58,,123,,0.302,,,,,,721,,,,,,,,,,,
-1949,Appalachian League,Bristol,regular,,,,,,,,,117,,3951,798,,1126,1563,,185,69,38,695,663,,647,,20,78,,99,,0.285,,,,,,507,,,,,,,,,,,
-1949,Appalachian League,New River,regular,,,,,,,,,121,,4225,697,,1172,1617,,198,56,45,586,484,,651,,31,48,,43,,0.277,,,,,,747,,,,,,,,,,,
-1949,Appalachian League,Johnson City,regular,,,,,,,,,124,,4146,734,,1074,1571,,179,63,64,624,695,,828,,37,25,,160,,0.259,,,,,,758,,,,,,,,,,,
-1949,Appalachian League,Kingsport,regular,,,,,,,,,121,,4059,576,,1021,1373,,168,47,30,475,494,,767,,27,67,,82,,0.252,,,,,,925,,,,,,,,,,,
-1949,Appalachian League,Elizabethton,regular,,,,,,,,,116,,3901,518,,967,1308,,145,44,36,444,458,,682,,29,39,,45,,0.248,,,,,,775,,,,,,,,,,,
-1949,Appalachian League,Welch,regular,,,,,,,,,123,,4178,682,,1034,1492,,202,44,56,567,683,,717,,27,41,,72,,0.247,,,,,,929,,,,,,,,,,,
-1949,Appalachian League,Bluefield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,,3148,1129,218,70,0,10,,,0.952
-1949,Appalachian League,Pulaski,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118,,2996,1197,226,90,0,5,,,0.949
-1949,Appalachian League,Bristol,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117,,3037,1281,241,91,0,9,,,0.947
-1949,Appalachian League,New River,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3104,1332,246,48,0,5,,,0.947
-1949,Appalachian League,Welch,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3158,1433,277,96,0,22,,,0.943
-1949,Appalachian League,Johnson City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3162,1274,289,106,0,24,,,0.939
-1949,Appalachian League,Elizabethton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,2930,1331,288,85,0,22,,,0.937
-1949,Appalachian League,Kingsport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3045,1257,310,75,0,15,,,0.933
-1949,Arizona-Texas League,Phoenix,regular,,,94,55,1,0.631,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Juarez,regular,,,92,58,0,0.613,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Tucson,regular,,,74,76,0,0.493,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,El Paso,regular,,,67,83,0,0.447,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Bisbee-Douglas,regular,,,66,83,1,0.443,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Globe-Miami,regular,,,56,94,0,0.373,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Phoenix,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Tucson,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,El Paso,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Juarez,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,El Paso,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Phoenix,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Phoenix,regular,,,,,,,,126347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,El Paso,regular,,,,,,,,107778,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Juarez,regular,,,,,,,,85769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Globe-Miami,regular,,,,,,,,60394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Bisbee-Douglas,regular,,,,,,,,60149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Tucson,regular,,,,,,,,53771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Arizona-Texas League,Juarez,regular,,,,,,,,,150,,5203,1085,,1594,2294,,271,108,71,913,751,,576,,45,69,,170,,0.306,,,,,,911,,,,,,,,,,,
-1949,Arizona-Texas League,El Paso,regular,,,,,,,,,150,,5303,1061,,1564,2255,,283,84,80,900,767,,671,,29,54,,202,,0.295,,,,,,1002,,,,,,,,,,,
-1949,Arizona-Texas League,Phoenix,regular,,,,,,,,,150,,5248,1111,,1547,2286,,305,67,100,946,789,,602,,47,82,,148,,0.295,,,,,,912,,,,,,,,,,,
-1949,Arizona-Texas League,Tucson,regular,,,,,,,,,150,,5319,1078,,1551,2341,,272,94,110,928,906,,816,,39,48,,79,,0.292,,,,,,1100,,,,,,,,,,,
-1949,Arizona-Texas League,Globe-Miami,regular,,,,,,,,,150,,5278,1015,,1490,2168,,272,101,68,887,718,,866,,54,71,,86,,0.282,,,,,,1181,,,,,,,,,,,
-1949,Arizona-Texas League,Bisbee-Douglas,regular,,,,,,,,,150,,5197,994,,1434,2148,,254,92,92,852,958,,921,,28,42,,107,,0.276,,,,,,1238,,,,,,,,,,,
-1949,Arizona-Texas League,El Paso,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3824,1484,257,130,0,34,,,0.954
-1949,Arizona-Texas League,Phoenix,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3877,1669,273,189,0,31,,,0.953
-1949,Arizona-Texas League,Juarez,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3859,1560,320,138,0,21,,,0.944
-1949,Arizona-Texas League,Tucson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3864,1726,363,148,1,23,,,0.939
-1949,Arizona-Texas League,Globe-Miami,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3813,1612,390,144,0,16,,,0.933
-1949,Arizona-Texas League,Bisbee-Douglas,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3831,1672,420,165,0,34,,,0.929
-1949,Blue Ridge League,Mount Airy,regular,,,68,58,0,0.54,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Galax,regular,,,66,61,0,0.52,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Wytheville,regular,,,65,61,1,0.516,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,North Wilkesboro,regular,,,62,62,2,0.5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Elkin,regular,,,62,65,2,0.488,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Radford,regular,,,55,71,1,0.437,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Wytheville,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Mount Airy,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,North Wilkesboro,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Galax,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,North Wilkesboro,final,,,4,1,,0.8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Wytheville,final,,,1,4,,0.2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Mount Airy,regular,,,,,,,,36230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Elkin,regular,,,,,,,,33000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,North Wilkesboro,regular,,,,,,,,31814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Radford,regular,,,,,,,,26407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Galax,regular,,,,,,,,24353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Wytheville,regular,,,,,,,,19753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Blue Ridge League,Wytheville,regular,,,,,,,,,125,,4284,702,,1163,1681,,196,77,56,578,442,,651,,27,33,,108,,0.271,,,,,,690,,,,,,,,,,,
-1949,Blue Ridge League,Mount Airy,regular,,,,,,,,,117,,4011,650,,1081,1467,,204,43,32,546,444,,604,,60,51,,126,,0.27,,,,,,619,,,,,,,,,,,
-1949,Blue Ridge League,North Wilkesboro,regular,,,,,,,,,123,,4147,581,,1077,1437,,164,59,26,486,487,,682,,42,68,,132,,0.26,,,,,,604,,,,,,,,,,,
-1949,Blue Ridge League,Galax,regular,,,,,,,,,124,,4147,606,,1063,1484,,212,46,39,538,470,,627,,35,79,,94,,0.256,,,,,,574,,,,,,,,,,,
-1949,Blue Ridge League,Radford,regular,,,,,,,,,125,,4053,587,,989,1352,,150,60,31,467,494,,713,,36,68,,166,,0.244,,,,,,652,,,,,,,,,,,
-1949,Blue Ridge League,Elkin,regular,,,,,,,,,128,,4151,596,,999,1336,,162,47,27,487,508,,692,,49,85,,150,,0.241,,,,,,573,,,,,,,,,,,
-1949,Blue Ridge League,Galax,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3208,1427,220,117,0,38,,,0.955
-1949,Blue Ridge League,North Wilkesboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3182,1423,228,121,1,22,,,0.953
-1949,Blue Ridge League,Elkin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3374,1410,245,91,2,25,,,0.951
-1949,Blue Ridge League,Wytheville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3196,1332,259,104,1,43,,,0.946
-1949,Blue Ridge League,Radford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3175,1258,305,63,0,20,,,0.936
-1949,Blue Ridge League,Mount Airy,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117,,3026,1238,293,81,0,36,,,0.936
-1949,Coastal Plain League,Rocky Mount,regular,,,79,60,0,0.568,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Kinston,regular,,,74,64,0,0.536,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,New Bern,regular,,,73,66,0,0.525,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Greenville,regular,,,71,67,2,0.514,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Goldsboro,regular,,,68,68,3,0.5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Tarboro,regular,,,68,68,1,0.5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Roanoke Rapids,regular,,,60,78,2,0.435,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Wilson,regular,,,57,79,4,0.419,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Greenville,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Rocky Mount,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Kinston,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,New Bern,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Greenville,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Kinston,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Kinston,regular,,,,,,,,88814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Rocky Mount,regular,,,,,,,,80786,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Greenville,regular,,,,,,,,72420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,New Bern,regular,,,,,,,,72291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Goldsboro,regular,,,,,,,,71690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Wilson,regular,,,,,,,,71413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Roanoke Rapids,regular,,,,,,,,68247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Tarboro,regular,,,,,,,,41212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Coastal Plain League,Rocky Mount,regular,,,,,,,,,139,,4764,816,,1279,1902,,227,39,106,706,664,,747,,24,108,,124,,0.268,,,,,,718,,,,,,,,,,,
-1949,Coastal Plain League,Greenville,regular,,,,,,,,,140,,4684,818,,1213,1655,,199,30,61,692,675,,637,,38,100,,250,,0.259,,,,,,699,,,,,,,,,,,
-1949,Coastal Plain League,Goldsboro,regular,,,,,,,,,139,,4638,735,,1196,1633,,210,25,59,642,716,,711,,29,65,,100,,0.258,,,,,,735,,,,,,,,,,,
-1949,Coastal Plain League,New Bern,regular,,,,,,,,,139,,4650,693,,1185,1586,,217,35,38,598,644,,777,,30,67,,224,,0.255,,,,,,614,,,,,,,,,,,
-1949,Coastal Plain League,Kinston,regular,,,,,,,,,138,,4522,666,,1118,1468,,197,24,35,567,672,,628,,23,76,,73,,0.247,,,,,,587,,,,,,,,,,,
-1949,Coastal Plain League,Roanoke Rapids,regular,,,,,,,,,140,,4633,612,,1140,1534,,197,25,49,541,608,,825,,44,91,,102,,0.246,,,,,,761,,,,,,,,,,,
-1949,Coastal Plain League,Wilson,regular,,,,,,,,,140,,4608,568,,1098,1401,,172,19,31,482,533,,675,,31,98,,73,,0.238,,,,,,720,,,,,,,,,,,
-1949,Coastal Plain League,Tarboro,regular,,,,,,,,,137,,4427,576,,1034,1351,,142,32,37,514,537,,923,,23,102,,143,,0.234,,,,,,650,,,,,,,,,,,
-1949,Coastal Plain League,New Bern,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3629,1584,243,133,1,9,,,0.955
-1949,Coastal Plain League,Wilson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3593,1628,251,150,1,28,,,0.954
-1949,Coastal Plain League,Goldsboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3610,1617,266,107,0,37,,,0.952
-1949,Coastal Plain League,Kinston,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3540,1469,257,85,0,15,,,0.951
-1949,Coastal Plain League,Greenville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3637,1526,273,98,0,29,,,0.95
-1949,Coastal Plain League,Roanoke Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3607,1492,283,103,0,23,,,0.947
-1949,Coastal Plain League,Rocky Mount,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3657,1478,292,87,0,15,,,0.946
-1949,Coastal Plain League,Tarboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3503,1383,332,83,1,15,,,0.936
-1949,Georgia-Alabama League,Newnan,regular,,,74,52,0,0.587,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Alexander City,regular,,,69,57,1,0.548,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Tallassee,regular,,,66,60,2,0.524,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,La Grange,regular,,,65,61,1,0.516,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Valley,regular,,,62,64,2,0.492,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Opelika,regular,,,62,64,1,0.492,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Carrollton,regular,,,56,70,2,0.444,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Griffin,regular,,,50,76,1,0.397,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Newnan,semifinal,Semifinal 1,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Tallassee,semifinal,Semifinal 1,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Alexander City,semifinal,Semifinal 2,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,La Grange,semifinal,Semifinal 2,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Alexander City,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Newnan,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,La Grange,regular,,,,,,,,59952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Newnan,regular,,,,,,,,56976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Valley,regular,,,,,,,,52859,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Griffin,regular,,,,,,,,47825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Opelika,regular,,,,,,,,44885,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Tallassee,regular,,,,,,,,43364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Alexander City,regular,,,,,,,,37373,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Carrollton,regular,,,,,,,,36029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Alabama League,Opelika,regular,,,,,,,,,127,,4152,661,,1118,1431,,137,40,32,601,583,,623,,28,55,,175,,0.269,,,,,,711,,,,,,,,,,,
-1949,Georgia-Alabama League,Valley,regular,,,,,,,,,128,,4140,652,,1098,1429,,183,32,28,575,588,,535,,29,96,,127,,0.265,,,,,,688,,,,,,,,,,,
-1949,Georgia-Alabama League,Newnan,regular,,,,,,,,,126,,4189,704,,1083,1559,,177,40,73,623,699,,535,,39,56,,88,,0.259,,,,,,556,,,,,,,,,,,
-1949,Georgia-Alabama League,Griffin,regular,,,,,,,,,127,,4103,661,,1055,1386,,163,36,32,544,646,,619,,24,58,,112,,0.257,,,,,,787,,,,,,,,,,,
-1949,Georgia-Alabama League,La Grange,regular,,,,,,,,,127,,4086,623,,1025,1467,,152,55,60,578,640,,745,,51,69,,69,,0.251,,,,,,623,,,,,,,,,,,
-1949,Georgia-Alabama League,Carrollton,regular,,,,,,,,,128,,4151,680,,1020,1443,,145,25,76,576,643,,726,,43,59,,100,,0.246,,,,,,769,,,,,,,,,,,
-1949,Georgia-Alabama League,Alexander City,regular,,,,,,,,,127,,4021,645,,989,1272,,125,43,24,488,581,,563,,32,68,,202,,0.246,,,,,,568,,,,,,,,,,,
-1949,Georgia-Alabama League,Tallassee,regular,,,,,,,,,128,,4052,582,,970,1345,,152,35,51,475,513,,605,,43,72,,101,,0.239,,,,,,536,,,,,,,,,,,
-1949,Georgia-Alabama League,Tallassee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3187,1372,206,99,0,9,,,0.957
-1949,Georgia-Alabama League,Newnan,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3234,1278,213,96,0,24,,,0.955
-1949,Georgia-Alabama League,Alexander City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3140,1324,226,86,0,19,,,0.952
-1949,Georgia-Alabama League,Carrollton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3481,1288,250,80,0,18,,,0.95
-1949,Georgia-Alabama League,La Grange,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3116,1152,263,96,0,17,,,0.942
-1949,Georgia-Alabama League,Opelika,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3150,1334,276,90,0,22,,,0.942
-1949,Georgia-Alabama League,Valley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3174,1272,265,98,0,21,,,0.944
-1949,Georgia-Alabama League,Griffin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3115,1251,326,90,0,10,,,0.931
-1949,Georgia-Florida League,Albany,regular,,,96,42,2,0.696,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Valdosta,regular,,,86,54,2,0.614,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Waycross,regular,,,83,56,0,0.597,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Americus,regular,,,71,67,1,0.514,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Thomasville,regular,,,60,80,1,0.429,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Moultrie,regular,,,56,82,0,0.406,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Cordele,regular,,,54,85,0,0.388,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Tallahassee,regular,,,49,89,0,0.355,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Albany,semifinal,Semifinal 1,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Americus,semifinal,Semifinal 1,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Waycross,semifinal,Semifinal 2,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Valdosta,semifinal,Semifinal 2,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Waycross,final,,,4,1,,0.8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Albany,final,,,1,4,,0.2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Albany,regular,,,,,,,,93096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Waycross,regular,,,,,,,,54508,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Valdosta,regular,,,,,,,,51105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Tallahassee,regular,,,,,,,,48079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Americus,regular,,,,,,,,46906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Thomasville,regular,,,,,,,,44072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Cordele,regular,,,,,,,,40198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Moultrie,regular,,,,,,,,28911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia-Florida League,Valdosta,regular,,,,,,,,,142,,4708,822,,1287,1752,,212,77,33,686,709,,785,,57,72,,237,,0.273,,,,,,648,,,,,,,,,,,
-1949,Georgia-Florida League,Waycross,regular,,,,,,,,,139,,4755,983,,1274,1748,,208,55,52,780,803,,674,,49,82,,132,,0.268,,,,,,768,,,,,,,,,,,
-1949,Georgia-Florida League,Albany,regular,,,,,,,,,140,,4758,897,,1271,1744,,195,55,56,719,780,,864,,54,73,,166,,0.267,,,,,,581,,,,,,,,,,,
-1949,Georgia-Florida League,Cordele,regular,,,,,,,,,139,,4767,737,,1233,1664,,186,70,35,612,595,,873,,44,56,,79,,0.259,,,,,,853,,,,,,,,,,,
-1949,Georgia-Florida League,Americus,regular,,,,,,,,,139,,4637,765,,1192,1659,,194,54,55,621,619,,878,,39,73,,187,,0.257,,,,,,866,,,,,,,,,,,
-1949,Georgia-Florida League,Thomasville,regular,,,,,,,,,141,,4770,730,,1213,1702,,182,56,65,587,592,,929,,44,79,,173,,0.254,,,,,,801,,,,,,,,,,,
-1949,Georgia-Florida League,Moultrie,regular,,,,,,,,,138,,4644,666,,1126,1416,,150,34,24,542,624,,742,,28,83,,140,,0.242,,,,,,817,,,,,,,,,,,
-1949,Georgia-Florida League,Tallahassee,regular,,,,,,,,,138,,4662,646,,1125,1500,,167,44,40,526,625,,849,,42,63,,86,,0.241,,,,,,889,,,,,,,,,,,
-1949,Georgia-Florida League,Waycross,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3623,1339,278,115,0,25,,,0.947
-1949,Georgia-Florida League,Moultrie,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3587,1549,288,121,0,20,,,0.947
-1949,Georgia-Florida League,Albany,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3691,1509,293,117,0,36,,,0.947
-1949,Georgia-Florida League,Valdosta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,,3686,1389,316,92,0,33,,,0.941
-1949,Georgia-Florida League,Thomasville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3608,1602,340,110,1,42,,,0.939
-1949,Georgia-Florida League,Americus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3595,1528,364,137,0,37,,,0.934
-1949,Georgia-Florida League,Cordele,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3611,1508,368,114,1,32,,,0.933
-1949,Georgia-Florida League,Tallahassee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3557,1595,382,131,0,43,,,0.931
-1949,Georgia State League,Eastman,regular,,,86,51,0,0.628,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Douglas,regular,,,77,62,0,0.554,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Tifton,regular,,,74,63,0,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Vidalia-Lyons,regular,,,72,65,0,0.526,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Sparta,regular,,,69,68,0,0.504,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Dublin,regular,,,63,75,0,0.457,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Baxley-Hazelhurst,regular,,,57,81,0,0.413,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Fitzgerald,regular,,,52,85,0,0.386,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Vidalia-Lyons,semifinal,Semifinal 1,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Eastman,semifinal,Semifinal 1,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Tifton,semifinal,Semifinal 2,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Douglas,semifinal,Semifinal 2,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Tifton,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Vidalia-Lyons,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Dublin,regular,,,,,,,,62049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Tifton,regular,,,,,,,,53846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,45463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Douglas,regular,,,,,,,,45403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Eastman,regular,,,,,,,,43691,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Fitzgerald,regular,,,,,,,,38736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Sparta,regular,,,,,,,,33436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Baxley-Hazelhurst,regular,,,,,,,,29257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Sparta,regular,,,,,,,,,137,,5016,816,,1469,2077,,249,100,53,727,538,,568,,44,68,,97,,0.293,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Eastman,regular,,,,,,,,,137,,4665,846,,1282,1810,,260,50,56,760,679,,564,,57,88,,170,,0.275,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Tifton,regular,,,,,,,,,137,,4628,863,,1241,1768,,254,33,69,742,736,,540,,66,84,,108,,0.268,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Douglas,regular,,,,,,,,,139,,4795,842,,1275,1682,,191,54,36,702,656,,609,,33,69,,176,,0.266,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,137,,4655,785,,1204,1615,,170,29,61,686,693,,708,,46,109,,108,,0.259,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Dublin,regular,,,,,,,,,138,,4770,787,,1228,1846,,218,44,104,700,642,,594,,57,84,,104,,0.257,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,138,,4697,696,,1150,1602,,193,44,57,595,644,,809,,27,42,,100,,0.245,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Fitzgerald,regular,,,,,,,,,137,,4523,717,,1075,1443,,191,51,25,638,782,,726,,38,64,,137,,0.238,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Douglas,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3649,1579,233,124,0,,,,0.957
-1949,Georgia State League,Eastman,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3595,1417,238,72,0,,,,0.955
-1949,Georgia State League,Tifton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3574,1403,257,113,0,,,,0.951
-1949,Georgia State League,Sparta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3628,1441,285,100,0,,,,0.947
-1949,Georgia State League,Dublin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3608,1568,323,104,0,,,,0.941
-1949,Georgia State League,Fitzgerald,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3516,1303,300,67,1,,,,0.941
-1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3554,1459,318,113,0,,,,0.94
-1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3558,1359,311,96,0,,,,0.941
-1949,Interstate League,Allentown,regular,,,87,52,1,0.626,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Wilmington,regular,,,75,62,1,0.547,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Harrisburg,regular,,,74,64,2,0.536,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Trenton,regular,,,73,66,2,0.525,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Lancaster,regular,,,71,68,2,0.511,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,York,regular,,,66,72,1,0.478,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Sunbury,regular,,,59,81,2,0.421,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Hagerstown,regular,,,49,89,1,0.355,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Harrisburg,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Allentown,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Trenton,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Wilmington,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Trenton,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Harrisburg,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Allentown,regular,,,,,,,,100788,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,York,regular,,,,,,,,93034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Lancaster,regular,,,,,,,,85796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Harrisburg,regular,,,,,,,,80896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Sunbury,regular,,,,,,,,69746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Trenton,regular,,,,,,,,67604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Wilmington,regular,,,,,,,,52427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Hagerstown,regular,,,,,,,,34762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Interstate League,Lancaster,regular,,,,,,,,,141,,4691,775,,1304,1803,,190,66,59,669,609,,578,,31,81,,111,,0.278,,,,,,,,,,,,,,,,,
-1949,Interstate League,Trenton,regular,,,,,,,,,141,,4672,752,,1236,1836,,182,83,84,653,659,,789,,34,107,,44,,0.265,,,,,,,,,,,,,,,,,
-1949,Interstate League,York,regular,,,,,,,,,139,,4631,567,,1226,1592,,178,52,28,487,487,,595,,26,99,,88,,0.265,,,,,,,,,,,,,,,,,
-1949,Interstate League,Allentown,regular,,,,,,,,,140,,4588,694,,1198,1684,,224,50,54,604,603,,576,,27,98,,90,,0.261,,,,,,,,,,,,,,,,,
-1949,Interstate League,Hagerstown,regular,,,,,,,,,139,,4647,583,,1202,1495,,175,32,18,488,646,,545,,28,57,,33,,0.259,,,,,,,,,,,,,,,,,
-1949,Interstate League,Sunbury,regular,,,,,,,,,142,,4631,633,,1200,1735,,210,38,83,565,577,,634,,35,78,,42,,0.259,,,,,,,,,,,,,,,,,
-1949,Interstate League,Wilmington,regular,,,,,,,,,138,,4362,645,,1121,1489,,159,61,29,551,684,,614,,21,101,,68,,0.257,,,,,,,,,,,,,,,,,
-1949,Interstate League,Harrisburg,regular,,,,,,,,,140,,4567,663,,1135,1674,,224,39,79,587,612,,827,,28,110,,54,,0.249,,,,,,,,,,,,,,,,,
-1949,Interstate League,Harrisburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3598,1722,196,175,0,13,,,0.964
-1949,Interstate League,Allentown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3546,1470,191,129,0,15,,,0.963
-1949,Interstate League,Trenton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3701,1445,228,110,0,18,,,0.958
-1949,Interstate League,Sunbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,,3618,1516,233,94,0,22,,,0.957
-1949,Interstate League,Wilmington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3471,1377,231,99,0,12,,,0.955
-1949,Interstate League,York,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3585,1643,252,120,0,10,,,0.954
-1949,Interstate League,Lancaster,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3537,1514,253,117,0,9,,,0.952
-1949,Interstate League,Hagerstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3583,1706,272,110,0,16,,,0.951
-1949,Ohio-Indiana League,Portsmouth,regular,,,81,58,0,0.583,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Springfield,regular,,,77,63,0,0.55,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Muncie,regular,,,75,63,1,0.543,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Marion,regular,,,73,63,1,0.533,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Zanesville,regular,,,69,67,0,0.507,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Newark,regular,,,65,72,0,0.474,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Richmond,regular,,,65,73,2,0.471,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Lima,regular,,,46,91,0,0.336,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Marion,semifinal,Semifinal 1,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Portsmouth,semifinal,Semifinal 1,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Muncie,semifinal,Semifinal 2,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Springfield,semifinal,Semifinal 2,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Marion,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Muncie,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Springfield,regular,,,,,,,,67568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Newark,regular,,,,,,,,62321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Portsmouth,regular,,,,,,,,61106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Zanesville,regular,,,,,,,,58034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Marion,regular,,,,,,,,57113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Muncie,regular,,,,,,,,49004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Richmond,regular,,,,,,,,44346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Lima,regular,,,,,,,,31298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Ohio-Indiana League,Springfield,regular,,,,,,,,,140,,4732,832,,1290,1809,,246,51,57,711,661,,873,,59,86,,78,,0.273,,,,,,763,,,,,,,,,,,
-1949,Ohio-Indiana League,Muncie,regular,,,,,,,,,139,,4687,856,,1277,1753,,208,74,40,704,725,,913,,42,79,,172,,0.272,,,,,,747,,,,,,,,,,,
-1949,Ohio-Indiana League,Marion,regular,,,,,,,,,138,,4610,746,,1234,1657,,176,80,29,601,552,,719,,53,99,,118,,0.268,,,,,,699,,,,,,,,,,,
-1949,Ohio-Indiana League,Lima,regular,,,,,,,,,137,,4718,795,,1227,1749,,213,60,63,660,594,,888,,45,45,,96,,0.26,,,,,,1051,,,,,,,,,,,
-1949,Ohio-Indiana League,Richmond,regular,,,,,,,,,140,,4692,771,,1203,1667,,161,96,37,632,691,,842,,45,64,,167,,0.256,,,,,,906,,,,,,,,,,,
-1949,Ohio-Indiana League,Portsmouth,regular,,,,,,,,,139,,4828,700,,1220,1574,,170,35,38,564,586,,851,,51,100,,145,,0.253,,,,,,554,,,,,,,,,,,
-1949,Ohio-Indiana League,Newark,regular,,,,,,,,,137,,4606,760,,1167,1619,,204,79,30,627,640,,789,,41,98,,127,,0.253,,,,,,744,,,,,,,,,,,
-1949,Ohio-Indiana League,Zanesville,regular,,,,,,,,,136,,4530,718,,1148,1537,,169,62,32,607,643,,778,,51,100,,95,,0.253,,,,,,714,,,,,,,,,,,
-1949,Ohio-Indiana League,Portsmouth,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3619,1470,245,113,1,10,,,0.954
-1949,Ohio-Indiana League,Newark,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3528,1464,292,88,0,11,,,0.945
-1949,Ohio-Indiana League,Muncie,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3583,1518,316,96,0,18,,,0.942
-1949,Ohio-Indiana League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3580,1432,311,127,1,12,,,0.942
-1949,Ohio-Indiana League,Marion,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3557,1453,325,120,0,15,,,0.939
-1949,Ohio-Indiana League,Richmond,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3590,1470,359,82,0,16,,,0.934
-1949,Ohio-Indiana League,Zanesville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3456,1585,360,102,0,33,,,0.933
-1949,Ohio-Indiana League,Lima,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3472,1402,398,95,0,22,,,0.925
+league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_CG,P_SHO,P_GF,P_W,P_L,P_T,P_PCT,P_IP,P_AB,P_R,P_ER,P_H,P_HR,P_BB,P_IBB,P_SO,P_HP,P_SH,P_SF,P_WP,P_BK,P_ERA,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1949,Appalachian League,Bluefield,regular,,,88,34,0,0.721,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Pulaski,regular,,,80,38,0,0.678,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bristol,regular,,,76,41,0,0.65,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Johnson City,regular,,,59,63,2,0.484,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,New River,regular,,,52,69,0,0.43,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Welch,regular,,,48,73,2,0.397,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Elizabethton,regular,,,40,76,0,0.345,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Kingsport,regular,,,35,84,2,0.294,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bluefield,semifinal,Semifinal 1,,2,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Johnson City,semifinal,Semifinal 1,,0,2,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bristol,semifinal,Semifinal 2,,2,1,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Pulaski,semifinal,Semifinal 2,,1,2,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bluefield,final,,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bristol,final,,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bluefield,regular,,,,,,,,116572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bristol,regular,,,,,,,,66536,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Pulaski,regular,,,,,,,,45580,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Welch,regular,,,,,,,,41092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Johnson City,regular,,,,,,,,40280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,New River,regular,,,,,,,,29476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Elizabethton,regular,,,,,,,,27265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Kingsport,regular,,,,,,,,23967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bluefield,regular,,,,,,,,,122,,4353,939,,1371,1987,,294,56,70,833,591,,537,,29,57,,100,,0.315,,,,,,,,,,,560,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Pulaski,regular,,,,,,,,,118,,4106,978,,1239,1840,,219,86,70,781,682,,563,,37,58,,123,,0.302,,,,,,,,,,,721,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bristol,regular,,,,,,,,,117,,3951,798,,1126,1563,,185,69,38,695,663,,647,,20,78,,99,,0.285,,,,,,,,,,,507,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,New River,regular,,,,,,,,,121,,4225,697,,1172,1617,,198,56,45,586,484,,651,,31,48,,43,,0.277,,,,,,,,,,,747,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Johnson City,regular,,,,,,,,,124,,4146,734,,1074,1571,,179,63,64,624,695,,828,,37,25,,160,,0.259,,,,,,,,,,,758,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Kingsport,regular,,,,,,,,,121,,4059,576,,1021,1373,,168,47,30,475,494,,767,,27,67,,82,,0.252,,,,,,,,,,,925,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Elizabethton,regular,,,,,,,,,116,,3901,518,,967,1308,,145,44,36,444,458,,682,,29,39,,45,,0.248,,,,,,,,,,,775,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Welch,regular,,,,,,,,,123,,4178,682,,1034,1492,,202,44,56,567,683,,717,,27,41,,72,,0.247,,,,,,,,,,,929,,,,,,,,,,,,,,,,,,,,,,,
+1949,Appalachian League,Bluefield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,,3148,1129,218,70,0,10,,,0.952
+1949,Appalachian League,Pulaski,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118,,2996,1197,226,90,0,5,,,0.949
+1949,Appalachian League,Bristol,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117,,3037,1281,241,91,0,9,,,0.947
+1949,Appalachian League,New River,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3104,1332,246,48,0,5,,,0.947
+1949,Appalachian League,Welch,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3158,1433,277,96,0,22,,,0.943
+1949,Appalachian League,Johnson City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3162,1274,289,106,0,24,,,0.939
+1949,Appalachian League,Elizabethton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,2930,1331,288,85,0,22,,,0.937
+1949,Appalachian League,Kingsport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3045,1257,310,75,0,15,,,0.933
+1949,Arizona-Texas League,Phoenix,regular,,,94,55,1,0.631,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Juarez,regular,,,92,58,0,0.613,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Tucson,regular,,,74,76,0,0.493,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,El Paso,regular,,,67,83,0,0.447,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Bisbee-Douglas,regular,,,66,83,1,0.443,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Globe-Miami,regular,,,56,94,0,0.373,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Phoenix,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Tucson,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,El Paso,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Juarez,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,El Paso,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Phoenix,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Phoenix,regular,,,,,,,,126347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,El Paso,regular,,,,,,,,107778,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Juarez,regular,,,,,,,,85769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Globe-Miami,regular,,,,,,,,60394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Bisbee-Douglas,regular,,,,,,,,60149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Tucson,regular,,,,,,,,53771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Juarez,regular,,,,,,,,,150,,5203,1085,,1594,2294,,271,108,71,913,751,,576,,45,69,,170,,0.306,,,,,,,,,,,911,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,El Paso,regular,,,,,,,,,150,,5303,1061,,1564,2255,,283,84,80,900,767,,671,,29,54,,202,,0.295,,,,,,,,,,,1002,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Phoenix,regular,,,,,,,,,150,,5248,1111,,1547,2286,,305,67,100,946,789,,602,,47,82,,148,,0.295,,,,,,,,,,,912,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Tucson,regular,,,,,,,,,150,,5319,1078,,1551,2341,,272,94,110,928,906,,816,,39,48,,79,,0.292,,,,,,,,,,,1100,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Globe-Miami,regular,,,,,,,,,150,,5278,1015,,1490,2168,,272,101,68,887,718,,866,,54,71,,86,,0.282,,,,,,,,,,,1181,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,Bisbee-Douglas,regular,,,,,,,,,150,,5197,994,,1434,2148,,254,92,92,852,958,,921,,28,42,,107,,0.276,,,,,,,,,,,1238,,,,,,,,,,,,,,,,,,,,,,,
+1949,Arizona-Texas League,El Paso,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3824,1484,257,130,0,34,,,0.954
+1949,Arizona-Texas League,Phoenix,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3877,1669,273,189,0,31,,,0.953
+1949,Arizona-Texas League,Juarez,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3859,1560,320,138,0,21,,,0.944
+1949,Arizona-Texas League,Tucson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3864,1726,363,148,1,23,,,0.939
+1949,Arizona-Texas League,Globe-Miami,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3813,1612,390,144,0,16,,,0.933
+1949,Arizona-Texas League,Bisbee-Douglas,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3831,1672,420,165,0,34,,,0.929
+1949,Blue Ridge League,Mount Airy,regular,,,68,58,0,0.54,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Galax,regular,,,66,61,0,0.52,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Wytheville,regular,,,65,61,1,0.516,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,North Wilkesboro,regular,,,62,62,2,0.5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Elkin,regular,,,62,65,2,0.488,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Radford,regular,,,55,71,1,0.437,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Wytheville,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Mount Airy,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,North Wilkesboro,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Galax,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,North Wilkesboro,final,,,4,1,,0.8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Wytheville,final,,,1,4,,0.2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Mount Airy,regular,,,,,,,,36230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Elkin,regular,,,,,,,,33000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,North Wilkesboro,regular,,,,,,,,31814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Radford,regular,,,,,,,,26407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Galax,regular,,,,,,,,24353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Wytheville,regular,,,,,,,,19753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Wytheville,regular,,,,,,,,,125,,4284,702,,1163,1681,,196,77,56,578,442,,651,,27,33,,108,,0.271,,,,,,,,,,,690,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Mount Airy,regular,,,,,,,,,117,,4011,650,,1081,1467,,204,43,32,546,444,,604,,60,51,,126,,0.27,,,,,,,,,,,619,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,North Wilkesboro,regular,,,,,,,,,123,,4147,581,,1077,1437,,164,59,26,486,487,,682,,42,68,,132,,0.26,,,,,,,,,,,604,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Galax,regular,,,,,,,,,124,,4147,606,,1063,1484,,212,46,39,538,470,,627,,35,79,,94,,0.256,,,,,,,,,,,574,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Radford,regular,,,,,,,,,125,,4053,587,,989,1352,,150,60,31,467,494,,713,,36,68,,166,,0.244,,,,,,,,,,,652,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Elkin,regular,,,,,,,,,128,,4151,596,,999,1336,,162,47,27,487,508,,692,,49,85,,150,,0.241,,,,,,,,,,,573,,,,,,,,,,,,,,,,,,,,,,,
+1949,Blue Ridge League,Galax,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3208,1427,220,117,0,38,,,0.955
+1949,Blue Ridge League,North Wilkesboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3182,1423,228,121,1,22,,,0.953
+1949,Blue Ridge League,Elkin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3374,1410,245,91,2,25,,,0.951
+1949,Blue Ridge League,Wytheville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3196,1332,259,104,1,43,,,0.946
+1949,Blue Ridge League,Radford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3175,1258,305,63,0,20,,,0.936
+1949,Blue Ridge League,Mount Airy,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117,,3026,1238,293,81,0,36,,,0.936
+1949,Coastal Plain League,Rocky Mount,regular,,,79,60,0,0.568,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Kinston,regular,,,74,64,0,0.536,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,New Bern,regular,,,73,66,0,0.525,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Greenville,regular,,,71,67,2,0.514,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Goldsboro,regular,,,68,68,3,0.5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Tarboro,regular,,,68,68,1,0.5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Roanoke Rapids,regular,,,60,78,2,0.435,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Wilson,regular,,,57,79,4,0.419,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Greenville,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Rocky Mount,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Kinston,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,New Bern,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Greenville,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Kinston,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Kinston,regular,,,,,,,,88814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Rocky Mount,regular,,,,,,,,80786,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Greenville,regular,,,,,,,,72420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,New Bern,regular,,,,,,,,72291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Goldsboro,regular,,,,,,,,71690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Wilson,regular,,,,,,,,71413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Roanoke Rapids,regular,,,,,,,,68247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Tarboro,regular,,,,,,,,41212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Rocky Mount,regular,,,,,,,,,139,,4764,816,,1279,1902,,227,39,106,706,664,,747,,24,108,,124,,0.268,,,,,,,,,,,718,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Greenville,regular,,,,,,,,,140,,4684,818,,1213,1655,,199,30,61,692,675,,637,,38,100,,250,,0.259,,,,,,,,,,,699,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Goldsboro,regular,,,,,,,,,139,,4638,735,,1196,1633,,210,25,59,642,716,,711,,29,65,,100,,0.258,,,,,,,,,,,735,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,New Bern,regular,,,,,,,,,139,,4650,693,,1185,1586,,217,35,38,598,644,,777,,30,67,,224,,0.255,,,,,,,,,,,614,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Kinston,regular,,,,,,,,,138,,4522,666,,1118,1468,,197,24,35,567,672,,628,,23,76,,73,,0.247,,,,,,,,,,,587,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Roanoke Rapids,regular,,,,,,,,,140,,4633,612,,1140,1534,,197,25,49,541,608,,825,,44,91,,102,,0.246,,,,,,,,,,,761,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Wilson,regular,,,,,,,,,140,,4608,568,,1098,1401,,172,19,31,482,533,,675,,31,98,,73,,0.238,,,,,,,,,,,720,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,Tarboro,regular,,,,,,,,,137,,4427,576,,1034,1351,,142,32,37,514,537,,923,,23,102,,143,,0.234,,,,,,,,,,,650,,,,,,,,,,,,,,,,,,,,,,,
+1949,Coastal Plain League,New Bern,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3629,1584,243,133,1,9,,,0.955
+1949,Coastal Plain League,Wilson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3593,1628,251,150,1,28,,,0.954
+1949,Coastal Plain League,Goldsboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3610,1617,266,107,0,37,,,0.952
+1949,Coastal Plain League,Kinston,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3540,1469,257,85,0,15,,,0.951
+1949,Coastal Plain League,Greenville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3637,1526,273,98,0,29,,,0.95
+1949,Coastal Plain League,Roanoke Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3607,1492,283,103,0,23,,,0.947
+1949,Coastal Plain League,Rocky Mount,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3657,1478,292,87,0,15,,,0.946
+1949,Coastal Plain League,Tarboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3503,1383,332,83,1,15,,,0.936
+1949,Georgia-Alabama League,Newnan,regular,,,74,52,0,0.587,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Alexander City,regular,,,69,57,1,0.548,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Tallassee,regular,,,66,60,2,0.524,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,La Grange,regular,,,65,61,1,0.516,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Valley,regular,,,62,64,2,0.492,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Opelika,regular,,,62,64,1,0.492,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Carrollton,regular,,,56,70,2,0.444,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Griffin,regular,,,50,76,1,0.397,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Newnan,semifinal,Semifinal 1,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Tallassee,semifinal,Semifinal 1,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Alexander City,semifinal,Semifinal 2,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,La Grange,semifinal,Semifinal 2,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Alexander City,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Newnan,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,La Grange,regular,,,,,,,,59952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Newnan,regular,,,,,,,,56976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Valley,regular,,,,,,,,52859,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Griffin,regular,,,,,,,,47825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Opelika,regular,,,,,,,,44885,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Tallassee,regular,,,,,,,,43364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Alexander City,regular,,,,,,,,37373,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Carrollton,regular,,,,,,,,36029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Opelika,regular,,,,,,,,,127,,4152,661,,1118,1431,,137,40,32,601,583,,623,,28,55,,175,,0.269,,,,,,,,,,,711,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Valley,regular,,,,,,,,,128,,4140,652,,1098,1429,,183,32,28,575,588,,535,,29,96,,127,,0.265,,,,,,,,,,,688,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Newnan,regular,,,,,,,,,126,,4189,704,,1083,1559,,177,40,73,623,699,,535,,39,56,,88,,0.259,,,,,,,,,,,556,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Griffin,regular,,,,,,,,,127,,4103,661,,1055,1386,,163,36,32,544,646,,619,,24,58,,112,,0.257,,,,,,,,,,,787,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,La Grange,regular,,,,,,,,,127,,4086,623,,1025,1467,,152,55,60,578,640,,745,,51,69,,69,,0.251,,,,,,,,,,,623,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Carrollton,regular,,,,,,,,,128,,4151,680,,1020,1443,,145,25,76,576,643,,726,,43,59,,100,,0.246,,,,,,,,,,,769,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Alexander City,regular,,,,,,,,,127,,4021,645,,989,1272,,125,43,24,488,581,,563,,32,68,,202,,0.246,,,,,,,,,,,568,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Tallassee,regular,,,,,,,,,128,,4052,582,,970,1345,,152,35,51,475,513,,605,,43,72,,101,,0.239,,,,,,,,,,,536,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Alabama League,Tallassee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3187,1372,206,99,0,9,,,0.957
+1949,Georgia-Alabama League,Newnan,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3234,1278,213,96,0,24,,,0.955
+1949,Georgia-Alabama League,Alexander City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3140,1324,226,86,0,19,,,0.952
+1949,Georgia-Alabama League,Carrollton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3481,1288,250,80,0,18,,,0.95
+1949,Georgia-Alabama League,La Grange,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3116,1152,263,96,0,17,,,0.942
+1949,Georgia-Alabama League,Opelika,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3150,1334,276,90,0,22,,,0.942
+1949,Georgia-Alabama League,Valley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3174,1272,265,98,0,21,,,0.944
+1949,Georgia-Alabama League,Griffin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3115,1251,326,90,0,10,,,0.931
+1949,Georgia-Florida League,Albany,regular,,,96,42,2,0.696,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Valdosta,regular,,,86,54,2,0.614,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Waycross,regular,,,83,56,0,0.597,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Americus,regular,,,71,67,1,0.514,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Thomasville,regular,,,60,80,1,0.429,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Moultrie,regular,,,56,82,0,0.406,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Cordele,regular,,,54,85,0,0.388,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Tallahassee,regular,,,49,89,0,0.355,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Albany,semifinal,Semifinal 1,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Americus,semifinal,Semifinal 1,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Waycross,semifinal,Semifinal 2,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Valdosta,semifinal,Semifinal 2,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Waycross,final,,,4,1,,0.8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Albany,final,,,1,4,,0.2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Albany,regular,,,,,,,,93096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Waycross,regular,,,,,,,,54508,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Valdosta,regular,,,,,,,,51105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Tallahassee,regular,,,,,,,,48079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Americus,regular,,,,,,,,46906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Thomasville,regular,,,,,,,,44072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Cordele,regular,,,,,,,,40198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Moultrie,regular,,,,,,,,28911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Valdosta,regular,,,,,,,,,142,,4708,822,,1287,1752,,212,77,33,686,709,,785,,57,72,,237,,0.273,,,,,,,,,,,648,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Waycross,regular,,,,,,,,,139,,4755,983,,1274,1748,,208,55,52,780,803,,674,,49,82,,132,,0.268,,,,,,,,,,,768,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Albany,regular,,,,,,,,,140,,4758,897,,1271,1744,,195,55,56,719,780,,864,,54,73,,166,,0.267,,,,,,,,,,,581,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Cordele,regular,,,,,,,,,139,,4767,737,,1233,1664,,186,70,35,612,595,,873,,44,56,,79,,0.259,,,,,,,,,,,853,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Americus,regular,,,,,,,,,139,,4637,765,,1192,1659,,194,54,55,621,619,,878,,39,73,,187,,0.257,,,,,,,,,,,866,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Thomasville,regular,,,,,,,,,141,,4770,730,,1213,1702,,182,56,65,587,592,,929,,44,79,,173,,0.254,,,,,,,,,,,801,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Moultrie,regular,,,,,,,,,138,,4644,666,,1126,1416,,150,34,24,542,624,,742,,28,83,,140,,0.242,,,,,,,,,,,817,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Tallahassee,regular,,,,,,,,,138,,4662,646,,1125,1500,,167,44,40,526,625,,849,,42,63,,86,,0.241,,,,,,,,,,,889,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia-Florida League,Waycross,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3623,1339,278,115,0,25,,,0.947
+1949,Georgia-Florida League,Moultrie,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3587,1549,288,121,0,20,,,0.947
+1949,Georgia-Florida League,Albany,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3691,1509,293,117,0,36,,,0.947
+1949,Georgia-Florida League,Valdosta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,,3686,1389,316,92,0,33,,,0.941
+1949,Georgia-Florida League,Thomasville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3608,1602,340,110,1,42,,,0.939
+1949,Georgia-Florida League,Americus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3595,1528,364,137,0,37,,,0.934
+1949,Georgia-Florida League,Cordele,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3611,1508,368,114,1,32,,,0.933
+1949,Georgia-Florida League,Tallahassee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3557,1595,382,131,0,43,,,0.931
+1949,Georgia State League,Eastman,regular,,,86,51,0,0.628,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Douglas,regular,,,77,62,0,0.554,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Tifton,regular,,,74,63,0,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Vidalia-Lyons,regular,,,72,65,0,0.526,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Sparta,regular,,,69,68,0,0.504,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Dublin,regular,,,63,75,0,0.457,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Baxley-Hazelhurst,regular,,,57,81,0,0.413,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Fitzgerald,regular,,,52,85,0,0.386,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Vidalia-Lyons,semifinal,Semifinal 1,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Eastman,semifinal,Semifinal 1,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Tifton,semifinal,Semifinal 2,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Douglas,semifinal,Semifinal 2,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Tifton,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Vidalia-Lyons,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Dublin,regular,,,,,,,,62049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Tifton,regular,,,,,,,,53846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,45463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Douglas,regular,,,,,,,,45403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Eastman,regular,,,,,,,,43691,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Fitzgerald,regular,,,,,,,,38736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Sparta,regular,,,,,,,,33436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Baxley-Hazelhurst,regular,,,,,,,,29257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Sparta,regular,,,,,,,,,137,,5016,816,,1469,2077,,249,100,53,727,538,,568,,44,68,,97,,0.293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Eastman,regular,,,,,,,,,137,,4665,846,,1282,1810,,260,50,56,760,679,,564,,57,88,,170,,0.275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Tifton,regular,,,,,,,,,137,,4628,863,,1241,1768,,254,33,69,742,736,,540,,66,84,,108,,0.268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Douglas,regular,,,,,,,,,139,,4795,842,,1275,1682,,191,54,36,702,656,,609,,33,69,,176,,0.266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,137,,4655,785,,1204,1615,,170,29,61,686,693,,708,,46,109,,108,,0.259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Dublin,regular,,,,,,,,,138,,4770,787,,1228,1846,,218,44,104,700,642,,594,,57,84,,104,,0.257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,138,,4697,696,,1150,1602,,193,44,57,595,644,,809,,27,42,,100,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Fitzgerald,regular,,,,,,,,,137,,4523,717,,1075,1443,,191,51,25,638,782,,726,,38,64,,137,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Douglas,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3649,1579,233,124,0,,,,0.957
+1949,Georgia State League,Eastman,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3595,1417,238,72,0,,,,0.955
+1949,Georgia State League,Tifton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3574,1403,257,113,0,,,,0.951
+1949,Georgia State League,Sparta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3628,1441,285,100,0,,,,0.947
+1949,Georgia State League,Dublin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3608,1568,323,104,0,,,,0.941
+1949,Georgia State League,Fitzgerald,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3516,1303,300,67,1,,,,0.941
+1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3554,1459,318,113,0,,,,0.94
+1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3558,1359,311,96,0,,,,0.941
+1949,Interstate League,Allentown,regular,,,87,52,1,0.626,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,regular,,,75,62,1,0.547,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,74,64,2,0.536,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,regular,,,73,66,2,0.525,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Lancaster,regular,,,71,68,2,0.511,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,York,regular,,,66,72,1,0.478,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Sunbury,regular,,,59,81,2,0.421,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Hagerstown,regular,,,49,89,1,0.355,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,semifinal,Semifinal 1,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Allentown,semifinal,Semifinal 1,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Allentown,regular,,,,,,,,100788,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,York,regular,,,,,,,,93034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Lancaster,regular,,,,,,,,85796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,,,,,,80896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Sunbury,regular,,,,,,,,69746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,regular,,,,,,,,67604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,regular,,,,,,,,52427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Hagerstown,regular,,,,,,,,34762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Lancaster,regular,,,,,,,,,141,,4691,775,,1304,1803,,190,66,59,669,609,,578,,31,81,,111,,0.278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Trenton,regular,,,,,,,,,141,,4672,752,,1236,1836,,182,83,84,653,659,,789,,34,107,,44,,0.265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,York,regular,,,,,,,,,139,,4631,567,,1226,1592,,178,52,28,487,487,,595,,26,99,,88,,0.265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Allentown,regular,,,,,,,,,140,,4588,694,,1198,1684,,224,50,54,604,603,,576,,27,98,,90,,0.261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Hagerstown,regular,,,,,,,,,139,,4647,583,,1202,1495,,175,32,18,488,646,,545,,28,57,,33,,0.259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Sunbury,regular,,,,,,,,,142,,4631,633,,1200,1735,,210,38,83,565,577,,634,,35,78,,42,,0.259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Wilmington,regular,,,,,,,,,138,,4362,645,,1121,1489,,159,61,29,551,684,,614,,21,101,,68,,0.257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,,,,,,,140,,4567,663,,1135,1674,,224,39,79,587,612,,827,,28,110,,54,,0.249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Interstate League,Harrisburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3598,1722,196,175,0,13,,,0.964
+1949,Interstate League,Allentown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3546,1470,191,129,0,15,,,0.963
+1949,Interstate League,Trenton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3701,1445,228,110,0,18,,,0.958
+1949,Interstate League,Sunbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,,3618,1516,233,94,0,22,,,0.957
+1949,Interstate League,Wilmington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3471,1377,231,99,0,12,,,0.955
+1949,Interstate League,York,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3585,1643,252,120,0,10,,,0.954
+1949,Interstate League,Lancaster,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3537,1514,253,117,0,9,,,0.952
+1949,Interstate League,Hagerstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3583,1706,272,110,0,16,,,0.951
+1949,Kansas-Oklahoma-Missouri League,Independence,regular,,,71,53,0,0.573,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Bartlesville,regular,,,71,55,0,0.563,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Iola,regular,,,70,55,0,0.56,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Ponca City,regular,,,66,59,0,0.528,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Chanute,regular,,,65,60,0,0.52,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Carthage,regular,,,62,64,0,0.492,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Miami,regular,,,56,69,0,0.448,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Pittsburg,regular,,,39,85,0,0.315,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Independence,semifinal,Semifinal 1,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Ponca City,semifinal,Semifinal 1,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Iola,semifinal,Semifinal 2,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Bartlesville,semifinal,Semifinal 2,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Independence,final,,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Iola,final,,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Ponca City,regular,,,,,,,,62082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Bartlesville,regular,,,,,,,,51000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Iola,regular,,,,,,,,49491,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Independence,regular,,,,,,,,46607,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Pittsburg,regular,,,,,,,,39755,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Chanute,regular,,,,,,,,39228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Carthage,regular,,,,,,,,38028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Miami,regular,,,,,,,,32887,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Bartlesville,regular,,,,,,,,,126,,4296,832,,1141,1558,,191,47,44,737,786,,663,,49,83,,101,,0.266,,,,,,,,,,,677,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Miami,regular,,,,,,,,,125,,4220,683,,1067,1445,,188,29,44,603,667,,689,,52,34,,114,,0.253,,,,,,,,,,,741,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Iola,regular,,,,,,,,,125,,4175,664,,1054,1410,,188,54,20,562,761,,769,,37,32,,80,,0.252,,,,,,,,,,,620,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Independence,regular,,,,,,,,,124,,4268,731,,1053,1475,,173,48,51,620,679,,798,,40,42,,103,,0.247,,,,,,,,,,,671,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Carthage,regular,,,,,,,,,126,,4143,675,,994,1381,,146,47,49,541,672,,725,,36,63,,118,,0.24,,,,,,,,,,,704,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Ponca City,regular,,,,,,,,,125,,4131,717,,993,1356,,172,43,35,603,768,,675,,41,55,,200,,0.24,,,,,,,,,,,633,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Chanute,regular,,,,,,,,,125,,4122,650,,965,1286,,161,41,26,535,693,,646,,33,61,,135,,0.234,,,,,,,,,,,701,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Pittsburg,regular,,,,,,,,,124,,4009,535,,842,1110,,128,49,14,444,715,,850,,48,51,,88,,0.21,,,,,,,,,,,74,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kansas-Oklahoma-Missouri League,Ponca City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3234,1307,240,99,1,24,,,0.95
+1949,Kansas-Oklahoma-Missouri League,Bartlesville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3238,1412,293,112,0,24,,,0.941
+1949,Kansas-Oklahoma-Missouri League,Iola,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3228,1357,292,91,0,33,,,0.94
+1949,Kansas-Oklahoma-Missouri League,Miami,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3201,1451,297,127,1,20,,,0.94
+1949,Kansas-Oklahoma-Missouri League,Chanute,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3235,1319,296,109,0,23,,,0.939
+1949,Kansas-Oklahoma-Missouri League,Carthage,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3188,1342,312,93,0,20,,,0.936
+1949,Kansas-Oklahoma-Missouri League,Independence,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3242,1324,317,109,0,32,,,0.935
+1949,Kansas-Oklahoma-Missouri League,Pittsburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3184,1432,340,122,0,32,,,0.931
+1949,Ohio-Indiana League,Portsmouth,regular,,,81,58,0,0.583,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Springfield,regular,,,77,63,0,0.55,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Muncie,regular,,,75,63,1,0.543,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Marion,regular,,,73,63,1,0.533,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Zanesville,regular,,,69,67,0,0.507,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Newark,regular,,,65,72,0,0.474,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Richmond,regular,,,65,73,2,0.471,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Lima,regular,,,46,91,0,0.336,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Marion,semifinal,Semifinal 1,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Portsmouth,semifinal,Semifinal 1,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Muncie,semifinal,Semifinal 2,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Springfield,semifinal,Semifinal 2,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Marion,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Muncie,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Springfield,regular,,,,,,,,67568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Newark,regular,,,,,,,,62321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Portsmouth,regular,,,,,,,,61106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Zanesville,regular,,,,,,,,58034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Marion,regular,,,,,,,,57113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Muncie,regular,,,,,,,,49004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Richmond,regular,,,,,,,,44346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Lima,regular,,,,,,,,31298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Springfield,regular,,,,,,,,,140,,4732,832,,1290,1809,,246,51,57,711,661,,873,,59,86,,78,,0.273,,,,,,,,,,,763,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Muncie,regular,,,,,,,,,139,,4687,856,,1277,1753,,208,74,40,704,725,,913,,42,79,,172,,0.272,,,,,,,,,,,747,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Marion,regular,,,,,,,,,138,,4610,746,,1234,1657,,176,80,29,601,552,,719,,53,99,,118,,0.268,,,,,,,,,,,699,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Lima,regular,,,,,,,,,137,,4718,795,,1227,1749,,213,60,63,660,594,,888,,45,45,,96,,0.26,,,,,,,,,,,1051,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Richmond,regular,,,,,,,,,140,,4692,771,,1203,1667,,161,96,37,632,691,,842,,45,64,,167,,0.256,,,,,,,,,,,906,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Portsmouth,regular,,,,,,,,,139,,4828,700,,1220,1574,,170,35,38,564,586,,851,,51,100,,145,,0.253,,,,,,,,,,,554,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Newark,regular,,,,,,,,,137,,4606,760,,1167,1619,,204,79,30,627,640,,789,,41,98,,127,,0.253,,,,,,,,,,,744,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Zanesville,regular,,,,,,,,,136,,4530,718,,1148,1537,,169,62,32,607,643,,778,,51,100,,95,,0.253,,,,,,,,,,,714,,,,,,,,,,,,,,,,,,,,,,,
+1949,Ohio-Indiana League,Portsmouth,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3619,1470,245,113,1,10,,,0.954
+1949,Ohio-Indiana League,Newark,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3528,1464,292,88,0,11,,,0.945
+1949,Ohio-Indiana League,Muncie,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3583,1518,316,96,0,18,,,0.942
+1949,Ohio-Indiana League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3580,1432,311,127,1,12,,,0.942
+1949,Ohio-Indiana League,Marion,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3557,1453,325,120,0,15,,,0.939
+1949,Ohio-Indiana League,Richmond,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3590,1470,359,82,0,16,,,0.934
+1949,Ohio-Indiana League,Zanesville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3456,1585,360,102,0,33,,,0.933
+1949,Ohio-Indiana League,Lima,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3472,1402,398,95,0,22,,,0.925
