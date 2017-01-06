@@ -298,7 +298,10 @@ class Workbook(object):
     @property
     def _team_standings(self):
         with open(self.fn) as f:
-            df = pd.read_excel(f, sheetname='Standings')
+            try:
+                df = pd.read_excel(f, sheetname='Standings')
+            except xlrd.biffh.XLRDError:
+                return None
         df.rename(inplace=True,
                   columns={ 'year':    'league.year',
                             'nameLeague':  'league.name',
@@ -434,13 +437,19 @@ class Workbook(object):
         
     @property
     def team_playing(self):
-        df = pd.concat(filter(lambda x: x is not None,
-                              [ self._team_standings,
-                                self._team_attendance,
-                                self._team_batting,
-                                self._team_pitching,
-                                self._team_fielding ]),
-                       ignore_index=True)
+        try:
+            df = pd.concat(filter(lambda x: x is not None,
+                                  [ self._team_standings,
+                                    self._team_attendance,
+                                    self._team_batting,
+                                    self._team_pitching,
+                                    self._team_fielding ]),
+                           ignore_index=True)
+        except ValueError as e:
+            if "No objects" in str(e):
+                return None
+            else:
+                raise
         columns = [ 'league.year', 'league.name',
                     'entry.name', 'phase.name', 'division.name',
                     'R_G', 'R_W', 'R_L', 'R_T', 'R_PCT', 'R_RANK', 'R_ATT',
@@ -509,12 +518,17 @@ if __name__ == '__main__':
     except ValueError as e:
         if not "No objects to concatenate" in str(e):
             raise
-    
-    df = pd.concat([ Workbook(fn).team_playing
-                     for fn in books ],
-                     ignore_index=True)
-    df = defloat_columns(df)
-    df.to_csv("processed/%s/playing_team.csv" % year, index=False)
 
+    try:
+        df = pd.concat(filter(lambda x: x is not None,
+                              [ Workbook(fn).team_playing
+                                for fn in books ]),
+                       ignore_index=True)
+        df = defloat_columns(df)
+        df.to_csv("processed/%s/playing_team.csv" % year, index=False)
+    except ValueError as e:
+        if not "No objects to concatenate" in str(e):
+            raise
+        
     print
     
