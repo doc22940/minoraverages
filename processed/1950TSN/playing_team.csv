@@ -165,6 +165,52 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Border League,Watertown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,3318,1411,242,106,1,28,,,0.951
 1949,Border League,Ogdensburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3380,1460,271,116,1,23,,,0.947
 1949,Border League,Kingston,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,3270,1517,284,118,0,12,,,0.944
+1949,Canadian-American League,Quebec,regular,,,90,48,0,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Oneonta,regular,,,75,62,0,0.547,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Three Rivers,regular,,,75,64,0,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Pittsfield,regular,,,74,65,0,0.532,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Amsterdam,regular,,,67,71,1,0.486,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Gloversville-Johnstown,regular,,,65,74,0,0.468,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Schenectady,regular,,,58,80,1,0.42,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Rome,regular,,,48,88,0,0.353,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Quebec,semifinal,Semifinal 1,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Three Rivers,semifinal,Semifinal 1,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Oneonta,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Pittsfield,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Quebec,final,,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Oneonta,final,,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Quebec,regular,,,,,,,,176779,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Schenectady,regular,,,,,,,,115966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Gloversville-Johnstown,regular,,,,,,,,83638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Amsterdam,regular,,,,,,,,83449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Three Rivers,regular,,,,,,,,76672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Oneonta,regular,,,,,,,,63217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Pittsfield,regular,,,,,,,,56674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Rome,regular,,,,,,,,40331,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Gloversville-Johnstown,regular,,,,,,,,,139,,4738,803,,1302,1885,,222,59,81,707,684,,684,,57,69,,59,,0.275,,,,,,,,,,,846,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Pittsfield,regular,,,,,,,,,139,,4733,802,,1298,1908,,258,56,80,703,680,,767,,37,43,,72,,0.274,,,,,,,,,,,683,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Quebec,regular,,,,,,,,,138,,4541,853,,1227,1700,,210,40,61,743,749,,546,,34,87,,92,,0.27,,,,,,,,,,,623,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Oneonta,regular,,,,,,,,,137,,4688,760,,1241,1826,,178,109,63,670,640,,785,,31,65,,48,,0.265,,,,,,,,,,,687,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Three Rivers,regular,,,,,,,,,139,,4487,646,,1157,1522,,192,64,15,549,592,,673,,38,95,,170,,0.258,,,,,,,,,,,665,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Amsterdam,regular,,,,,,,,,139,,4606,832,,1179,1748,,217,50,84,740,813,,723,,33,66,,110,,0.256,,,,,,,,,,,811,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Rome,regular,,,,,,,,,136,,4457,550,,1085,1447,,205,29,33,477,555,,672,,20,54,,46,,0.243,,,,,,,,,,,824,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Schenectady,regular,,,,,,,,,139,,4565,607,,1073,1433,,160,25,50,511,701,,801,,32,63,,69,,0.235,,,,,,,,,,,714,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Amsterdam,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,67,71,1,0.486,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Gloversville-Johnstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,65,74,0,0.468,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Oneonta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,,,75,62,0,0.547,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Pittsfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,74,65,0,0.532,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Quebec,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,,,90,48,0,0.652,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Rome,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,,,48,88,0,0.353,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Schenectady,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,58,80,1,0.42,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Three Rivers,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,75,64,0,0.54,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Pittsfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3567,1591,202,137,0,16,,,0.962
+1949,Canadian-American League,Quebec,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3535,1435,216,96,0,18,,,0.958
+1949,Canadian-American League,Schenectady,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3567,1480,230,137,1,9,,,0.956
+1949,Canadian-American League,Oneonta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3564,1522,237,147,0,17,,,0.955
+1949,Canadian-American League,Three Rivers,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3507,1371,254,118,0,25,,,0.951
+1949,Canadian-American League,Rome,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3419,1471,276,110,1,24,,,0.947
+1949,Canadian-American League,Gloversville-Johnstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3566,1456,286,142,1,16,,,0.946
+1949,Canadian-American League,Amsterdam,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3558,1550,307,141,0,16,,,0.943
 1949,Coastal Plain League,Rocky Mount,regular,,,79,60,0,0.568,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Coastal Plain League,Kinston,regular,,,74,64,0,0.536,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Coastal Plain League,New Bern,regular,,,73,66,0,0.525,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
