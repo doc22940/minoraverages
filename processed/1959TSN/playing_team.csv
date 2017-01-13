@@ -45,3 +45,48 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1958,Alabama-Florida League,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3232,1273,276,117,0,18,,,0.942
 1958,Alabama-Florida League,Dothan,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3266,1238,281,104,0,13,,,0.941
 1958,Alabama-Florida League,Panama City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3019,1045,300,74,1,18,,,0.931
+1958,Illinois-Indiana-Iowa League,Davenport,regular/first,,,40,19,1,0.678,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Burlington,regular/first,,,32,27,0,0.542,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Green Bay,regular/first,,,29,29,1,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,regular/first,,,28,30,0,0.483,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Fox Cities,regular/first,,,26,33,0,0.441,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Rochester,regular/first,,,20,37,0,0.351,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,regular/second,,,49,23,0,0.681,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Green Bay,regular/second,,,36,35,0,0.507,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Winona,regular/second,,,37,36,0,0.507,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Davenport,regular/second,,,31,39,0,0.443,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Burlington,regular/second,,,30,40,0,0.429,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Fox Cities,regular/second,,,30,40,0,0.429,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,77,53,0,0.597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Davenport,regular,,,71,58,1,0.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Green Bay,regular,,,65,64,1,0.504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Burlington,regular,,,62,67,0,0.481,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Rochester/Winona,regular,,,57,73,0,0.438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Fox Cities,regular,,,56,73,0,0.434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,final,,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Davenport,final,,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,81437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Green Bay,regular,,,,,,,,63782,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,61522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Fox Cities,regular,,,,,,,,58602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Burlington,regular,,,,,,,,51632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Winona,regular,,,,,,,,27364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Rochester,regular,,,,,,,,12225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,130,,4358,707,,1202,1820,,215,35,111,630,513,,771,,41,51,,73,,0.276,,,,,,,,,,,607,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,130,,4382,714,,1200,1930,,219,17,159,641,550,,893,,51,73,,36,,0.274,,,,,,,,,,,590,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Green Bay,regular,,,,,,,,,130,,4355,667,,1164,1820,,192,46,124,594,531,,833,,31,47,,62,,0.267,,,,,,,,,,,685,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Fox Cities,regular,,,,,,,,,129,,4316,613,,1138,1772,,196,24,130,550,515,,758,,26,53,,34,,0.264,,,,,,,,,,,752,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Rochester/Winona,regular,,,,,,,,,130,,4466,761,,1159,1858,,206,23,149,690,686,,844,,40,35,,47,,0.26,,,,,,,,,,,764,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Burlington,regular,,,,,,,,,129,,4328,597,,1122,1612,,185,13,93,531,557,,721,,29,47,,82,,0.259,,,,,,,,,,,661,,,,,,,,,,,,,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,62,6,,,,,,1128.0,4341,590,476,1068,117,545,,901,39,46,25,48,2,3.8,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,58,5,,,,,,1118.1,4329,607,516,1155,110,498,,694,42,56,45,49,4,4.15,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Burlington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,36,7,,,,,,1123.2,4335,661,538,1144,115,579,,763,47,60,40,55,3,4.31,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Green Bay,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,56,8,,,,,,1113.2,4339,685,545,1161,120,569,,850,23,45,26,49,5,4.4,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Fox Cities,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,56,8,,,,,,1103.1,4372,752,604,1212,156,545,,778,31,53,35,56,5,4.93,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Rochester/Winona,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,50,2,,,,,,1135.1,4489,764,642,1245,148,616,,834,36,46,31,87,4,5.09,,,,,,,,,,,
+1958,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3355,1405,177,128,0,32,,,0.964
+1958,Illinois-Indiana-Iowa League,Burlington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,3371,1399,185,129,0,40,,,0.963
+1958,Illinois-Indiana-Iowa League,Green Bay,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3341,1282,198,132,0,22,,,0.959
+1958,Illinois-Indiana-Iowa League,Rochester/Winona,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3406,1401,207,136,1,27,,,0.959
+1958,Illinois-Indiana-Iowa League,Fox Cities,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,3310,1281,204,102,1,21,,,0.957
+1958,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3384,1275,222,108,0,28,,,0.955
