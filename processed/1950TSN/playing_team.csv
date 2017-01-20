@@ -605,6 +605,44 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Far West League,Redding,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3309,1238,333,102,0,22,,,0.932
 1949,Far West League,Vallejo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92,,2390,951,255,53,0,27,,,0.929
 1949,Far West League,Medford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3156,1284,367,60,0,40,,,0.924
+1949,Florida International League,Havana,regular,,,95,57,1,0.625,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami,regular,,,87,62,1,0.584,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami Beach,regular,,,81,70,1,0.536,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Tampa,regular,,,81,72,1,0.529,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,West Palm Beach,regular,,,74,78,4,0.487,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Fort Lauderdale,regular,,,65,88,1,0.425,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,St. Petersburg,regular,,,62,86,1,0.419,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Lakeland,regular,,,60,92,0,0.395,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Havana,semifinal,Semifinal 1,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami Beach,semifinal,Semifinal 1,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Tampa,semifinal,Semifinal 2,,3,1,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami,semifinal,Semifinal 2,,1,3,,0.25,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Tampa,final,,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Havana,final,,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Havana,regular,,,,,,,,226293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami,regular,,,,,,,,170466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,St. Petersburg,regular,,,,,,,,108397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Tampal,regular,,,,,,,,105949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami Beach,regular,,,,,,,,90682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,West Palm Beach,regular,,,,,,,,81132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Ft. Lauderdale,regular,,,,,,,,66544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Lakeland,regular,,,,,,,,50108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami,regular,,,,,,,,,150,,4841,652,,1284,1678,,194,40,40,566,529,,581,,33,140,,115,,0.265,,,,,,,,,,,610,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Havana,regular,,,,,,,,,153,,5196,711,,1372,1792,,200,56,36,620,513,,382,,32,138,,112,,0.264,,,,,,,,,,,470,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,St. Petersburg,regular,,,,,,,,,149,,5123,619,,1309,1663,,186,48,24,539,509,,431,,29,84,,96,,0.256,,,,,,,,,,,713,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Fort Lauderdale,regular,,,,,,,,,154,,5183,620,,1322,1802,,197,17,83,557,534,,560,,28,74,,77,,0.255,,,,,,,,,,,745,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Lakeland,regular,,,,,,,,,152,,5071,575,,1287,1569,,170,26,20,492,571,,389,,29,97,,57,,0.254,,,,,,,,,,,714,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Tampa,regular,,,,,,,,,154,,5254,686,,1325,1698,,193,27,42,603,593,,539,,37,152,,116,,0.252,,,,,,,,,,,580,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,West Palm Beach,regular,,,,,,,,,156,,5115,598,,1275,1596,,185,29,26,525,568,,426,,26,111,,47,,0.249,,,,,,,,,,,673,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Miami Beach,regular,,,,,,,,,152,,5003,625,,1232,1626,,171,26,57,538,574,,523,,35,152,,108,,0.246,,,,,,,,,,,581,,,,,,,,,,,,,,,,,,,,,,,
+1949,Florida International League,Havana,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153,,4046,1744,183,142,0,3,,,0.969
+1949,Florida International League,Tampa,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,,4024,1930,216,157,0,5,,,0.965
+1949,Florida International League,Miami Beach,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,152,,4019,1868,230,110,1,9,,,0.964
+1949,Florida International League,Miami,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,150,,3916,1801,238,135,0,11,,,0.96
+1949,Florida International League,Lakeland,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,152,,3990,1652,225,117,0,5,,,0.962
+1949,Florida International League,West Palm Beach,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,156,,4030,1896,238,150,0,14,,,0.961
+1949,Florida International League,St. Petersburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,149,,3904,1780,264,125,0,11,,,0.957
+1949,Florida International League,Fort Lauderdale,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,,4001,1875,273,131,0,12,,,0.956
 1949,Georgia-Alabama League,Newnan,regular,,,74,52,0,0.587,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Georgia-Alabama League,Alexander City,regular,,,69,57,1,0.548,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Georgia-Alabama League,Tallassee,regular,,,66,60,2,0.524,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
