@@ -795,6 +795,44 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Georgia State League,Fitzgerald,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3516,1303,300,67,1,,,,0.941
 1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3554,1459,318,113,0,,,,0.94
 1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3558,1359,311,96,0,,,,0.941
+1949,Illinois-Indiana-Iowa League,Evansville,regular,,,74,51,0,0.592,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Waterloo,regular,,,70,56,0,0.556,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Terre Haute,regular,,,69,56,0,0.552,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Davenport,regular,,,67,59,0,0.532,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Quincy,regular,,,59,67,0,0.468,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Decatur,regular,,,55,70,0,0.44,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Danville,regular,,,55,70,0,0.44,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Springfield,regular,,,53,73,0,0.421,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Evansville,semifinal,Semifinal 1,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Terre Haute,semifinal,Semifinal 1,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Davenport,semifinal,Semifinal 2,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Waterloo,semifinal,Semifinal 2,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Davenport,final,,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Evansville,final,,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Waterloo,regular,,,,,,,,146421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Evansville,regular,,,,,,,,145657,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,133550,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Terre Haute,regular,,,,,,,,122493,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Quincy,regular,,,,,,,,85130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,51147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Danville,regular,,,,,,,,49605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,48952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Waterloo,regular,,,,,,,,,126,,4323,637,,1160,1575,,169,45,52,514,451,,681,,35,54,,143,,0.268,,,,,,,,,,,527,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Danville,regular,,,,,,,,,125,,4206,520,,1038,1400,,170,42,36,432,543,,681,,26,60,,87,,0.247,,,,,,,,,,,648,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,125,,4190,531,,1036,1472,,166,54,54,461,415,,670,,18,71,,73,,0.247,,,,,,,,,,,605,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,126,,4196,601,,1028,1555,,178,65,73,544,566,,827,,27,68,,66,,0.245,,,,,,,,,,,605,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Terre Haute,regular,,,,,,,,,125,,4123,563,,1011,1413,,183,45,43,485,538,,721,,24,76,,74,,0.245,,,,,,,,,,,520,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Quincy,regular,,,,,,,,,126,,4235,585,,1030,1449,,172,35,59,481,490,,665,,25,92,,61,,0.243,,,,,,,,,,,652,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,126,,4244,577,,1015,1464,,180,52,55,497,488,,697,,40,88,,61,,0.239,,,,,,,,,,,501,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Evansville,regular,,,,,,,,,125,,4194,560,,993,1444,,161,55,60,497,506,,720,,27,63,,94,,0.237,,,,,,,,,,,516,,,,,,,,,,,,,,,,,,,,,,,
+1949,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3248,1318,200,92,1,8,,,0.958
+1949,Illinois-Indiana-Iowa League,Danville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3292,1414,213,110,0,21,,,0.957
+1949,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3361,1347,230,102,0,10,,,0.953
+1949,Illinois-Indiana-Iowa League,Waterloo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3270,1289,223,111,0,33,,,0.953
+1949,Illinois-Indiana-Iowa League,Terre Haute,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3262,1303,225,108,0,14,,,0.953
+1949,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3260,1297,223,98,0,28,,,0.953
+1949,Illinois-Indiana-Iowa League,Evansville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3315,1350,242,98,1,16,,,0.951
+1949,Illinois-Indiana-Iowa League,Quincy,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3278,1434,257,120,0,29,,,0.948
 1949,Interstate League,Allentown,regular,,,87,52,1,0.626,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Interstate League,Wilmington,regular,,,75,62,1,0.547,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Interstate League,Harrisburg,regular,,,74,64,2,0.536,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
