@@ -313,6 +313,8 @@ class Workbook(object):
                            'T':       'R_T',
                            'PCT':     'R_PCT',
                            'RANK':    'R_RANK'})
+        if 'phase.name' not in df:
+            df['phase.name'] = 'regular'
         return df
 
     @property
