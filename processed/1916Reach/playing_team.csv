@@ -265,6 +265,40 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1915,Pacific Coast League,Portland,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,196,,5280,2603,341,,,,,,0.959
 1915,Pacific Coast League,San Francisco,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,208,,5653,2798,368,,,,,,0.958
 1915,Pacific Coast League,Salt Lake,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200,,5380,2512,342,,,,,,0.958
+1915,South Atlantic League,Macon,regular/first,,,30,21,,0.588,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Charleston,regular/first,,,30,22,,0.577,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Albany,regular/first,,,29,23,,0.558,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbus,regular/first,,,28,25,,0.528,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Jacksonville,regular/first,,,25,27,,0.481,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Savannah,regular/first,,,23,28,,0.451,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbia,regular/first,,,23,29,,0.442,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Augusta,regular/first,,,19,32,,0.373,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbus,regular/second,,,24,11,,0.686,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Augusta,regular/second,,,22,13,,0.629,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbia,regular/second,,,21,13,,0.618,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Charleston,regular/second,,,21,14,,0.6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Macon,regular/second,,,18,18,,0.5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Albany,regular/second,,,12,22,,0.353,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Savannah,regular/second,,,11,24,,0.314,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Jacksonville,regular/second,,,10,24,,0.294,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbus,final,,,4,1,2,0.8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Macon,final,,,1,4,2,0.2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Albany,regular,,,,,,,,,88,,2868,344,,780,,,,,,,,,,,,118,,130,,0.272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Macon,regular,,,,,,,,,96,,3196,434,,846,,,,,,,,,,,,95,,141,,0.265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbia,regular,,,,,,,,,89,,2745,334,,704,,,,,,,,,,,,148,,124,,0.256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbus,regular,,,,,,,,,94,,3034,350,,777,,,,,,,,,,,,123,,173,,0.256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Augusta,regular,,,,,,,,,90,,2868,313,,724,,,,,,,,,,,,143,,168,,0.252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Charleston,regular,,,,,,,,,88,,2843,310,,714,,,,,,,,,,,,116,,109,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Savannah,regular,,,,,,,,,88,,2827,321,,699,,,,,,,,,,,,121,,110,,0.247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Jacksonville,regular,,,,,,,,,90,,2199,226,,519,,,,,,,,,,,,78,,103,,0.236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,South Atlantic League,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,94,,2259,925,94,,,,,,0.971
+1915,South Atlantic League,Charleston,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,,2131,1143,120,,,,,,0.965
+1915,South Atlantic League,Macon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96,,2415,1146,158,,,,,,0.958
+1915,South Atlantic League,Augusta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,,2397,973,151,,,,,,0.957
+1915,South Atlantic League,Savannah,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,,2307,982,162,,,,,,0.953
+1915,South Atlantic League,Albany,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,,2453,1365,212,,,,,,0.947
+1915,South Atlantic League,Columbia,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89,,2208,1051,197,,,,,,0.943
+1915,South Atlantic League,Jacksonville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,,1760,859,166,,,,,,0.94
 1915,Southern Association,New Orleans,regular,,,91,63,,0.591,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Southern Association,Birmingham,regular,,,86,67,,0.562,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Southern Association,Memphis,regular,,,81,73,,0.526,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
