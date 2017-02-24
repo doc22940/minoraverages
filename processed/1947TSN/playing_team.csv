@@ -163,6 +163,28 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1946,North Carolina State League,Thomasville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,112,,2869,1195,243,88,0,13,,,0.944
 1946,North Carolina State League,Mooresville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109,,2759,1182,249,70,0,18,,,0.941
 1946,North Carolina State League,Lexington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,110,,2787,1151,295,49,0,31,,,0.93
+1946,Pennsylvania-Ontario-New York League,Jamestown,regular,,,84,41,0,0.672,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Batavia,regular,,,84,41,0,0.672,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Olean,regular,,,69,56,0,0.552,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Bradford,regular,,,58,66,0,0.468,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Hamilton,regular,,,53,73,0,0.421,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Wellsville,regular,,,52,72,2,0.419,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Lockport,regular,,,51,73,0,0.411,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Hornell,regular,,,48,77,2,0.384,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Jamestown,semifinal,Semifinal 1,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Bradford,semifinal,Semifinal 1,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Batavia,semifinal,Semifinal 2,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Olean,semifinal,Semifinal 2,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Batavia,final,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Jamestown,final,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1946,Pennsylvania-Ontario-New York League,Lockport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,4901,3276,1336,289,78,1,26,,999,0.961
+1946,Pennsylvania-Ontario-New York League,Batavia,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,4941,3326,1379,236,88,1,11,,1062,0.952
+1946,Pennsylvania-Ontario-New York League,Jamestown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,4837,3274,1331,232,96,0,18,,991,0.952
+1946,Pennsylvania-Ontario-New York League,Olean,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,4995,3327,1419,249,110,0,23,,1061,0.95
+1946,Pennsylvania-Ontario-New York League,Bradford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,5003,3220,1517,266,87,0,13,,1078,0.947
+1946,Pennsylvania-Ontario-New York League,Hamilton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,4878,3283,1307,288,71,0,34,,1011,0.941
+1946,Pennsylvania-Ontario-New York League,Wellsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,5052,3240,1496,316,109,0,54,,960,0.937
+1946,Pennsylvania-Ontario-New York League,Hornell,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,4958,3286,1343,329,95,0,52,,951,0.934
 1946,Piedmont League,Roanoke,regular,,,89,51,1,0.636,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1946,Piedmont League,Portsmouth,regular,,,83,57,2,0.593,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1946,Piedmont League,Newport News,regular,,,76,64,2,0.543,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
