@@ -23,3 +23,33 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1944,Ohio State League,Newark,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,3250,1330,355,105,0,13,,,0.928
 1944,Ohio State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3300,1266,356,79,0,37,,,0.928
 1944,Ohio State League,Lima,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3204,1338,374,78,0,38,,,0.924
+1944,Pennsylvania-Ontario-New York League,Lockport,regular,,,76,49,1,0.608,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Jamestown,regular,,,70,54,0,0.565,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Batavia,regular,,,70,55,1,0.56,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Hornell,regular,,,62,61,0,0.504,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Erie,regular,,,61,63,0,0.492,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Olean,regular,,,57,66,0,0.463,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Wellsville,regular,,,51,73,1,0.411,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Bradford,regular,,,48,74,1,0.393,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Lockford,semifinal,Semifinal 1,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Hornell,semifinal,Semifinal 1,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Jamestown,semifinal,Semifinal 2,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Batavia,semifinal,Semifinal 2,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Jamestown,final,,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Lockport,final,,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Lockport,regular,,,,,,,,,126,,4432,720,,1206,1543,,194,52,13,552,486,,609,,43,93,,196,,0.272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Batavia,regular,,,,,,,,,126,,4218,630,,1115,1432,,168,39,24,530,473,,534,,26,120,,106,,0.264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Jamestown,regular,,,,,,,,,124,,4167,615,,1080,1404,,144,51,26,484,459,,525,,45,84,,91,,0.259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Wellsville,regular,,,,,,,,,125,,4262,664,,1091,1475,,202,40,34,517,535,,704,,32,83,,94,,0.256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Olean,regular,,,,,,,,,123,,4209,642,,1069,1481,,165,56,45,492,540,,692,,46,78,,77,,0.254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Erie,regular,,,,,,,,,124,,4191,697,,1064,1383,,163,54,16,521,537,,644,,38,61,,136,,0.254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Bradford,regular,,,,,,,,,123,,4200,637,,1052,1407,,172,69,15,521,510,,728,,46,107,,115,,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Hornell,regular,,,,,,,,,123,,4076,554,,1019,1343,,151,19,45,455,455,,700,,28,98,,111,,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1944,Pennsylvania-Ontario-New York League,Batavia,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3293,1426,240,73,1,16,,,0.952
+1944,Pennsylvania-Ontario-New York League,Lockport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3408,1536,257,96,0,14,,,0.951
+1944,Pennsylvania-Ontario-New York League,Jamestown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3235,1467,252,95,0,21,,,0.948
+1944,Pennsylvania-Ontario-New York League,Bradford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3207,1511,297,82,0,20,,,0.941
+1944,Pennsylvania-Ontario-New York League,Erie,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3185,1368,288,73,0,52,,,0.941
+1944,Pennsylvania-Ontario-New York League,Wellsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3225,1462,305,72,0,33,,,0.939
+1944,Pennsylvania-Ontario-New York League,Olean,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3196,1425,318,59,0,15,,,0.936
+1944,Pennsylvania-Ontario-New York League,Hornell,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3252,1400,355,82,0,33,,,0.929
