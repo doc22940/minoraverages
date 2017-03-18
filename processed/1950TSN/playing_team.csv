@@ -909,6 +909,44 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Kansas-Oklahoma-Missouri League,Carthage,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3188,1342,312,93,0,20,,,0.936
 1949,Kansas-Oklahoma-Missouri League,Independence,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3242,1324,317,109,0,32,,,0.935
 1949,Kansas-Oklahoma-Missouri League,Pittsburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3184,1432,340,122,0,32,,,0.931
+1949,Kentucky-Illinois-Tennessee League,Owensboro,regular,,,82,40,0,0.672,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Cairo,regular,,,74,51,2,0.592,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,68,56,0,0.548,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Madisonville,regular,,,67,57,1,0.54,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Union City,regular,,,65,60,1,0.52,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Fulton,regular,,,62,61,0,0.504,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,40,85,0,0.32,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Mayfield,regular,,,38,86,0,0.306,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Madisonville,semifinal,Semifinal 1,,3,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Owensboro,semifinal,Semifinal 1,,0,3,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Cairo,semifinal,Semifinal 2,,3,2,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Hopkinsville,semifinal,Semifinal 2,,2,3,,0.4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Madisonville,final,,,2,1,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Cairo,final,,,1,2,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Owensboro,regular,,,,,,,,67700,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Union City,regular,,,,,,,,43978,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Madisonville,regular,,,,,,,,36760,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Fulton,regular,,,,,,,,34363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,,,,31563,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,,,,31090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,,,,25250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Mayfield,regular,,,,,,,,23244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,,,,,124,,4197,854,,1185,1671,,232,31,64,694,677,,637,,,70,,125,,0.282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Owensboro,regular,,,,,,,,,122,,4119,883,,1160,1687,,173,42,90,752,773,,815,,,69,,213,,0.2816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,,,,,127,,4185,802,,1141,1558,,144,63,49,798,732,,723,,,98,,109,,0.273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Madisonville,regular,,,,,,,,,125,,4057,767,,1096,1562,,195,54,54,687,644,,696,,,62,,138,,0.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Fulton,regular,,,,,,,,,123,,4150,798,,1101,1570,,202,24,73,650,680,,621,,,61,,107,,0.265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Union City,regular,,,,,,,,,126,,4118,700,,1054,1511,,177,62,52,567,635,,907,,,96,,74,,0.256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,,,,,125,,4092,603,,1013,1327,,154,50,20,497,655,,820,,,56,,153,,0.2476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Mayfield,regular,,,,,,,,,124,,4060,565,,955,1248,,151,32,26,472,661,,616,,,60,,81,,0.235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Kentucky-Illinois-Tennessee League,Owensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,,3139,1245,209,83,,12,,,0.954
+1949,Kentucky-Illinois-Tennessee League,Madisonville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3090,1395,241,108,,9,,,0.949
+1949,Kentucky-Illinois-Tennessee League,Fulton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3122,1261,246,92,,12,,,0.947
+1949,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3186,1294,261,123,,14,,,0.945
+1949,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3206,1343,295,110,,14,,,0.939
+1949,Kentucky-Illinois-Tennessee League,Mayfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3090,1305,302,78,,30,,,0.936
+1949,Kentucky-Illinois-Tennessee League,Union City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3230,1268,315,106,,14,,,0.935
+1949,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3126,1177,340,74,,15,,,0.927
 1949,Mississippi-Ohio Valley League,Centralia,regular,,,74,44,0,0.627,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mississippi-Ohio Valley League,West Frankfort,regular,,,71,49,1,0.592,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mississippi-Ohio Valley League,Mattoon,regular,,,62,56,1,0.525,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
