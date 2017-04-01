@@ -114,7 +114,10 @@ class Workbook(object):
     @property
     def individual_pitching(self):
         with open(self.fn) as f:
-            df = pd.read_excel(f, sheetname='Pitching')
+            try:
+                df = pd.read_excel(f, sheetname='Pitching')
+            except xlrd.biffh.XLRDError:
+                return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'P%04d%d' % (1000+x, damm.encode("%04d" % (1000+x))))
 
         if 'nameClub2' in df:
