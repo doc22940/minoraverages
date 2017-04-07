@@ -53,7 +53,7 @@ class Workbook(object):
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum(). \
                            apply(lambda x: 'B%04d%d' %
                                  (x, damm.encode("%04d" % x)))
-
+        df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
         if 'nameClub2' in df:
             df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
         else:
@@ -119,7 +119,7 @@ class Workbook(object):
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'P%04d%d' % (1000+x, damm.encode("%04d" % (1000+x))))
-
+        df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
         if 'nameClub2' in df:
             df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
         else:
@@ -179,7 +179,7 @@ class Workbook(object):
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'F%04d%d' % (2000+x, damm.encode("%04d" % (2000+x))))
-
+        df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
         if 'nameClub2' in df:
             df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
         else:
