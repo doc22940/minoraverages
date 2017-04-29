@@ -47,6 +47,12 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1920,Pacific Coast International League,Spokane,regular,,,,,,,,,115,,3946,548,,1044,1351,,187,48,19,,299,,506,,49,122,,111,,0.265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1920,Pacific Coast International League,Vancouver,regular,,,,,,,,,116,,3903,571,,1027,1404,,200,58,23,,358,,528,,49,153,,120,,0.263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1920,Pacific Coast International League,Seattle,regular,,,,,,,,,116,,3898,411,,889,1151,,135,36,23,,338,,679,,46,107,,65,,0.228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Pacific Coast International League,Victoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120,,3163,1492,214,75,,,,,0.956
+1920,Pacific Coast International League,Tacoma,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120,,3162,1556,252,70,,,,,0.95
+1920,Pacific Coast International League,Vancouver,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,3113,1430,246,94,,,,,0.949
+1920,Pacific Coast International League,Yakima,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,115,,3047,1353,249,66,,,,,0.947
+1920,Pacific Coast International League,Seattle,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,2951,1413,257,60,,,,,0.945
+1920,Pacific Coast International League,Spokane,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,115,,2975,1411,263,88,,,,,0.943
 1920,Piedmont League,Greensboro,regular/first,,,40,20,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1920,Piedmont League,Raleigh,regular/first,,,32,26,,0.552,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1920,Piedmont League,Danville,regular/first,,,31,29,,0.517,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
