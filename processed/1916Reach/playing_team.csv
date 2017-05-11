@@ -95,6 +95,32 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1915,Central League,Terre Haute,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,5014,3276,1511,227,66,,,,,0.955
 1915,Central League,Fort Wayne,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,4906,3228,1452,226,48,,,,,0.954
 1915,Central League,Wheeling,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,5149,3287,1615,247,92,,,,,0.952
+1915,Florida-Alabama-Georgia League,Brunswick,regular/first,,,32,17,1,0.653,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Dothan,regular/first,,,28,19,3,0.596,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Waycross,regular/first,,,24,24,3,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Gainesville,regular/first,,,21,28,2,0.429,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Thomasvile,regular/first,,,19,26,3,0.422,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Valdosta,regular/first,,,18,28,4,0.391,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Valdosta,regular/second,,,17,5,1,0.773,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Waycross,regular/second,,,17,6,1,0.739,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Dothan,regular/second,,,17,7,1,0.708,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Ganesville,regular/second,,,8,14,2,0.364,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Thomasville,regular/second,,,6,17,0,0.261,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Brunswick,regular/second,,,4,20,0,0.167,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Valdosta,final,,,2,1,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Brunswick,final,,,1,2,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Dothan,regular,,,,,,,,,72,,2480,342,,666,,,,,,,,,,,,,,,,0.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Brunswick,regular,,,,,,,,,74,,2318,308,,608,,,,,,,,,,,,,,,,0.257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Gainesville,regular,,,,,,,,,75,,2446,288,,619,,,,,,,,,,,,,,,,0.253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Waycross,regular,,,,,,,,,75,,2294,311,,555,,,,,,,,,,,,,,,,0.243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Valdosta,regular,,,,,,,,,74,,2399,263,,584,,,,,,,,,,,,,,,,0.243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Thomasville,regular,,,,,,,,,71,,2286,238,,506,,,,,,,,,,,,,,,,0.221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1915,Florida-Alabama-Georgia League,Dothan,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,,2022,884,157,,,,,,0.948
+1915,Florida-Alabama-Georgia League,Valdosta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,74,,1967,919,156,,,,,,0.948
+1915,Florida-Alabama-Georgia League,Waycross,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,,2094,941,173,,,,,,0.946
+1915,Florida-Alabama-Georgia League,Brunswick,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,74,,1928,841,165,,,,,,0.944
+1915,Florida-Alabama-Georgia League,Thomasville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,74,,1834,801,178,,,,,,0.936
+1915,Florida-Alabama-Georgia League,Gainesville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,,2012,872,226,,,,,,0.929
 1915,Illinois-Indiana-Iowa League,Davenport,regular,,,76,52,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Illinois-Indiana-Iowa League,Rockford,regular,,,76,52,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Illinois-Indiana-Iowa League,Quincy,regular,,,65,56,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
