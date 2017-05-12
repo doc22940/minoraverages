@@ -49,7 +49,10 @@ class Workbook(object):
     @property
     def individual_batting(self):
         with open(self.fn) as f:
-            df = pd.read_excel(f, sheetname='Batting')
+            try:
+                df = pd.read_excel(f, sheetname='Batting')
+            except xlrd.biffh.XLRDError:
+                return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum(). \
                            apply(lambda x: 'B%04d%d' %
                                  (x, damm.encode("%04d" % x)))
