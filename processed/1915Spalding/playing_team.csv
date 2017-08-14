@@ -98,3 +98,17 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1914,Eastern Association,Waterbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120,,3231,1511,270,,,,,,0.9460000000000001
 1914,Eastern Association,New Britain,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3175,1521,268,,,,,,0.9460000000000001
 1914,Eastern Association,Hartford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118,,3241,1647,293,,,,,,0.9440000000000001
+1914,Georgia State League,Thomasville,regular/first,,,29,22,,0.569,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Cordele,regular/first,,,29,23,,0.558,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Valdosta,regular/first,,,28,25,,0.528,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Waycross,regular/first,,,28,26,,0.519,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Americus,regular/first,,,23,30,,0.434,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Brunswick,regular/first,,,21,32,,0.396,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Americus,regular/second,,,34,17,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Brunswick,regular/second,,,32,19,,0.627,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Cordele,regular/second,,,28,21,,0.571,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Waycross,regular/second,,,25,27,,0.481,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Thomasville,regular/second,,,24,28,,0.463,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Valdosta,regular/second,,,13,44,,0.228,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Americus,final,,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Georgia State League,Thomasville,final,,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
