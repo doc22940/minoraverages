@@ -23,6 +23,30 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1916,American Association,Minneapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,166,,4405,2140,297,137,0,16,,,0.957
 1916,American Association,St. Paul,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,168,,4424,2096,305,114,0,20,,,0.955
 1916,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,164,,4280,2088,370,124,1,31,,,0.945
+1916,Indiana-Illinois-Iowa League,Peoria,regular,,,84,50,,0.627,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Hannibal,regular,,,79,57,,0.581,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Bloomington,regular,,,76,56,,0.576,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Rockford,regular,,,67,66,,0.504,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Moline,regular,,,59,76,,0.437,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Rock Island,regular,,,57,76,,0.429,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Quincy,regular,,,57,77,,0.426,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Davenport,regular,,,56,76,,0.424,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Rockford,regular,,,,,,,,,,,4322,579,,1219,,,187,55,31,,,,,,,,,172,,0.282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Peoria,regular,,,,,,,,,,,4383,581,,1220,,,193,68,19,,,,,,,,,158,,0.278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Bloomington,regular,,,,,,,,,,,4371,604,,1190,,,154,68,31,,,,,,,,,161,,0.272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Hannibal,regular,,,,,,,,,,,4387,552,,1182,,,234,44,17,,,,,,,,,206,,0.269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Quincy,regular,,,,,,,,,,,4373,580,,1168,,,169,57,13,,,,,,,,,203,,0.265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Moline,regular,,,,,,,,,,,4283,579,,1097,,,169,67,17,,,,,,,,,138,,0.256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Davenport,regular,,,,,,,,,,,4191,496,,1065,,,178,68,10,,,,,,,,,126,,0.254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Rock Island,regular,,,,,,,,,,,4400,481,,1111,,,158,53,7,,,,,,,,,107,,0.252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Indiana-Illinois-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132,,3454,1677,187,66,,6,,,0.965
+1916,Indiana-Illinois-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3482,1629,213,88,,8,,,0.96
+1916,Indiana-Illinois-Iowa League,Rock Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,133,,3523,1969,226,90,,17,,,0.96
+1916,Indiana-Illinois-Iowa League,Rockford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3515,1747,245,82,,21,,,0.956
+1916,Indiana-Illinois-Iowa League,Hannibal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3566,1634,259,76,,12,,,0.952
+1916,Indiana-Illinois-Iowa League,Moline,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3491,1667,261,80,,16,,,0.952
+1916,Indiana-Illinois-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,133,,3393,1673,261,87,,26,,,0.951
+1916,Indiana-Illinois-Iowa League,Quincy,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3529,1605,276,89,,16,,,0.949
 1916,International League,Buffalo,regular,,,82,58,,0.586,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,International League,Providence,regular,,,76,62,,0.551,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,International League,Montreal,regular,,,75,64,,0.539,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
