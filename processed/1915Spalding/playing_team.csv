@@ -162,3 +162,17 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1914,Indiana-Illinois-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3512,1654,262,70,0,8,,,0.9520000000000001
 1914,Indiana-Illinois-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3549,1646,277,66,0,14,,,0.95
 1914,Indiana-Illinois-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3621,1689,280,71,1,11,,,0.9480000000000001
+1914,Interstate League,Jamestown,regular/first,,,35,18,,0.65,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Warren,regular/first,,,34,20,,0.63,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Bradford,regular/first,,,30,25,,0.545,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Olean,regular/first,,,23,30,,0.434,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Wellsville,regular/first,,,19,33,,0.365,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Hornell,regular/first,,,18,33,,0.353,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Bradford,regular/second,,,29,17,,0.63,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Jamestown,regular/second,,,24,22,,0.522,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Warren,regular/second,,,23,25,,0.479,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Olean,regular/second,,,20,23,,0.465,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Hornell,regular/second,,,21,25,,0.457,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Wellsville,regular/second,,,22,27,,0.449,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Jamestown,final,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Interstate League,Bradford,final,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
