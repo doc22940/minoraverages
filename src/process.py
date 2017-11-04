@@ -50,7 +50,7 @@ class Workbook(object):
     def individual_batting(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='Batting')
+                df = pd.read_excel(f, sheet_name='Batting')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum(). \
@@ -118,7 +118,7 @@ class Workbook(object):
     def individual_pitching(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='Pitching')
+                df = pd.read_excel(f, sheet_name='Pitching')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'P%04d%d' % (1000+x, damm.encode("%04d" % (1000+x))))
@@ -178,7 +178,7 @@ class Workbook(object):
     def individual_fielding(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='Fielding')
+                df = pd.read_excel(f, sheet_name='Fielding')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'F%04d%d' % (2000+x, damm.encode("%04d" % (2000+x))))
@@ -284,7 +284,7 @@ class Workbook(object):
     def individual_managing(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='Managing')
+                df = pd.read_excel(f, sheet_name='Managing')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=self._individual_managing_columns)
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'M%04d%d' % (9000+x, damm.encode("%04d" % (9000+x))))
@@ -305,7 +305,7 @@ class Workbook(object):
     def _team_standings(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='Standings')
+                df = pd.read_excel(f, sheet_name='Standings')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df.rename(inplace=True,
@@ -327,7 +327,7 @@ class Workbook(object):
     def _team_batting(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='TeamBatting')
+                df = pd.read_excel(f, sheet_name='TeamBatting')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df.rename(inplace=True,
@@ -363,7 +363,7 @@ class Workbook(object):
     def _team_pitching(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='TeamPitching')
+                df = pd.read_excel(f, sheet_name='TeamPitching')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df.rename(inplace=True,
@@ -402,7 +402,7 @@ class Workbook(object):
     def _team_fielding(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='TeamFielding')
+                df = pd.read_excel(f, sheet_name='TeamFielding')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df.rename(inplace=True,
@@ -429,7 +429,7 @@ class Workbook(object):
     def _team_attendance(self):
         with open(self.fn) as f:
             try:
-                df = pd.read_excel(f, sheetname='Attendance')
+                df = pd.read_excel(f, sheet_name='Attendance')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
         df.rename(inplace=True,
