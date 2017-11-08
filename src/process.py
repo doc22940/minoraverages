@@ -171,6 +171,7 @@ class Workbook(object):
                            'ERA':          'P_ERA',
                            'BK':           'P_BK',
                            'SB':           'P_SB',
+                           'AVG':          'P_AVG',
                            'ERA_RANK':     'P_ERA_RANK'})
         return df
 
@@ -249,7 +250,7 @@ class Workbook(object):
                 'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H',
                 'P_HR', 'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH',
                 'P_WP', 'P_BK', 'P_SB',
-                'P_ERA', 'P_ERA_RANK',
+                'P_ERA', 'P_ERA_RANK', 'P_AVG',
                 'F_1B_POS', 'F_1B_G', 'F_1B_TC', 'F_1B_PO', 'F_1B_A', 'F_1B_E',
                 'F_1B_DP', 'F_1B_TP', 'F_1B_PCT',
                 'F_2B_POS', 'F_2B_G', 'F_2B_TC', 'F_2B_PO', 'F_2B_A', 'F_2B_E',
@@ -479,7 +480,7 @@ def defloat_columns(df):
     df['league.year'] = df['league.year'].apply(int)
     for col in [x for x in df.columns
                 if (x[:2] in ["B_", "F_", "P_", "M_", "R_"] and
-                    x not in ["B_AVG", "P_IP", "P_ERA"] and
+                    x not in ["B_AVG", "P_IP", "P_ERA", "P_AVG"] and
                     x[-4:] != "_PCT") or
                     (x in ["S_FIRST", "S_LAST", "seq"])]:
         df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x)
