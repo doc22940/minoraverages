@@ -281,14 +281,14 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,California League,Modesto,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3566,1444,326,99,0,24,,,0.939
 1949,Canadian-American League,Quebec,regular,,,90,48,0,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Oneonta,regular,,,75,62,0,0.547,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Canadian-American League,Three Rivers,regular,,,75,64,0,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Trois-Rivieres,regular,,,75,64,0,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Pittsfield,regular,,,74,65,0,0.532,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Amsterdam,regular,,,67,71,1,0.486,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Gloversville-Johnstown,regular,,,65,74,0,0.468,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Schenectady,regular,,,58,80,1,0.42,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Rome,regular,,,48,88,0,0.353,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Quebec,semifinal,Semifinal 1,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Canadian-American League,Three Rivers,semifinal,Semifinal 1,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Trois-Rivieres,semifinal,Semifinal 1,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Oneonta,semifinal,Semifinal 2,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Pittsfield,semifinal,Semifinal 2,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Quebec,final,,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -297,7 +297,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Canadian-American League,Schenectady,regular,,,,,,,,115966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Gloversville-Johnstown,regular,,,,,,,,83638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Amsterdam,regular,,,,,,,,83449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Canadian-American League,Three Rivers,regular,,,,,,,,76672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Trois-Rivieres,regular,,,,,,,,76672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Oneonta,regular,,,,,,,,63217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Pittsfield,regular,,,,,,,,56674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Rome,regular,,,,,,,,40331,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -305,7 +305,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Canadian-American League,Pittsfield,regular,,,,,,,,,139,,4733,802,,1298,1908,,258,56,80,703,680,,767,,37,43,,72,,0.274,,,,,,,,,,,683,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Quebec,regular,,,,,,,,,138,,4541,853,,1227,1700,,210,40,61,743,749,,546,,34,87,,92,,0.272,,,,,,,,,,,623,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Oneonta,regular,,,,,,,,,137,,4688,760,,1241,1826,,178,109,63,670,640,,785,,31,65,,48,,0.265,,,,,,,,,,,687,,,,,,,,,,,,,,,,,,,,,,,
-1949,Canadian-American League,Three Rivers,regular,,,,,,,,,139,,4487,646,,1157,1522,,192,64,15,549,592,,673,,38,95,,170,,0.26,,,,,,,,,,,665,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Trois-Rivieres,regular,,,,,,,,,139,,4487,646,,1157,1522,,192,64,15,549,592,,673,,38,95,,170,,0.26,,,,,,,,,,,665,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Amsterdam,regular,,,,,,,,,139,,4606,832,,1179,1748,,217,50,84,740,813,,723,,33,66,,110,,0.256,,,,,,,,,,,811,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Rome,regular,,,,,,,,,136,,4457,550,,1085,1447,,205,29,33,477,555,,672,,20,54,,46,,0.243,,,,,,,,,,,824,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Schenectady,regular,,,,,,,,,139,,4565,607,,1073,1433,,160,25,50,511,701,,801,,32,63,,69,,0.235,,,,,,,,,,,714,,,,,,,,,,,,,,,,,,,,,,,
@@ -316,12 +316,12 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Canadian-American League,Quebec,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,,,90,48,0,0.652,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Rome,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,,,48,88,0,0.353,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Schenectady,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,58,80,1,0.42,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Canadian-American League,Three Rivers,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,75,64,0,0.54,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Canadian-American League,Trois-Rivieres,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,,,75,64,0,0.54,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Canadian-American League,Pittsfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3567,1591,202,137,0,16,,,0.962
 1949,Canadian-American League,Quebec,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3535,1435,216,96,0,18,,,0.958
 1949,Canadian-American League,Schenectady,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3567,1480,230,137,1,9,,,0.956
 1949,Canadian-American League,Oneonta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3564,1522,237,147,0,17,,,0.955
-1949,Canadian-American League,Three Rivers,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3507,1371,254,118,0,25,,,0.951
+1949,Canadian-American League,Trois-Rivieres,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3507,1371,254,118,0,25,,,0.951
 1949,Canadian-American League,Rome,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3419,1471,276,110,1,24,,,0.947
 1949,Canadian-American League,Gloversville-Johnstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3566,1456,286,142,1,16,,,0.946
 1949,Canadian-American League,Amsterdam,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3558,1550,307,141,0,16,,,0.943
@@ -899,7 +899,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Georgia State League,Douglas,regular,,,,,,,,,139,,4795,842,,1275,1682,,191,54,36,702,656,,609,,33,69,,176,,0.266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,137,,4655,785,,1204,1615,,170,29,61,686,693,,708,,46,109,,108,,0.259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Georgia State League,Dublin,regular,,,,,,,,,138,,4770,787,,1228,1846,,218,44,104,700,642,,594,,57,84,,104,,0.257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,138,,4697,696,,1150,1602,,193,44,57,595,644,,809,,27,42,,100,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Georgia State League,Hazlehurst-Baxley,regular,,,,,,,,,138,,4697,696,,1150,1602,,193,44,57,595,644,,809,,27,42,,100,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Georgia State League,Fitzgerald,regular,,,,,,,,,137,,4523,717,,1075,1443,,191,51,25,638,782,,726,,38,64,,137,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Georgia State League,Douglas,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3649,1579,233,124,0,,,,0.955
 1949,Georgia State League,Eastman,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3595,1417,238,72,0,,,,0.953
@@ -907,7 +907,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Georgia State League,Sparta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3628,1441,285,100,0,,,,0.944
 1949,Georgia State League,Dublin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3608,1568,323,104,0,,,,0.938
 1949,Georgia State League,Fitzgerald,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3516,1303,300,67,1,,,,0.938
-1949,Georgia State League,Hazelhurst-Baxley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3554,1459,318,113,0,,,,0.937
+1949,Georgia State League,Hazlehurst-Baxley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3554,1459,318,113,0,,,,0.937
 1949,Georgia State League,Vidalia-Lyons,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3558,1359,311,96,0,,,,0.937
 1949,Illinois-Indiana-Iowa League,Evansville,regular,,,74,51,0,0.592,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Illinois-Indiana-Iowa League,Waterloo,regular,,,70,56,0,0.556,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1183,7 +1183,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Mountain States League,Morristown,regular,,,72,52,0,0.581,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Middlesboro,regular,,,69,56,0,0.552,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Jenkins,regular,,,63,61,0,0.508,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Mountain States League,Pennington,regular,,,62,63,0,0.496,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,Mountain States League,Pennington Gap,regular,,,62,63,0,0.496,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Newport,regular,,,59,66,0,0.472,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Big Stone Gap,regular,,,55,70,0,0.44,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Hazard,regular,,,35,89,1,0.282,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1201,7 +1201,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Mountain States League,Jenkins,regular,,,,,,,,19654,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Pennington Gap,regular,,,,,,,,14820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Newport,regular,,,,,,,,14148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,Mountain States League,Pennington,regular,,,,,,,,,125,,4357,864,,1251,1673,,215,50,45,739,635,,729,,21,57,,101,,0.287,,,,,,,,,,,819,,,,,,,,,,,,,,,,,,,,,,,
+1949,Mountain States League,Pennington Gap,regular,,,,,,,,,125,,4357,864,,1251,1673,,215,50,45,739,635,,729,,21,57,,101,,0.287,,,,,,,,,,,819,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Jenkins,regular,,,,,,,,,124,,4197,733,,1192,1599,,197,38,45,631,561,,465,,22,42,,165,,0.284,,,,,,,,,,,651,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Harlan,regular,,,,,,,,,124,,4250,856,,1168,1539,,198,39,31,457,643,,725,,24,41,,209,,0.275,,,,,,,,,,,614,,,,,,,,,,,,,,,,,,,,,,,
 1949,Mountain States League,Middlesboro,regular,,,,,,,,,125,,4197,712,,1120,1449,,171,60,21,562,606,,529,,46,95,,125,,0.267,,,,,,,,,,,691,,,,,,,,,,,,,,,,,,,,,,,
@@ -1214,7 +1214,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,Mountain States League,Middlesboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3253,1402,262,94,,9,,,0.947
 1949,Mountain States League,Newport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3035,1383,256,116,,15,,,0.945
 1949,Mountain States League,Jenkins,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3178,1222,279,101,,19,,,0.94
-1949,Mountain States League,Pennington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3220,1372,296,124,,19,,,0.939
+1949,Mountain States League,Pennington Gap,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3220,1372,296,124,,19,,,0.939
 1949,Mountain States League,Hazard,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3061,1244,286,104,,32,,,0.938
 1949,Mountain States League,Big Stone Gap,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3149,1314,335,105,,30,,,0.93
 1949,North Atlantic League,Stroudsburg,regular,,,101,36,0,0.737,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1222,7 +1222,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,North Atlantic League,Mahanoy City,regular,,,71,63,1,0.53,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Peekskill,regular,,,64,75,0,0.46,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Carbondale,regular,,,63,76,1,0.453,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,North Atlantic League,Bangor-Berwick,regular,,,59,75,1,0.44,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,North Atlantic League,Bangor,regular,,,59,75,1,0.44,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Hazleton,regular,,,53,76,0,0.411,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Nazareth,regular,,,52,86,1,0.377,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Stroudsburg,semifinals,Semifinal 1,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1237,18 +1237,18 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1949,North Atlantic League,Lebanon,regular,,,,,,,,33000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Carbondale,regular,,,,,,,,28000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Peekskill,regular,,,,,,,,27300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1949,North Atlantic League,Bangor-Berwick,regular,,,,,,,,27112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1949,North Atlantic League,Bangor,regular,,,,,,,,27112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Nazareth,regular,,,,,,,,17716,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Stroudsburg,regular,,,,,,,,,137,,4723,925,,1403,2013,,233,94,63,799,601,,596,,28,68,,63,,0.297,,,,,,,,,,,488,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Lebanon,regular,,,,,,,,,138,,4716,885,,1371,1955,,248,78,60,740,527,,740,,37,61,,159,,0.291,,,,,,,,,,,657,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Peekskill,regular,,,,,,,,,139,,4634,762,,1266,1774,,191,85,49,627,592,,623,,31,60,,98,,0.273,,,,,,,,,,,802,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Mahanoy City,regular,,,,,,,,,135,,4520,676,,1214,1618,,186,79,20,568,526,,563,,33,57,,131,,0.269,,,,,,,,,,,680,,,,,,,,,,,,,,,,,,,,,,,
-1949,North Atlantic League,Bangor-Berwick,regular,,,,,,,,,135,,4491,679,,1204,1620,,207,55,33,572,598,,682,,29,83,,102,,0.268,,,,,,,,,,,846,,,,,,,,,,,,,,,,,,,,,,,
+1949,North Atlantic League,Bangor,regular,,,,,,,,,135,,4491,679,,1204,1620,,207,55,33,572,598,,682,,29,83,,102,,0.268,,,,,,,,,,,846,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Hazleton,regular,,,,,,,,,129,,4325,605,,1126,1483,,184,55,21,495,511,,730,,26,68,,77,,0.26,,,,,,,,,,,757,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Carbondale,regular,,,,,,,,,140,,4618,666,,1169,1535,,207,48,21,553,574,,613,,25,65,,82,,0.253,,,,,,,,,,,719,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Nazareth,regular,,,,,,,,,139,,4570,585,,1114,1448,,160,57,20,481,489,,855,,40,77,,99,,0.244,,,,,,,,,,,834,,,,,,,,,,,,,,,,,,,,,,,
 1949,North Atlantic League,Stroudsburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3538,1454,234,117,0,17,,,0.955
-1949,North Atlantic League,Bangor-Berwick,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,3399,1510,239,129,0,19,,,0.954
+1949,North Atlantic League,Bangor,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,3399,1510,239,129,0,19,,,0.954
 1949,North Atlantic League,Peekskill,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3493,1491,255,119,0,25,,,0.951
 1949,North Atlantic League,Lebanon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3443,1304,250,109,0,20,,,0.95
 1949,North Atlantic League,Mahanoy City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,3421,1528,290,119,0,17,,,0.945
