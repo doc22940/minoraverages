@@ -507,13 +507,13 @@ def process_source(source):
                             ignore_index=True)
     ind_playing = defloat_columns(ind_playing)
     ind_playing.to_csv("processed/%s/playing_individual.csv" % source,
-                       index=False)
+                       index=False, encoding='utf-8')
 
     ind_managing = pd.concat([book.individual_managing for book in xlsbooks],
                              ignore_index=True)
     ind_managing = defloat_columns(ind_managing)
     ind_managing.to_csv("processed/%s/managing_individual.csv" % source,
-                        index=False)
+                        index=False, encoding='utf-8')
 
     try:
         team_playing = pd.concat([ent
@@ -522,7 +522,8 @@ def process_source(source):
                                   if ent is not None],
                                  ignore_index=True)
         team_playing = defloat_columns(team_playing)
-        team_playing.to_csv("processed/%s/playing_team.csv" % source, index=False)
+        team_playing.to_csv("processed/%s/playing_team.csv" % source, 
+                            index=False, encoding='utf-8')
     except ValueError as exc:
         if "No objects to concatenate" not in str(exc):
             raise
