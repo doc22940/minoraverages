@@ -1,4 +1,20 @@
 league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_CG,P_SHO,P_GF,P_W,P_L,P_T,P_PCT,P_IP,P_AB,P_R,P_ER,P_H,P_HR,P_BB,P_IBB,P_SO,P_HP,P_SH,P_SF,P_WP,P_BK,P_ERA,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1914,California State League,Fresno,regular,,,20,15,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,San Jose,regular,,,20,16,,0.556,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,Stockton,regular,,,17,19,,0.472,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,Modesto,regular,,,14,21,,0.4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,Stockton,regular,,,,,,,,,36,,1222,156,,302,,,46,7,4,,,,,,21,68,,38,,0.247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,Fresno,regular,,,,,,,,,35,,1129,141,,274,,,45,3,7,,,,,,15,72,,47,,0.242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,San Jose,regular,,,,,,,,,36,,1161,145,,277,,,32,14,0,,,,,,8,55,,61,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,Modesto,regular,,,,,,,,,35,,984,99,,225,,,34,3,2,,,,,,10,27,,25,,0.231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,California State League,Fresno,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,31,4,,20,15,,0.571,316.0,,123,,304,,43,,167,8,,,5,1,,,,,,,,,,,,
+1914,California State League,San Jose,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,31,3,,20,16,,0.555,318.1,,158,,261,,113,,146,16,,,8,1,,,,,,,,,,,,
+1914,California State League,Stockton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,28,1,,17,19,,0.472,326.1,,142,,255,,119,,184,15,,,4,0,,,,,,,,,,,,
+1914,California State League,Modesto,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,33,4,,14,21,,0.4,316.2,,118,,258,,100,,148,15,,,4,1,,,,,,,,,,,,
+1914,California State League,Modesto,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,,943,470,79,16,,4,,,0.947
+1914,California State League,Stockton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,,963,449,89,27,,11,,,0.941
+1914,California State League,Fresno,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,,983,401,88,23,,3,,,0.94
+1914,California State League,San Jose,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,,953,429,89,19,,5,,,0.939
 1915,Buckeye League,Lima,regular,,,25,18,,0.581,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Buckeye League,Findlay,regular,,,22,19,,0.537,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Buckeye League,Akron,regular,,,22,21,,0.512,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
