@@ -193,6 +193,40 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1916,Pacific Coast League,San Francisco,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,,5499,2673,327,,,,,,0.962
 1916,Pacific Coast League,Los Angeles,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,199,,5282,2583,312,,,,,,0.962
 1916,Pacific Coast League,Portland,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,194,,5153,2447,328,,,,,,0.959
+1916,South Atlantic League,Augusta,regular/first,,,37,23,,0.617,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Charleston,regular/first,,,33,26,,0.559,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Columbia,regular/first,,,32,26,,0.552,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Jacksonville,regular/first,,,32,27,,0.542,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Montgomery,regular/first,,,29,33,,0.468,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Columbus,regular/first,,,28,32,,0.467,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Macon,regular/first,,,26,32,,0.448,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Albany,regular/first,,,20,32,,0.345,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Columbia,regular/second,,,41,24,,0.631,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Charleston,regular/second,,,36,29,,0.554,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Columbus,regular/second,,,37,30,,0.552,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Augusta,regular/second,,,31,32,,0.484,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Macon,regular/second,,,29,35,,0.453,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Jacksonville,regular/second,,,25,38,,0.397,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Albany,regular/second,,,10,15,,0.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Montgomery,regular/second,,,13,14,,0.481,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Augusta,finals,,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Columbia,finals,,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Columbia,regular,,,,,,,,,130,,4156,585,,1104,,,,,,,,,,,,221,,251,,0.266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Macon,regular,,,,,,,,,130,,4280,549,,1060,,,,,,,,,,,,232,,290,,0.248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Augusta,regular,,,,,,,,,133,,4147,466,,1024,,,,,,,,,,,,223,,206,,0.247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Jacksonville,regular,,,,,,,,,126,,4015,506,,982,,,,,,,,,,,,145,,178,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Columbus,regular,,,,,,,,,127,,4044,480,,981,,,,,,,,,,,,192,,189,,0.243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Montgomery,regular,,,,,,,,,94,,2995,390,,708,,,,,,,,,,,,94,,141,,0.24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Charleston,regular,,,,,,,,,128,,4003,437,,893,,,,,,,,,,,,195,,187,,0.223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Albany,regular,,,,,,,,,86,,2608,274,,562,,,,,,,,,,,,117,,120,,0.215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,South Atlantic League,Charleston,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3411,1747,238,,,,,,0.956
+1916,South Atlantic League,Augusta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,133,,3514,1704,253,,,,,,0.954
+1916,South Atlantic League,Columbia,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3430,1799,200,,,,,,0.953
+1916,South Atlantic League,Jacksonville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3223,1575,275,,,,,,0.945
+1916,South Atlantic League,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3396,1652,296,,,,,,0.945
+1916,South Atlantic League,Montgomery,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,94,,2433,1280,219,,,,,,0.944
+1916,South Atlantic League,Albany,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,,2191,1110,216,,,,,,0.939
+1916,South Atlantic League,Macon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,,3448,1486,330,,,,,,0.937
 1916,Southern Association,Nashville,regular,,,84,54,,0.609,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Southern Association,New Orleans,regular,,,73,61,,0.544,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Southern Association,Birmingham,regular,,,69,62,,0.526,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
