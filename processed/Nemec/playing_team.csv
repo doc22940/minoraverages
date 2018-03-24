@@ -15,6 +15,16 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1914,California State League,Stockton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,,963,449,89,27,,11,,,0.941
 1914,California State League,Fresno,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,,983,401,88,23,,3,,,0.94
 1914,California State League,San Jose,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,,953,429,89,19,,5,,,0.939
+1914,Illinois-Missouri League,Champaign,regular/first,,,36,12,0,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,Kankakee,regular/first,,,14,32,1,0.304,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,LaSalle,regular/first,,,14,32,0,0.304,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,Lincoln,regular/first,,,32,15,0,0.681,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,Ottawa,regular/first,,,23,22,0,0.511,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,Streator,regular/first,,,21,27,1,0.438,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,Champaign,regular/second,,,26,16,0,0.619,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,LaSalle,regular/second,,,14,27,0,0.341,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,Ottawa,regular/second,,,23,18,0,0.561,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914,Illinois-Missouri League,Streator,regular/second,,,19,21,0,0.45,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Buckeye League,Lima,regular,,,25,18,,0.581,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Buckeye League,Findlay,regular,,,22,19,,0.537,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1915,Buckeye League,Akron,regular,,,22,21,,0.512,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
