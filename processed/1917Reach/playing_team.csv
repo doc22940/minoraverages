@@ -161,6 +161,32 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1916,New York State League,Utica,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,131,,3269,1644,234,,,,,,0.955
 1916,New York State League,Wilkes-Barre,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3248,1495,224,,,,,,0.955
 1916,New York State League,Scranton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,3040,1533,235,,,,,,0.951
+1916,North Carolina State League,Asheville,regular/first,,,33,21,,0.611,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Winston-Salem,regular/first,,,30,22,,0.577,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Charlotte,regular/first,,,31,22,,0.514,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Durham,regular/first,,,27,28,,0.491,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Raleigh,regular/first,,,25,27,,0.481,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Greensboro,regular/first,,,14,39,,0.264,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Charlotte,regular/second,,,38,20,,0.655,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Durham,regular/second,,,34,23,,0.596,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Winston-Salem,regular/second,,,32,27,,0.542,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Greensboro,regular/second,,,31,27,,0.534,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Asheville,regular/second,,,25,32,,0.439,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Raleigh,regular/second,,,13,44,,0.228,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Charlotte,finals,,,4,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Asheville,finals,,,0,4,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Winston-Salem,regular,,,,,,,,,,,3731,526,,1079,1350,,,,,,,,,,,131,,153,,0.289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Asheville,regular,,,,,,,,,,,3695,468,,991,1308,,,,,,,,,,,122,,75,,0.268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Charlotte,regular,,,,,,,,,,,3764,497,,977,1391,,,,,,,,,,,143,,187,,0.259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Durham,regular,,,,,,,,,,,3679,495,,936,1218,,,,,,,,,,,156,,193,,0.254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Raleigh,regular,,,,,,,,,,,3614,366,,859,1131,,,,,,,,,,,134,,113,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Greensboro,regular,,,,,,,,,,,3537,352,,823,1032,,,,,,,,,,,123,,116,,0.233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,North Carolina State League,Asheville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2929,1515,195,,,,,,0.958
+1916,North Carolina State League,Winston-Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2918,1341,215,,,,,,0.954
+1916,North Carolina State League,Durham,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2999,1261,219,,,,,,0.951
+1916,North Carolina State League,Greensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2910,1284,254,,,,,,0.943
+1916,North Carolina State League,Charlotte,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2127,1374,253,,,,,,0.942
+1916,North Carolina State League,Raleigh,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2805,1358,242,,,,,,0.94
 1916,Northern League,Winnipeg,regular/first,,,35,26,,0.574,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Northern League,Duluth,regular/first,,,34,28,,0.548,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Northern League,Superior,regular/first,,,29,34,,0.547,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
