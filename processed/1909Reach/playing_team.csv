@@ -1,4 +1,28 @@
 league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_CG,P_SHO,P_GF,P_W,P_L,P_T,P_PCT,P_IP,P_AB,P_R,P_ER,P_H,P_HR,P_BB,P_IBB,P_SO,P_HP,P_SH,P_SF,P_WP,P_BK,P_ERA,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1908,American Association,Indianapolis,regular,,,92,61,,0.601,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Louisville,regular,,,88,65,,0.575,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Columbus,regular,,,86,68,,0.558,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Toledo,regular,,,81,72,,0.53,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Minneapolis,regular,,,77,77,,0.5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Milwaukee,regular,,,71,83,,0.461,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Kansas City,regular,,,70,83,,0.456,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,St. Paul,regular,,,48,104,,0.316,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,St. Paul,regular,,,,,,,,,154,,4952,569,,1310,1662,,236,31,18,,,,,,,172,,152,,0.264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Toledo,regular,,,,,,,,,154,,4949,604,,1308,1711,,252,35,27,,,,,,,201,,199,,0.263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Indianapolis,regular,,,,,,,,,155,,4930,536,,1233,1576,,156,62,21,,,,,,,247,,200,,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Columbus,regular,,,,,,,,,155,,5038,610,,1236,1586,,190,56,16,,,,,,,240,,199,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Louisville,regular,,,,,,,,,153,,4822,550,,1169,1474,,159,40,22,,,,,,,218,,230,,0.242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Minneapolis,regular,,,,,,,,,156,,4789,504,,1122,1428,,153,42,23,,,,,,,163,,162,,0.234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Kansas City,regular,,,,,,,,,156,,4917,556,,1144,1417,,177,36,8,,,,,,,212,,223,,0.233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Milwaukee,regular,,,,,,,,,154,,4878,543,,1129,1501,,204,45,26,,,,,,,195,,169,,0.231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,American Association,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,6279,4154,1913,212,,,,,,0.966
+1908,American Association,Indianapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,6454,4123,2099,232,,,,,,0.964
+1908,American Association,Louisville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153,6327,4077,2005,245,,,,,,0.961
+1908,American Association,Kansas City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,156,6587,4146,2163,278,,,,,,0.958
+1908,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6179,3978,1905,296,,,,,,0.952
+1908,American Association,Toledo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6237,3977,1949,311,,,,,,0.95
+1908,American Association,Minneapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,156,6235,3944,1970,321,,,,,,0.948
+1908,American Association,St. Paul,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6294,3940,1934,420,,,,,,0.933
 1908,Arkansas State League,Hot Springs,regular,,,78,68,,0.672,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Arkansas State League,Newport,regular,,,65,44,,0.596,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Arkansas State League,Helena,regular,,,67,48,,0.583,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
