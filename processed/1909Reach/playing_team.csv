@@ -29,6 +29,38 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Arkansas State League,Pine Bluff,regular,,,51,61,,0.455,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Arkansas State League,Argenta,regular,,,49,68,,0.419,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Arkansas State League,Poplar Bluff/Brinkley,regular,,,28,79,,0.262,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Springfield,regular,,,84,41,,0.672,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Hartford,regular,,,84,42,,0.667,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,New Haven,regular,,,63,63,,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,New Britain,regular,,,61,64,,0.488,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Holyoke,regular,,,60,66,,0.473,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Bridgeport,regular,,,55,71,,0.437,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Meriden,regular,,,54,72,,0.429,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Waterbury,regular,,,42,84,,0.333,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Hartford,regular,,,,,,,,,126,,4080,496,,968,,,,,,,,,,,,,,,,0.235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,New Britain,regular,,,,,,,,,125,,4094,464,,933,,,,,,,,,,,,,,,,0.232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Bridgeport,regular,,,,,,,,,127,,4295,446,,986,,,,,,,,,,,,,,,,0.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,New Haven,regular,,,,,,,,,128,,4194,517,,59,,,,,,,,,,,,,,,,0.229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Springfield,regular,,,,,,,,,127,,4158,528,,949,,,,,,,,,,,,,,,,0.228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Holyoke,regular,,,,,,,,,127,,4190,452,,931,,,,,,,,,,,,,,,,0.222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Meriden,regular,,,,,,,,,127,,4098,429,,902,,,,,,,,,,,,,,,,0.22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Waterbury,regular,,,,,,,,,126,,4081,430,,889,,,,,,,,,,,,,,,,0.218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,173,59,16,,,,,,,203,,294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,New Haven,regular,,,,,,,,,,,,,,,,,159,35,26,,,,,,,184,,238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Hartford,regular,,,,,,,,,,,,,,,,,149,43,11,,,,,,,186,,234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Meriden,regular,,,,,,,,,,,,,,,,,137,28,5,,,,,,,162,,184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,139,27,3,,,,,,,149,,175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,New Britain,regular,,,,,,,,,,,,,,,,,158,24,27,,,,,,,193,,174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,162,22,32,,,,,,,156,,150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,165,35,12,,,,,,,181,,125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Connecticut State League,Hartford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3402,1516,232,,,,,,0.955
+1908,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3445,1560,244,,,,,,0.954
+1908,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3405,1709,314,,,,,,0.942
+1908,Connecticut State League,New Britain,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3354,1739,318,,,,,,0.941
+1908,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3344,1722,331,,,,,,0.939
+1908,Connecticut State League,Meriden,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3351,1592,343,,,,,,0.935
+1908,Connecticut State League,New Haven,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,3460,1671,364,,,,,,0.933
+1908,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3384,1599,362,,,,,,0.932
 1908,Cotton States League,Jackson,regular,,,68,42,,0.618,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Cotton States League,Vicksburg,regular,,,66,49,,0.574,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Cotton States League,Gulfport-Biloxi,regular,,,63,52,,0.548,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
