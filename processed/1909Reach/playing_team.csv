@@ -127,6 +127,30 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Eastern League,Baltimore,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,144,,3832,1908,291,,,,,,0.952
 1908,Eastern League,Rochester,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,,3773,1956,321,,,,,,0.946
 1908,Eastern League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3766,1752,322,,,,,,0.945
+1908,Illinois-Indiana-Iowa League,Springfield,regular,,,82,54,,0.603,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Decatur,regular,,,77,59,,0.572,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,69,63,,0.523,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Peoria,regular,,,66,67,,0.496,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Dubuque,regular,,,67,69,,0.493,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Bloomington,regular,,,64,73,,0.467,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Rock Island,regular,,,59,76,,0.437,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Clinton,regular,,,55,78,,0.414,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,4321,537,,1083,,,,,,,,,,,,262,,269,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,4480,532,,1066,,,,,,,,,,,,252,,237,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,4424,489,,1024,,,,,,,,,,,,180,,250,,0.231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,4395,416,,1005,,,,,,,,,,,,199,,141,,0.229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,4442,459,,1002,,,,,,,,,,,,216,,191,,0.226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,4391,448,,947,,,,,,,,,,,,173,,192,,0.216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,4382,369,,931,,,,,,,,,,,,158,,137,,0.212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Clinton,regular,,,,,,,,,,,4247,346,,869,,,,,,,,,,,,204,,247,,0.205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3621,1679,244,,,,,,0.956
+1908,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3743,1844,277,,,,,,0.953
+1908,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3676,1536,262,,,,,,0.952
+1908,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3296,1652,250,,,,,,0.952
+1908,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3561,1726,269,,,,,,0.952
+1908,Illinois-Indiana-Iowa League,Clinton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3558,1818,274,,,,,,0.952
+1908,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3693,1793,322,,,,,,0.945
+1908,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3643,1846,323,,,,,,0.944
 1908,New England League,Worcester,regular,,,80,44,,0.645,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,New England League,Lawrence,regular,,,75,49,,0.605,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,New England League,Haverhill,regular,,,71,52,,0.577,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
