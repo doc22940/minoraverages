@@ -274,6 +274,8 @@ class Workbook(object):
                 'F_ALL_G', 'F_ALL_TC', 'F_ALL_PO', 'F_ALL_A', 'F_ALL_E',
                 'F_ALL_DP', 'F_ALL_TP', 'F_ALL_PCT']
         for col in ['person.name.last', 'person.name.given']:
+            if col not in df:
+                df[col] = None
             df[col] = df[col].fillna("").astype(unicode)
             df[col] = df[col].str.replace(unichr(8220), '"')
             df[col] = df[col].str.replace(unichr(8221), '"')
