@@ -284,7 +284,7 @@ class Workbook(object):
         return self._standardize_columns(df, cols)
 
     _individual_managing_columns = \
-      ['league.year', 'league.name',
+      ['league.year', 'league.name', 'phase.name',
        'entry.name', 'seq', 'person.ref',
        'person.name.last', 'person.name.given',
        'S_FIRST', 'S_LAST']
