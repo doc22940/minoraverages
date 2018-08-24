@@ -267,6 +267,24 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Pacific Coast League,Portland,regular,,,95,90,,0.514,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Pacific Coast League,San Francisco,regular,,,100,104,,0.49,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Pacific Coast League,Oakland,regular,,,83,116,,0.417,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Uniontown,regular,,,68,41,,0.624,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Clarksburg,regular,,,71,48,,0.597,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Charleroi,regular,,,61,58,,0.513,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Connellsville,regular,,,54,56,,0.491,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Fairmont,regular,,,55,64,,0.462,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Grafton,regular,,,36,80,,0.31,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Charleroi,regular,,,,,,,,,119,,3308,314,,830,,,,,,,,,,,,118,,108,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Grafton,regular,,,,,,,,,116,,2530,275,,618,,,,,,,,,,,,71,,93,,0.244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Fairmont,regular,,,,,,,,,119,,3359,388,,818,,,,,,,,,,,,147,,86,,0.244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Clarksburg,regular,,,,,,,,,119,,3407,424,,798,,,,,,,,,,,,155,,152,,0.234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Uniontown,regular,,,,,,,,,109,,3067,349,,708,,,,,,,,,,,,122,,135,,0.231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Connellsville,regular,,,,,,,,,110,,3181,346,,703,,,,,,,,,,,,121,,123,,0.221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Pennsylvania-West Virginia League,Uniontown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109,,2647,1062,139,,,,,,0.964
+1908,Pennsylvania-West Virginia League,Charleroi,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,2517,1244,145,,,,,,0.963
+1908,Pennsylvania-West Virginia League,Fairmont,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,2756,1192,168,,,,,,0.959
+1908,Pennsylvania-West Virginia League,Clarksburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,3049,1326,204,,,,,,0.953
+1908,Pennsylvania-West Virginia League,Connellsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,110,,2622,1382,245,,,,,,0.942
+1908,Pennsylvania-West Virginia League,Grafton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,1752,1033,184,,,,,,0.938
 1908,South Atlantic League,Jacksonville,regular,,,77,34,,0.694,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,South Atlantic League,Savannah,regular,,,64,45,,0.587,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,South Atlantic League,Augusta,regular,,,51,59,,0.464,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
