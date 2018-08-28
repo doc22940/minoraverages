@@ -101,6 +101,11 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1916,Eastern League,New Haven,regular,,,55,65,,0.458,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Eastern League,Bridgeport,regular,,,44,78,,0.361,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Eastern League,Hartford,regular,,,38,79,,0.325,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,East Texas League,Palestine,regular,,,,,,0.584,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,East Texas League,Lufkin,regular,,,,,,0.572,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,East Texas League,Nacogdoches,regular,,,,,,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,East Texas League,Rusk,regular,,,,,,0.412,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,East Texas League,Crockett,regular,,,,,,0.35,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Georgia-Alabama League,Rome,regular,,,43,22,,0.662,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Georgia-Alabama League,Newnan,regular,,,41,26,,0.612,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Georgia-Alabama League,LaGrange,regular,,,39,29,,0.574,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -197,6 +202,17 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1916,Interstate League,Olean,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,1714,1056,566,92,28,,,,,0.946
 1916,Interstate League,Johnsonburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,2889,1883,844,162,33,,,,,0.944
 1916,Interstate League,Erie,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,2775,1736,868,171,56,,,,,0.938
+1916,Kentucky-Illinois-Tennessee League,Clarksville,regular/first,,,35,14,,0.715,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Henderson,regular/first,,,32,17,,0.654,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Owensboro,regular/first,,,26,22,,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Dawson Springs,regular/first,,,23,25,,0.48,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Madisonville,regular/first,,,18,31,,0.363,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Hopkinsville,regular/first,,,13,36,,0.26,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Owensboro,regular/second,,,15,7,,0.682,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Clarksville,regular/second,,,13,10,,0.565,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Henderson,regular/second,,,12,11,,0.523,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Dawson Springs,regular/second,,,9,15,,0.375,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Kentucky-Illinois-Tennessee League,Hopkinsville,regular/second,,,9,13,,0.3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,New York State League,Syracuse,regular,,,81,52,,0.609,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,New York State League,Scranton,regular,,,67,52,,0.563,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,New York State League,Binghamton,regular,,,69,61,,0.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -285,6 +301,16 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1916,Northwestern League,Tacoma,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3307,1641,236,114,,,,,0.953
 1916,Northwestern League,Vancouver,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3461,1741,262,128,,,,,0.952
 1916,Northwestern League,Butte,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3363,1653,306,82,,,,,0.942
+1916,Ohio State League,Portsmouth,regular/first,,,45,15,,0.75,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Lexington,regular/first,,,37,22,,0.627,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Maysville,regular/first,,,25,33,,0.431,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Charleston,regular/first,,,24,34,,0.414,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Frankfort,regular/first,,,24,35,,0.407,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Huntington,regular/first,,,22,38,,0.367,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Chillicothe,regular/second,,,5,1,,0.833,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Lexington,regular/second,,,2,2,,0.5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Portsmouth,regular/second,,,2,4,,0.333,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1916,Ohio State League,Maysville,regular/second,,,1,3,,0.25,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Pacific Coast League,Los Angeles,regular,,,119,79,,0.601,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Pacific Coast League,Vernon,regular,,,115,91,,0.558,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1916,Pacific Coast League,Salt Lake,regular,,,99,96,,0.507,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
