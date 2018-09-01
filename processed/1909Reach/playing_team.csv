@@ -29,6 +29,24 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Arkansas State League,Pine Bluff,regular,,,51,61,,0.455,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Arkansas State League,Argenta,regular,,,49,68,,0.419,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Arkansas State League,Poplar Bluff/Brinkley,regular,,,28,79,,0.262,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Greensboro,regular,,,51,38,,0.573,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Greenville,regular,,,48,36,,0.571,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Spartanburg,regular,,,49,39,,0.557,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Winston-Salem,regular,,,41,48,,0.461,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Charlotte,regular,,,40,47,,0.46,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Anderson,regular,,,32,53,,0.376,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Greenville,regular,,,,,,,,,88,,2983,349,,732,,,,,,,,,,,,,,,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Winston-Salem,regular,,,,,,,,,93,,3032,318,,691,,,,,,,,,,,,,,,,0.228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Greensboro,regular,,,,,,,,,93,,2967,286,,636,,,,,,,,,,,,,,,,0.214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Spartanburg,regular,,,,,,,,,91,,2987,302,,681,,,,,,,,,,,,,,,,0.228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Charlotte,regular,,,,,,,,,90,,2923,238,,577,,,,,,,,,,,,,,,,0.197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Anderson,regular,,,,,,,,,90,,2837,229,,554,,,,,,,,,,,,,,,,0.195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Carolina Association,Greenville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,,,1041,186,,,,,,0.948
+1908,Carolina Association,Greensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,,,1191,213,,,,,,0.944
+1908,Carolina Association,Spartanburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91,,,1166,217,,,,,,0.943
+1908,Carolina Association,Winston-Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,,,1131,219,,,,,,0.943
+1908,Carolina Association,Charlotte,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,,,1091,220,,,,,,0.942
+1908,Carolina Association,Anderson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,,,975,222,,,,,,0.937
 1908,Central Association,Waterloo,regular,,,88,37,,0.704,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Central Association,Burlington,regular,,,83,41,,0.67,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Central Association,Quincy,regular,,,73,55,,0.57,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
