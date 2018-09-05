@@ -321,6 +321,10 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,South Atlantic League,Charleston,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3069,1478,232,,,,,,0.951
 1908,South Atlantic League,Augusta,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3210,1616,251,,,,,,0.95
 1908,South Atlantic League,Macon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3043,1406,253,,,,,,0.946
+1908,South Carolina League,Sumter,regular,,,41,27,,0.603,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,South Carolina League,Chester,regular,,,40,30,,0.571,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,South Carolina League,Rock Hill,regular,,,28,40,,0.412,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,South Carolina League,Orangeburg,regular,,,27,39,,0.409,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Southern Association,Nashville,regular,,,75,56,,0.573,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Southern Association,New Orleans,regular,,,76,57,,0.571,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Southern Association,Memphis,regular,,,73,62,,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
