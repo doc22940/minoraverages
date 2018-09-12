@@ -129,6 +129,10 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Cotton States League,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3134,1367,216,,,,,,0.954
 1908,Cotton States League,Vicksburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3099,1478,228,,,,,,0.952
 1908,Cotton States League,Monroe,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3111,1592,273,,,,,,0.945
+1908,Eastern Carolina League,Wilmington,regular/second,,,22,12,,0.647,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Eastern Carolina League,Wilson,regular/second,,,19,12,,0.613,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Eastern Carolina League,Goldsboro,regular/second,,,18,16,,0.529,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Eastern Carolina League,Raleigh,regular/second,,,8,27,,0.229,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Eastern League,Baltimore,regular,,,83,57,,0.593,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Eastern League,Providence,regular,,,79,57,,0.581,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Eastern League,Newark,regular,,,79,58,,0.577,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -153,6 +157,12 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Eastern League,Baltimore,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,144,,3832,1908,291,,,,,,0.952
 1908,Eastern League,Rochester,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,,3773,1956,321,,,,,,0.946
 1908,Eastern League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3766,1752,322,,,,,,0.945
+1908,Gulf Coast League,Lake Charles,regular,,,18,9,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Gulf Coast League,Orange,regular,,,15,16,,0.484,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Gulf Coast League,Alexandria,regular,,,14,15,,0.483,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Gulf Coast League,Morgan City,regular,,,14,15,,0.483,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Gulf Coast League,Beaumont,regular,,,11,13,,0.458,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Gulf Coast League,Crowley,regular,,,13,17,,0.433,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Illinois-Indiana-Iowa League,Springfield,regular,,,82,54,,0.603,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Illinois-Indiana-Iowa League,Decatur,regular,,,77,59,,0.572,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,69,63,,0.523,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -183,6 +193,10 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Illinois-Missouri League,Canton,regular,,,56,61,,0.479,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Illinois-Missouri League,Monmouth,regular,,,55,62,,0.47,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Illinois-Missouri League,Galesburg,regular,,,49,67,,0.422,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,International League,Hamilton,regular,,,22,18,,0.55,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,International League,St. Thomas,regular,,,22,20,,0.524,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,International League,London,regular,,,20,21,,0.489,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,International League,Niagara Falls,regular,,,19,24,,0.432,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,New England League,Worcester,regular,,,80,44,,0.645,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,New England League,Lawrence,regular,,,75,49,,0.605,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,New England League,Haverhill,regular,,,71,52,,0.577,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
