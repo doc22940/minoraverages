@@ -286,7 +286,7 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Ohio-Pennsylvania League,Canton,regular,,,65,54,,0.546,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,Sharon,regular,,,62,56,,0.525,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,Youngstown,regular,,,58,60,,0.492,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1908,Ohio-Pennsylvania League,Newcastle,regular,,,47,70,,0.402,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Ohio-Pennsylvania League,New Castle,regular,,,47,70,,0.402,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,McKeesport,regular,,,44,72,,0.379,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,Erie,regular,,,42,79,,0.347,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,Akron,regular,,,,,,,,,,,3838,533,,1062,1412,,,,,,,,,,,196,,241,,0.277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -295,12 +295,12 @@ league.year,league.name,entry.name,phase.name,division.name,R_G,R_W,R_L,R_T,R_PC
 1908,Ohio-Pennsylvania League,Sharon,regular,,,,,,,,,,,3614,391,,865,1083,,,,,,,,,,,186,,203,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,Canton,regular,,,,,,,,,,,3769,429,,889,1152,,,,,,,,,,,166,,174,,0.236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,McKeesport,regular,,,,,,,,,,,3696,370,,843,1173,,,,,,,,,,,146,,110,,0.228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1908,Ohio-Pennsylvania League,Newcastle,regular,,,,,,,,,,,3643,320,,828,1032,,,,,,,,,,,145,,136,,0.227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1908,Ohio-Pennsylvania League,New Castle,regular,,,,,,,,,,,3643,320,,828,1032,,,,,,,,,,,145,,136,,0.227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,Erie,regular,,,,,,,,,,,3678,306,,822,1060,,,,,,,,,,,161,,111,,0.223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1908,Ohio-Pennsylvania League,Akron,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3103,1454,160,,,,,,0.966
 1908,Ohio-Pennsylvania League,Canton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3116,1740,181,,,,,,0.964
 1908,Ohio-Pennsylvania League,East Liverpool,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2923,1475,223,,,,,,0.952
-1908,Ohio-Pennsylvania League,Newcastle,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3034,1428,243,,,,,,0.948
+1908,Ohio-Pennsylvania League,New Castle,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3034,1428,243,,,,,,0.948
 1908,Ohio-Pennsylvania League,Sharon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2950,1369,243,,,,,,0.947
 1908,Ohio-Pennsylvania League,Youngstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3100,1398,250,,,,,,0.947
 1908,Ohio-Pennsylvania League,McKeesport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3029,1420,249,,,,,,0.947
