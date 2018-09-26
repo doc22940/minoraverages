@@ -1,0 +1,25 @@
+league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_CG,P_SHO,P_GF,P_W,P_L,P_T,P_PCT,P_IP,P_AB,P_R,P_ER,P_H,P_HR,P_BB,P_IBB,P_SO,P_HP,P_SH,P_SF,P_WP,P_BK,P_ERA,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1909,American Association,Louisville,regular,,,,,93,75,,0.554,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Milwaukee,regular,,,,,90,77,,0.539,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Minneapolis,regular,,,,,88,79,,0.527,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Indianapolis,regular,,,,,83,85,,0.494,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,St. Paul,regular,,,,,80,83,,0.491,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Toledo,regular,,,,,80,86,,0.482,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Columbus,regular,,,,,80,87,,0.479,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Kansas City,regular,,,,,71,93,,0.433,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Columbus,regular,,,,,,,,,,,168,,5857,644,,1447,1843,,205,73,15,,,,,,,277,,187,,0.247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Toledo,regular,,,,,,,,,,,170,,5403,614,,1302,1667,,200,51,21,,,,,,,217,,197,,0.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Minneapolis,regular,,,,,,,,,,,167,,5213,546,,1258,1614,,191,60,15,,,,,,,185,,195,,0.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,St. Paul,regular,,,,,,,,,,,165,,4717,465,,1120,1463,,197,34,26,,,,,,,173,,145,,0.237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Indianapolis,regular,,,,,,,,,,,169,,5423,578,,1279,1584,,185,45,10,,,,,,,254,,183,,0.236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Louisville,regular,,,,,,,,,,,170,,5297,511,,1237,1529,,169,42,13,,,,,,,198,,203,,0.233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Milwaukee,regular,,,,,,,,,,,174,,5452,592,,1266,1595,,188,39,21,,,,,,,227,,193,,0.232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Kansas City,regular,,,,,,,,,,,167,,5093,516,,1171,1448,,165,38,12,,,,,,,224,,180,,0.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,American Association,Louisville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170,6949,4452,2235,262,,,,,,0.962
+1909,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,174,6953,4547,2105,301,,,,,,0.956
+1909,American Association,Toledo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170,6856,4431,2114,311,,,,,,0.954
+1909,American Association,Indianapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,169,6984,4439,2230,315,,,,,,0.954
+1909,American Association,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,168,7552,4696,2505,351,,,,,,0.953
+1909,American Association,Minneapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,167,6855,4378,2141,336,,,,,,0.95
+1909,American Association,St. Paul,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,165,5877,3891,1697,289,,,,,,0.95
+1909,American Association,Kansas City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,167,6712,4252,2123,337,,,,,,0.949
