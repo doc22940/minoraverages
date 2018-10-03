@@ -23,3 +23,27 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1909,American Association,Minneapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,167,6855,4378,2141,336,,,,,,0.95
 1909,American Association,St. Paul,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,165,5877,3891,1697,289,,,,,,0.95
 1909,American Association,Kansas City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,167,6712,4252,2123,337,,,,,,0.949
+1909,Connecticut State League,Hartford,regular,,,,,74,44,,0.627,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Holyoke,regular,,,,,68,53,,0.562,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,New Britain,regular,,,,,64,55,,0.538,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Waterbury,regular,,,,,64,61,,0.512,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Springfield,regular,,,,,60,63,,0.488,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,New Haven,regular,,,,,59,65,,0.476,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Northampton,regular,,,,,54,68,,0.443,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Bridgeport,regular,,,,,44,78,,0.361,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,New Britain,regular,,,,,,,,,,,,,4085,618,,1133,,,,,,,,,,,,,,,,0.272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,4061,586,,1050,,,,,,,,,,,,,,,,0.258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,New Haven,regular,,,,,,,,,,,,,4099,580,,1030,,,,,,,,,,,,,,,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Springfield,regular,,,,,,,,,,,,,4203,593,,1056,,,,,,,,,,,,,,,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,4282,671,,1066,,,,,,,,,,,,,,,,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Hartford,regular,,,,,,,,,,,,,4245,591,,1059,,,,,,,,,,,,,,,,0.249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,4174,518,,1023,,,,,,,,,,,,,,,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Northampton,regular,,,,,,,,,,,,,4058,588,,956,,,,,,,,,,,,,,,,0.235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Connecticut State League,Hartford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3400,1556,240,,,,,,0.954
+1909,Connecticut State League,Northampton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3338,1581,315,,,,,,0.94
+1909,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3336,1608,314,,,,,,0.94
+1909,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3286,1662,339,,,,,,0.936
+1909,Connecticut State League,New Haven,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3250,1549,336,,,,,,0.934
+1909,Connecticut State League,New Britain,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3198,1545,341,,,,,,0.933
+1909,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3248,1603,356,,,,,,0.932
+1909,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3362,1483,365,,,,,,0.93
