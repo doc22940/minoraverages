@@ -23,6 +23,10 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1907,American Association,St. Paul,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,157,6077,3894,1864,319,,,,,,0.947
 1907,American Association,Minneapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153,6194,3958,1912,324,,,,,,0.947
 1907,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6226,3958,1927,341,,,,,,0.945
+1907,Pacific Coast League,Los Angeles,regular,,,,,115,74,,0.608,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Pacific Coast League,San Francisco,regular,,,,,104,99,,0.515,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Pacific Coast League,Oakland,regular,,,,,97,101,,0.489,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Pacific Coast League,Portland,regular,,,,,72,114,,0.388,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,South Carolina League,Sumter,regular,,,,,44,23,,0.651,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,South Carolina League,Orangeburg,regular,,,,,42,25,,0.627,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,South Carolina League,Spartanburg,regular,,,,,36,34,,0.514,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
