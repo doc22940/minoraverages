@@ -47,6 +47,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1907,Eastern League,Baltimoe,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3658,1880,306,,,,,,0.948
 1907,Eastern League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132,,3434,1682,287,,,,,,0.947
 1907,Eastern League,Providence,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3523,1663,309,,,,,,0.944
+1907,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,86,46,,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Decatur,regular,,,,,80,47,,0.63,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Springfield,regular,,,,,81,50,,0.618,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Peoria,regular,,,,,77,52,,0.597,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,72,61,,0.541,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Clinton,regular,,,,,53,78,,0.405,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,51,79,,0.392,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,22,109,,0.169,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,4305,511,,1009,1267,,,,,,,,,,,142,,229,,0.234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,4283,504,,986,1250,,,,,,,,,,,195,,150,,0.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,4182,480,,962,1212,,,,,,,,,,,196,,239,,0.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,4240,451,,958,1177,,,,,,,,,,,151,,146,,0.226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,4381,479,,985,1259,,,,,,,,,,,154,,164,,0.225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Clinton,regular,,,,,,,,,,,,,4283,354,,925,1114,,,,,,,,,,,164,,180,,0.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,4102,344,,842,1018,,,,,,,,,,,131,,145,,0.205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,4067,252,,764,868,,,,,,,,,,,117,,110,,0.188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5386,3481,1693,212,,,,,,0.961
+1907,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5676,3624,1805,247,,,,,,0.956
+1907,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5465,3533,1691,241,,,,,,0.956
+1907,Illinois-Indiana-Iowa League,Clinton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5579,3553,1750,276,,,,,,0.951
+1907,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5275,3562,1450,265,,,,,,0.95
+1907,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5505,3479,1731,295,,,,,,0.946
+1907,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5459,3463,1694,302,,,,,,0.945
+1907,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5374,3364,1636,374,,,,,,0.93
 1907,Pacific Coast League,Los Angeles,regular,,,,,115,74,,0.608,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Pacific Coast League,San Francisco,regular,,,,,104,99,,0.515,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Pacific Coast League,Oakland,regular,,,,,97,101,,0.489,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
