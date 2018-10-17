@@ -23,6 +23,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1907,American Association,St. Paul,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,157,6077,3894,1864,319,,,,,,0.947
 1907,American Association,Minneapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153,6194,3958,1912,324,,,,,,0.947
 1907,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6226,3958,1927,341,,,,,,0.945
+1907,Connecticut State League,Holyoke,regular,,,,,80,44,,0.645,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Waterbury,regular,,,,,77,47,,0.621,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Springfield,regular,,,,,73,48,,0.603,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Norwich,regular,,,,,71,51,,0.582,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Hartford,regular,,,,,67,55,,0.549,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Bridgeport,regular,,,,,49,75,,0.395,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,New Haven,regular,,,,,44,81,,0.352,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,New London,regular,,,,,32,92,,0.258,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Springfield,regular,,,,,,,,,,,,,4068,611,,1069,,,,,,,,,,,,,,,,0.263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,4092,565,,1029,,,,,,,,,,,,,,,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,4219,492,,1025,,,,,,,,,,,,,,,,0.243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Norwich,regular,,,,,,,,,,,,,3974,474,,954,,,,,,,,,,,,,,,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,4117,580,,984,,,,,,,,,,,,,,,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Hartford,regular,,,,,,,,,,,,,3946,512,,937,,,,,,,,,,,,,,,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,New Haven,regular,,,,,,,,,,,,,3990,446,,917,,,,,,,,,,,,,,,,0.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,New London,regular,,,,,,,,,,,,,4178,394,,873,,,,,,,,,,,,,,,,0.209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3347,1734,267,,,,,,0.95
+1907,Connecticut State League,Norwich,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3292,1573,288,,,,,,0.944
+1907,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3217,1536,286,,,,,,0.943
+1907,Connecticut State League,New Haven,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3284,1647,299,,,,,,0.943
+1907,Connecticut State League,Hartford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3259,1507,315,,,,,,0.939
+1907,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3315,1542,329,,,,,,0.937
+1907,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3289,1563,364,,,,,,0.93
+1907,Connecticut State League,New London,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3264,1678,445,,,,,,0.918
 1907,Eastern League,Toronto,regular,,,,,83,51,,0.619,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Eastern League,Buffalo,regular,,,,,73,59,,0.553,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Eastern League,Providence,regular,,,,,72,63,,0.533,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
