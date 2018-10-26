@@ -55,6 +55,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1909,Connecticut State League,New Britain,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3198,1545,341,,,,,,0.933
 1909,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3248,1603,356,,,,,,0.932
 1909,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3362,1483,365,,,,,,0.93
+1909,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,90,48,,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Springfield,regular,,,,,81,53,,0.604,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Davenport,regular,,,,,77,59,,0.566,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,70,67,,0.511,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Peoria,regular,,,,,69,67,,0.507,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,64,71,,0.474,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Decatur,regular,,,,,63,73,,0.463,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,31,107,,0.225,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,4368,520,,1063,1376,,153,59,14,,,,,,,211,,253,,0.243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,4544,526,,1095,1423,,161,46,25,,,,,,,171,,168,,0.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,4361,447,,1049,1287,,135,38,9,,,,,,,226,,245,,0.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,4696,475,,1123,1476,,148,74,19,,,,,,,212,,164,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,4555,468,,1090,1351,,142,49,7,,,,,,,180,,287,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,4410,483,,946,1142,,109,33,7,,,,,,,201,,182,,0.215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,4275,380,,903,1136,,119,39,12,,,,,,,194,,174,,0.211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,4535,330,,900,1096,,92,37,10,,,,,,,139,,155,,0.198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3718,1664,212,,,,,,0.962
+1909,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3788,1710,228,,,,,,0.96
+1909,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3556,1773,233,,,,,,0.958
+1909,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3622,1561,255,,,,,,0.953
+1909,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3683,1844,297,,,,,,0.949
+1909,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3621,2098,310,,,,,,0.949
+1909,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3668,1645,326,,,,,,0.942
+1909,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3679,1902,376,,,,,,0.937
 1909,New England League,Worcester,regular,,,,,77,47,,0.621,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,New England League,Brockton,regular,,,,,75,48,,0.61,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,New England League,Lynn,regular,,,,,74,49,,0.602,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
