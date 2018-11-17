@@ -57,13 +57,14 @@ class Workbook(object):
                            apply(lambda x: 'B%04d%d' %
                                  (x, damm.encode("%04d" % x)))
         df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
-        if 'nameClub2' in df:
-            df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
-        else:
-            df['S_STINT'] = '0'
-        multiclub = df[df['S_STINT'] == 'T']
-        clubs = self._compute_stints(multiclub, 'G')
-        df = pd.concat([df, clubs], ignore_index=True)
+        if 'S_STINT' not in df:
+            if 'nameClub2' in df:
+                df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
+            else:
+                df['S_STINT'] = '0'
+            multiclub = df[df['S_STINT'] == 'T']
+            clubs = self._compute_stints(multiclub, 'G')
+            df = pd.concat([df, clubs], sort=False, ignore_index=True)
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
         df.sort_values(['person.ref', 'S_STINT'], inplace=True)
@@ -80,7 +81,11 @@ class Workbook(object):
         for col in ['dateFirst', 'dateLast']:
             if col in df:
                 df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x) else x)
-
+                df[col] = df[col].fillna("")
+                df[col] = df.apply(lambda x: str(int(x['year']))+x[col].rjust(4, '0')
+                                   if len(x[col])>0 and len(x[col])<8
+                                   else x[col], axis=1)
+                
         df.rename(inplace=True,
                   columns={'year':         'league.year',
                            'nameLeague':   'league.name',
@@ -123,13 +128,14 @@ class Workbook(object):
                 return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'P%04d%d' % (1000+x, damm.encode("%04d" % (1000+x))))
         df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
-        if 'nameClub2' in df:
-            df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
-        else:
-            df['S_STINT'] = '0'
-        multiclub = df[df['S_STINT'] == 'T']
-        clubs = self._compute_stints(multiclub, 'GP')
-        df = pd.concat([df, clubs], ignore_index=True)
+        if 'S_STINT' not in df:
+            if 'nameClub2' in df:
+                df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
+            else:
+                df['S_STINT'] = '0'
+            multiclub = df[df['S_STINT'] == 'T']
+            clubs = self._compute_stints(multiclub, 'GP')
+            df = pd.concat([df, clubs], sort=False, ignore_index=True)
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
         df.sort_values(['person.ref', 'S_STINT'], inplace=True)
@@ -184,13 +190,14 @@ class Workbook(object):
                 return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'F%04d%d' % (2000+x, damm.encode("%04d" % (2000+x))))
         df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
-        if 'nameClub2' in df:
-            df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
-        else:
-            df['S_STINT'] = '0'
-        multiclub = df[df['S_STINT'] == 'T']
-        clubs = self._compute_stints(multiclub, 'G')
-        df = pd.concat([df, clubs], ignore_index=True)
+        if 'S_STINT' not in df:
+            if 'nameClub2' in df:
+                df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
+            else:
+                df['S_STINT'] = '0'
+            multiclub = df[df['S_STINT'] == 'T']
+            clubs = self._compute_stints(multiclub, 'G')
+            df = pd.concat([df, clubs], sort=False, ignore_index=True)
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
         df.sort_values(['person.ref', 'S_STINT'], inplace=True)
@@ -230,7 +237,7 @@ class Workbook(object):
         df = pd.concat([self.individual_batting,
                         self.individual_pitching,
                         self.individual_fielding],
-                       ignore_index=True)
+                       sort=False, ignore_index=True)
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         df['phase.name'] = df['phase.name'].fillna('regular')
@@ -323,6 +330,8 @@ class Workbook(object):
                            'nameClub':  'entry.name',
                            'phase':     'phase.name',
                            'division':  'division.name',
+                           'dateFirst': 'S_FIRST',
+                           'dateLast':  'S_LAST',
                            'W':       'R_W',
                            'L':       'R_L',
                            'T':       'R_T',
@@ -459,7 +468,7 @@ class Workbook(object):
                                  self._team_batting,
                                  self._team_pitching,
                                  self._team_fielding],
-                                ignore_index=True)
+                                sort=False, ignore_index=True)
         except ValueError as exc:
             if "No objects" in str(exc):
                 return None
@@ -467,6 +476,7 @@ class Workbook(object):
                 raise
         columns = [ 'league.year', 'league.name',
                     'entry.name', 'phase.name', 'division.name',
+                    'S_FIRST', 'S_LAST',
                     'R_G', 'R_W', 'R_L', 'R_T', 'R_PCT', 'R_RANK', 'R_ATT',
                     'B_G', 'B_IP', 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_TB',
                     'B_1B', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
