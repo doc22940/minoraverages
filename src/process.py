@@ -501,7 +501,7 @@ def defloat_columns(df):
                     x not in ["B_AVG", "P_IP", "P_ERA", "P_AVG"] and
                     x[-4:] != "_PCT") or
                     (x in ["S_FIRST", "S_LAST", "seq"])]:
-        df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x)
+        df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x) and x!=""
                                 else x)
     return df
 
