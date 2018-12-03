@@ -113,6 +113,12 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1907,Eastern League,Baltimoe,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,,3658,1880,306,,,,,,0.948
 1907,Eastern League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132,,3434,1682,287,,,,,,0.947
 1907,Eastern League,Providence,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3523,1663,309,,,,,,0.944
+1907,Empire State League,Oswego,regular,,,,,55,29,,0.655,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Empire State League,Seneca Falls,regular,,,,,56,32,,0.636,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Empire State League,Auburn,regular,,,,,44,39,,0.53,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Empire State League,Fulton,regular,,,,,43,42,,0.506,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Empire State League,Geneva,regular,,,,,34,51,,0.4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Empire State League,Lyons,regular,,,,,25,64,,0.281,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,86,46,,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Illinois-Indiana-Iowa League,Decatur,regular,,,,,80,47,,0.63,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Illinois-Indiana-Iowa League,Springfield,regular,,,,,81,50,,0.618,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
