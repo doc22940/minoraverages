@@ -23,6 +23,8 @@ import pandas as pd
 import damm
 
 class Workbook(object):
+    """Encapsulates access to a statistics workbook.
+    """
     def __init__(self, fn):
         self.fn = fn
 
@@ -48,6 +50,8 @@ class Workbook(object):
 
     @property
     def individual_batting(self):
+        """Return a DataFrame containing data from the Batting sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='Batting')
@@ -56,7 +60,7 @@ class Workbook(object):
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum(). \
                            apply(lambda x: 'B%04d%d' %
                                  (x, damm.encode("%04d" % x)))
-        df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
+        df.rename(inplace=True, columns={'nameClub': 'nameClub1'})
         if 'S_STINT' not in df:
             if 'nameClub2' in df:
                 df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
@@ -75,17 +79,20 @@ class Workbook(object):
 
         if 'Pos' in df:
             for pos in ['P', 'C', '1B', '2B', '3B', 'SS', 'OF']:
-                df['F_%s_POS' % pos] = df[~df.Pos.isnull()]['Pos'].apply(lambda x: 1 if pos in x.split("-") else 0)
+                df['F_%s_POS' % pos] = df[~df.Pos.isnull()]['Pos'] \
+                                         .apply(lambda x:
+                                                1 if pos in x.split("-") else 0)
         # These are captured as YYYYMMDD - make sure they are treated as
         # strings and not floats
         for col in ['dateFirst', 'dateLast']:
             if col in df:
                 df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x) else x)
                 df[col] = df[col].fillna("")
-                df[col] = df.apply(lambda x: str(int(x['year']))+x[col].rjust(4, '0')
-                                   if len(x[col])>0 and len(x[col])<8
+                df[col] = df.apply(lambda x:
+                                   str(int(x['year']))+x[col].rjust(4, '0')
+                                   if 0 < len(x[col]) < 8
                                    else x[col], axis=1)
-                
+
         df.rename(inplace=True,
                   columns={'year':         'league.year',
                            'nameLeague':   'league.name',
@@ -121,13 +128,18 @@ class Workbook(object):
 
     @property
     def individual_pitching(self):
+        """Return a DataFrame containing data from the Pitching sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='Pitching')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
-        df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'P%04d%d' % (1000+x, damm.encode("%04d" % (1000+x))))
-        df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
+        df['person.ref'] = (~df['nameLast'].isnull()).cumsum() \
+                            .apply(lambda x:
+                                   'P%04d%d' % (1000+x,
+                                                damm.encode("%04d" % (1000+x))))
+        df.rename(inplace=True, columns={'nameClub': 'nameClub1'})
         if 'S_STINT' not in df:
             if 'nameClub2' in df:
                 df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
@@ -183,13 +195,18 @@ class Workbook(object):
 
     @property
     def individual_fielding(self):
+        """Return a DataFrame containing data from the Fielding sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='Fielding')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=['league.year'])
-        df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'F%04d%d' % (2000+x, damm.encode("%04d" % (2000+x))))
-        df.rename(inplace=True, columns={ 'nameClub': 'nameClub1' })
+        df['person.ref'] = (~df['nameLast'].isnull()).cumsum() \
+                            .apply(lambda x:
+                                   'F%04d%d' % (2000+x,
+                                                damm.encode("%04d" % (2000+x))))
+        df.rename(inplace=True, columns={'nameClub': 'nameClub1'})
         if 'S_STINT' not in df:
             if 'nameClub2' in df:
                 df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
@@ -234,6 +251,8 @@ class Workbook(object):
 
     @property
     def individual_playing(self):
+        """Return a DataFrame containing all individual playing data.
+        """
         df = pd.concat([self.individual_batting,
                         self.individual_pitching,
                         self.individual_fielding],
@@ -287,7 +306,7 @@ class Workbook(object):
             df[col] = df[col].str.replace(unichr(8220), '"')
             df[col] = df[col].str.replace(unichr(8221), '"')
             df[col] = df[col].str.replace(unichr(8217), "'")
-            
+
         return self._standardize_columns(df, cols)
 
     _individual_managing_columns = \
@@ -298,12 +317,17 @@ class Workbook(object):
 
     @property
     def individual_managing(self):
+        """Return a DataFrame containing data from the Managing sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='Managing')
             except xlrd.biffh.XLRDError:
                 return pd.DataFrame(columns=self._individual_managing_columns)
-        df['person.ref'] = (~df['nameLast'].isnull()).cumsum().apply(lambda x: 'M%04d%d' % (9000+x, damm.encode("%04d" % (9000+x))))
+        df['person.ref'] = (~df['nameLast'].isnull()).cumsum() \
+                           .apply(lambda x:
+                                  'M%04d%d' % (9000+x,
+                                               damm.encode("%04d" % (9000+x))))
         df.rename(inplace=True,
                   columns={'year':          'league.year',
                            'nameLeague':    'league.name',
@@ -319,6 +343,8 @@ class Workbook(object):
 
     @property
     def _team_standings(self):
+        """Return a DataFrame containing data from the standings sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='Standings')
@@ -343,6 +369,8 @@ class Workbook(object):
 
     @property
     def _team_batting(self):
+        """Return a DataFrame containing data from the TeamBatting sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='TeamBatting')
@@ -379,6 +407,8 @@ class Workbook(object):
 
     @property
     def _team_pitching(self):
+        """Return a DataFrame containing data from the TeamPitching sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='TeamPitching')
@@ -418,6 +448,8 @@ class Workbook(object):
 
     @property
     def _team_fielding(self):
+        """Return a DataFrame containing data from the TeamFielding sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='TeamFielding')
@@ -445,6 +477,8 @@ class Workbook(object):
 
     @property
     def _team_attendance(self):
+        """Return a DataFrame containing data from the Attendance sheet.
+        """
         with open(self.fn) as f:
             try:
                 df = pd.read_excel(f, sheet_name='Attendance')
@@ -462,6 +496,8 @@ class Workbook(object):
 
     @property
     def team_playing(self):
+        """Return a DataFrame containing team performance data.
+        """
         try:
             playing = pd.concat([self._team_standings,
                                  self._team_attendance,
@@ -474,34 +510,36 @@ class Workbook(object):
                 return None
             else:
                 raise
-        columns = [ 'league.year', 'league.name',
-                    'entry.name', 'phase.name', 'division.name',
-                    'S_FIRST', 'S_LAST',
-                    'R_G', 'R_W', 'R_L', 'R_T', 'R_PCT', 'R_RANK', 'R_ATT',
-                    'B_G', 'B_IP', 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_TB',
-                    'B_1B', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
-                    'B_BB', 'B_IBB', 'B_SO', 'B_GDP', 'B_HP',
-                    'B_SH', 'B_SF', 'B_SB', 'B_CS',
-                    'B_AVG',
-                    'P_G', 'P_CG', 'P_SHO', 'P_GF',
-                    'P_W', 'P_L', 'P_T', 'P_PCT',
-                    'P_IP', 'P_AB', 'P_R', 'P_ER', 'P_H', 'P_HR',
-                    'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH', 'P_SF',
-                    'P_WP', 'P_BK', 'P_ERA',
-                    'F_G', 'F_TC', 'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP',
-                    'F_PB', 'F_XI', 'F_LOB', 'F_PCT' ]
+        columns = ['league.year', 'league.name',
+                   'entry.name', 'phase.name', 'division.name',
+                   'S_FIRST', 'S_LAST',
+                   'R_G', 'R_W', 'R_L', 'R_T', 'R_PCT', 'R_RANK', 'R_ATT',
+                   'B_G', 'B_IP', 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_TB',
+                   'B_1B', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
+                   'B_BB', 'B_IBB', 'B_SO', 'B_GDP', 'B_HP',
+                   'B_SH', 'B_SF', 'B_SB', 'B_CS',
+                   'B_AVG',
+                   'P_G', 'P_CG', 'P_SHO', 'P_GF',
+                   'P_W', 'P_L', 'P_T', 'P_PCT',
+                   'P_IP', 'P_AB', 'P_R', 'P_ER', 'P_H', 'P_HR',
+                   'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH', 'P_SF',
+                   'P_WP', 'P_BK', 'P_ERA',
+                   'F_G', 'F_TC', 'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP',
+                   'F_PB', 'F_XI', 'F_LOB', 'F_PCT']
         return self._standardize_columns(playing, columns)
 
 def defloat_columns(df):
     """Convert columns which should be integers to strings.  This deals with
-    pandas' usage of floats for numeric columns which can have nulls."""
+    pandas' usage of floats for numeric columns which can have nulls.
+    """
     df['league.year'] = df['league.year'].apply(int)
     for col in [x for x in df.columns
                 if (x[:2] in ["B_", "F_", "P_", "M_", "R_"] and
-                    x not in ["B_AVG", "P_IP", "P_ERA", "P_AVG"] and
-                    x[-4:] != "_PCT") or
-                    (x in ["S_FIRST", "S_LAST", "seq"])]:
-        df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x) and x!=""
+                        x not in ["B_AVG", "P_IP", "P_ERA", "P_AVG"] and
+                        x[-4:] != "_PCT") or
+                   (x in ["S_FIRST", "S_LAST", "seq"])]:
+        df[col] = df[col].apply(lambda x:
+                                str(int(x)) if not pd.isnull(x) and x != ""
                                 else x)
     return df
 
@@ -540,7 +578,7 @@ def process_source(source):
                                   if ent is not None],
                                  ignore_index=True)
         team_playing = defloat_columns(team_playing)
-        team_playing.to_csv("processed/%s/playing_team.csv" % source, 
+        team_playing.to_csv("processed/%s/playing_team.csv" % source,
                             index=False, encoding='utf-8')
     except ValueError as exc:
         if "No objects to concatenate" not in str(exc):
