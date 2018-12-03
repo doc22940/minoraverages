@@ -17,7 +17,12 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 """
+from __future__ import print_function
+from __future__ import unicode_literals
 
+from builtins import chr
+from builtins import str
+from builtins import object
 import xlrd
 import pandas as pd
 import damm
@@ -302,10 +307,10 @@ class Workbook(object):
         for col in ['person.name.last', 'person.name.given']:
             if col not in df:
                 df[col] = None
-            df[col] = df[col].fillna("").astype(unicode)
-            df[col] = df[col].str.replace(unichr(8220), '"')
-            df[col] = df[col].str.replace(unichr(8221), '"')
-            df[col] = df[col].str.replace(unichr(8217), "'")
+            df[col] = df[col].fillna("").astype(str)
+            df[col] = df[col].str.replace(chr(8220), '"')
+            df[col] = df[col].str.replace(chr(8221), '"')
+            df[col] = df[col].str.replace(chr(8217), "'")
 
         return self._standardize_columns(df, cols)
 
@@ -549,9 +554,9 @@ def process_source(source):
     """
     books = [fn for fn in glob.glob("transcript/%s/*.xls" % source)
              if not "~" in fn]
-    print "Processing source %s" % source
+    print("Processing source %s" % source)
     for book in books:
-        print "  %s" % book
+        print("  %s" % book)
     xlsbooks = [Workbook(fn) for fn in books]
 
     try:
@@ -584,7 +589,7 @@ def process_source(source):
         if "No objects to concatenate" not in str(exc):
             raise
 
-    print
+    print()
 
 if __name__ == '__main__':
     import glob
