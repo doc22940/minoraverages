@@ -195,6 +195,18 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1907,New York State League,Syracuse,regular,,,,,61,75,,0.448,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,New York State League,Binghamton,regular,,,,,51,83,,0.376,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,New York State League,AJG,regular,,,,,39,95,,0.291,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Winnipeg,regular,,,,,70,27,,0.722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Duluth,regular,,,,,49,53,,0.48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Houghton,regular,,,,,47,55,,0.461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Calumet,regular,,,,,34,65,,0.343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Winnipeg,regular,,,,,,,,,,,98,,3041,425,,766,,,,,,,,,,,,136,,266,,0.252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Houghton,regular,,,,,,,,,,,105,,3292,426,,818,,,,,,,,,,,,117,,184,,0.248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Calumet,regular,,,,,,,,,,,102,,2756,297,,648,,,,,,,,,,,,111,,127,,0.235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Duluth,regular,,,,,,,,,,,103,,3516,404,,819,,,,,,,,,,,,151,,155,,0.233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1907,Northern Copper Country League,Winnipeg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,,2462,1319,221,,,,,,0.945
+1907,Northern Copper Country League,Houghton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,,2469,1234,289,,,,,,0.928
+1907,Northern Copper Country League,Calumet,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,,1901,1182,240,,,,,,0.928
+1907,Northern Copper Country League,Duluth,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,,2873,1375,289,,,,,,0.936
 1907,Northwestern League,Aberdeen,regular,,,,,85,51,,0.625,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Northwestern League,Tacoma,regular,,,,,90,59,,0.604,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,Northwestern League,Seattle,regular,,,,,83,65,,0.561,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
