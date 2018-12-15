@@ -333,6 +333,16 @@ class Workbook(object):
                            .apply(lambda x:
                                   'M%04d%d' % (9000+x,
                                                damm.encode("%04d" % (9000+x))))
+        # These are captured as YYYYMMDD - make sure they are treated as
+        # strings and not floats
+        for col in ['dateFirst', 'dateLast']:
+            if col in df:
+                df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x) else x)
+                df[col] = df[col].fillna("")
+                df[col] = df.apply(lambda x:
+                                   str(int(x['year']))+x[col].rjust(4, '0')
+                                   if 0 < len(x[col]) < 8
+                                   else x[col], axis=1)
         df.rename(inplace=True,
                   columns={'year':          'league.year',
                            'nameLeague':    'league.name',
