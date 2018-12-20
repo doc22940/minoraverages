@@ -23,3 +23,11 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1906,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6235,4060,1862,313,,,,,,0.95
 1906,American Association,Kansas City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,156,6559,4077,2137,345,,,,,,0.947
 1906,American Association,Indianapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,6689,4109,2211,369,,,,,,0.945
+1906,Southern Association,Birmingham,regular,,,,,86,46,,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Southern Association,Memphis,regular,,,,,79,55,,0.59,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Southern Association,Atlanta,regular,,,,,80,56,,0.588,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Southern Association,New Orleans,regular,,,,,75,61,,0.551,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Southern Association,Shreveport,regular,,,,,70,66,,0.515,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Southern Association,Montgomery,regular,,,,,64,65,,0.496,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Southern Association,Nashville,regular,,,,,45,92,,0.328,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Southern Association,Little Rock,regular,,,,,40,98,,0.29,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
