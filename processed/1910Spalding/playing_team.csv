@@ -181,6 +181,18 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1909,Ohio-Pennsylvania League,Youngstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3314,1542,275,,,,,,0.946
 1909,Ohio-Pennsylvania League,Erie,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2952,1451,252,,,,,,0.946
 1909,Ohio-Pennsylvania League,Steubenville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3191,1551,276,,,,,,0.945
+1909,Pennsylvania-West Virginia League,Fairmont,regular/first,,,,,23,17,,0.653,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Uniontown,regular/first,,,,,28,22,,0.56,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Connellsville,regular/first,,,,,27,26,,0.509,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Grafton,regular/first,,,,,26,27,,0.491,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Clarksburg,regular/first,,,,,21,29,,0.42,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Charleroi/Parkersburg,regular/first,,,,,16,29,,0.356,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Uniontown,regular/second,,,,,35,22,,0.614,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Grafton,regular/second,,,,,29,28,,0.509,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Fairmont,regular/second,,,,,29,32,,0.475,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Connellsville,regular/second,,,,,26,30,,0.464,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Uniontown,finals,,,,,4,3,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Pennsylvania-West Virginia League,Fairmont,finals,,,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,South Atlantic League,Chattanooga,regular/first,,,,,45,16,,0.738,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,South Atlantic League,Columbus,regular/first,,,,,40,25,,0.615,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,South Atlantic League,Augusta,regular/first,,,,,31,35,,0.464,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
