@@ -83,10 +83,17 @@ class Workbook(object):
         df.loc[df['S_STINT'] == 'T', 'nameClub1'] = None
 
         if 'Pos' in df:
-            for pos in ['P', 'C', '1B', '2B', '3B', 'SS', 'OF']:
+            for pos in ['P', 'C', '1B', '2B', '3B', 'SS', 'OF', 'LF', 'CF', 'RF']:
                 df['F_%s_POS' % pos] = df[~df.Pos.isnull()]['Pos'] \
                                          .apply(lambda x:
                                                 1 if pos in x.split("-") else 0)
+        else:
+            for pos in ['P', 'C', '1B', '2B', '3B', 'SS', 'OF', 'LF', 'CF', 'RF']:
+                if 'F_%s_G' % pos in df:
+                    df['F_%s_POS' % pos] = df['F_%s_G' % pos] \
+                                            .apply(lambda x:
+                                                   1 if not pd.isnull(x) and x>0
+                                                   else 0)
         # These are captured as YYYYMMDD - make sure they are treated as
         # strings and not floats
         for col in ['dateFirst', 'dateLast']:
