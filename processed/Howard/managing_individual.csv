@@ -7,6 +7,21 @@ league.year,league.name,phase.name,entry.name,seq,person.ref,person.name.last,pe
 1907,American Association,regular,Minneapolis,0,M90060,Dundon,"August J. ""Gus""*",,
 1907,American Association,regular,St. Paul,0,M90071,Ashenbach,"Edward Michael ""Ed""",,
 1907,American Association,regular,Toledo,0,M90083,Armour,"William R. ""Bill""*",,
+1907,Atlantic League,regular,Allentown,0,M90018,McKinnon,Hugh,,
+1907,Atlantic League,regular,Brooklyn,0,M90026,Hussey,"Ambrose W., Jr.",,
+1907,Atlantic League,regular,Chester,1,M90039,Quinn,John F.,,19070601
+1907,Atlantic League,regular,Chester,2,M90047,Castle,John F.*,19070602,19070622
+1907,Atlantic League,regular,Chester,3,M90052,Senior,Joseph,,
+1907,Atlantic League,regular,Easton,1,M90060,McDermott,Thomas F.,,19070518
+1907,Atlantic League,regular,Easton,2,M90071,Kelley,Edward,19070519,
+1907,Atlantic League,regular,Easton,3,M90083,Wall,Joseph F.,19070606,19070620
+1907,Atlantic League,regular,Easton,4,M90094,Sutton,Larry,,
+1907,Atlantic League,regular,Elizabeth,0,M90107,Neubeck,Adam,,
+1907,Atlantic League,regular,Newark,0,M90110,Westlake,James Arthur,,
+1907,Atlantic League,regular,Pottsville,1,M90129,Landgraf,Ernest C.,,19070531
+1907,Atlantic League,regular,Pottsville,2,M90132,Golden,Thomas,19070601,
+1907,Atlantic League,regular,Reading,0,M90141,Lawson,Alfred W.*,,
+1907,Atlantic League,regular,Tamaqua,0,M90155,McGeehan,James,,
 1908,Atlantic Association,regular,Attleboro,0,M90018,Wilson,,,
 1908,Atlantic Association,regular,Lewiston,0,M90026,Beede,George,,
 1908,Atlantic Association,regular,Newport,0,M90039,Reed,George,,

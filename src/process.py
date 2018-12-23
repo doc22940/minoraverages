@@ -553,9 +553,14 @@ def defloat_columns(df):
                         x not in ["B_AVG", "P_IP", "P_ERA", "P_AVG"] and
                         x[-4:] != "_PCT") or
                    (x in ["S_FIRST", "S_LAST", "seq"])]:
-        df[col] = df[col].apply(lambda x:
-                                str(int(x)) if not pd.isnull(x) and x != ""
-                                else x)
+        try:
+            df[col] = df[col].apply(lambda x:
+                                    str(int(x)) if not pd.isnull(x) and x != ""
+                                    else x)
+        except ValueError as ex:
+            print("ERROR: In de-floating column '%s':" % col)
+            print(ex)
+            sys.exit(1)
     return df
 
 def process_source(source):
