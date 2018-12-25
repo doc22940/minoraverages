@@ -1,4 +1,20 @@
 league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_CG,P_SHO,P_GF,P_W,P_L,P_T,P_PCT,P_IP,P_AB,P_R,P_ER,P_H,P_HR,P_BB,P_IBB,P_SO,P_HP,P_SH,P_SF,P_WP,P_BK,P_ERA,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1913,American Association,Milwaukee,regular,,,,,100,67,,0.599,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,Minneapolis,regular,,,,,97,70,,0.581,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,Louisville,regular,,,,,94,72,,0.566,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,Columbus,regular,,,,,93,74,,0.556,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,St. Paul,regular,,,,,75,87,,0.463,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,Kansas City,regular,,,,,69,98,,0.413,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,Toledo,regular,,,,,69,98,,0.413,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,Indianapolis,regular,,,,,68,99,,0.407,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,American Association,Louisville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,171,,4470,2064,247,,,,,,0.964
+1913,American Association,St. Paul,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,169,,4543,2078,247,,,,,,0.964
+1913,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170,,4480,2101,276,,,,,,0.96
+1913,American Association,Minneapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,173,,4625,2311,309,,,,,,0.957
+1913,American Association,Toledo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,168,,4363,2178,319,,,,,,0.953
+1913,American Association,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170,,4580,2211,348,,,,,,0.951
+1913,American Association,Indianapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,172,,4555,2182,358,,,,,,0.949
+1913,American Association,Kansas City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,169,,4489,2280,391,,,,,,0.945
 1913,Border League,Ypsilanti,regular,,,,,24,10,,0.706,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Border League,Wyandotte,regular,,,,,24,13,,0.649,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Border League,Port Huron,regular,,,,,15,19,,0.441,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
