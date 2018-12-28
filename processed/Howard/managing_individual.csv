@@ -32,6 +32,14 @@ league.year,league.name,phase.name,entry.name,seq,person.ref,person.name.last,pe
 1907,Eastern League,regular,Providence,0,M90083,Duffy,Hugh*,,
 1907,Eastern League,regular,Rochester,0,M90094,Buckenberger,Albert C.*,,
 1907,Eastern League,regular,Toronto,0,M90107,Kelley,"Joseph J. ""Joe""*",,
+1907,Empire State League,regular,Auburn,1,M90018,Kelley,,,19070725
+1907,Empire State League,regular,Auburn,2,M90026,Carney,John J.,19070726,
+1907,Empire State League,regular,Geneva,0,M90039,Murray,John E.,,
+1907,Empire State League,regular,Lyons,1,M90047,Groh,Lewis C.*,,19070611
+1907,Empire State League,regular,Lyons,2,M90052,Kennedy,"""Doc""",19070612,19070008
+1907,Empire State League,regular,Lyons,3,M90060,Smith,"Dr. L. W. ""Lee""",19070008,
+1907,Empire State League,regular,Oswego,0,M90071,Elliott,"Edwin S. ""Chaucer""",,
+1907,Empire State League,regular,Seneca Falls,0,M90083,McGraw,"Samuel ""Sam""",,
 1908,Atlantic Association,regular,Attleboro,0,M90018,Wilson,,,
 1908,Atlantic Association,regular,Lewiston,0,M90026,Beede,George,,
 1908,Atlantic Association,regular,Newport,0,M90039,Reed,George,,
