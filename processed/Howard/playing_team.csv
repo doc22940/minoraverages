@@ -1,4 +1,12 @@
 league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_CG,P_SHO,P_GF,P_W,P_L,P_T,P_PCT,P_IP,P_AB,P_R,P_ER,P_H,P_HR,P_BB,P_IBB,P_SO,P_HP,P_SH,P_SF,P_WP,P_BK,P_ERA,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1906,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,79,43,0,0.648,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Peoria,regular,,,,,74,48,,0.607,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,64,55,,0.538,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Springfield,regular,,,,,64,56,1,0.533,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,58,66,,0.468,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Decatur,regular,,,,,48,67,,0.417,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,51,74,,0.408,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Davenport,regular,,,,,45,74,,0.378,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,American Association,Columbus,regular,,,,,90,64,5,0.584,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,American Association,Toledo,regular,,,,,88,65,3,0.575,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1907,American Association,Minneapolis,regular,,,,,79,73,1,0.52,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
