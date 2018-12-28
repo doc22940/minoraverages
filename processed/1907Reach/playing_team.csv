@@ -47,6 +47,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1906,Eastern League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142,5924,,,311,,,,,,0.948
 1906,Eastern League,Toronto,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141,4835,,,260,,,,,,0.946
 1906,Eastern League,Baltimore,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,5478,,,297,,,,,,0.946
+1906,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,79,42,,0.648,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Peoria,regular,,,,,74,48,,0.607,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,64,55,,0.538,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Springfield,regular,,,,,64,56,,0.533,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,58,66,,0.468,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Decatur,regular,,,,,48,67,,0.417,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,51,74,,0.408,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Davenport,regular,,,,,45,74,,0.378,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,3825,,,950,,,,,,,,,,,,,,,,0.248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,3871,,,961,,,,,,,,,,,,,,,,0.248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,3890,,,958,,,,,,,,,,,,,,,,0.246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,3882,,,922,,,,,,,,,,,,,,,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,3707,,,875,,,,,,,,,,,,,,,,0.236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,3863,,,915,,,,,,,,,,,,,,,,0.232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,3607,,,774,,,,,,,,,,,,,,,,0.212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,3821,,,775,,,,,,,,,,,,,,,,0.203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4634,2872,1566,196,,,,,,0.959
+1906,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4787,3124,1470,193,,,,,,0.957
+1906,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4704,3088,1380,233,,,,,,0.95
+1906,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4295,2812,1282,201,,,,,,0.95
+1906,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4763,3117,1408,229,,,,,,0.95
+1906,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4679,2904,1432,242,,,,,,0.946
+1906,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4408,2922,1245,241,,,,,,0.945
+1906,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4896,3185,1405,296,,,,,,0.938
 1906,Southern Association,Birmingham,regular,,,,,86,46,,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Southern Association,Memphis,regular,,,,,79,55,,0.59,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Southern Association,Atlanta,regular,,,,,80,56,,0.588,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
