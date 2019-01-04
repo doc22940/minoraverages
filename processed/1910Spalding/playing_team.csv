@@ -121,6 +121,18 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1909,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3621,2098,310,,,,,,0.949
 1909,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3668,1645,326,,,,,,0.942
 1909,Illinois-Indiana-Iowa League,Cedar Rapids,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3679,1902,376,,,,,,0.937
+1909,Illinois-Missouri League,Monmouth,regular,,,,,77,50,,0.606,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Missouri League,Beardstown,regular,,,,,77,52,,0.597,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Missouri League,Pekin,regular,,,,,73,57,,0.562,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Missouri League,Macomb,regular,,,,,63,67,,0.485,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Missouri League,Canton,regular,,,,,51,79,,0.392,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Missouri League,Galesburg,regular,,,,,47,83,,0.362,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Illinois-Missouri League,Monmouth,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3447,1532,228,,,,,,0.956
+1909,Illinois-Missouri League,Macomb,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3471,1638,272,,,,,,0.949
+1909,Illinois-Missouri League,Canton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3303,1602,285,,,,,,0.945
+1909,Illinois-Missouri League,Beardstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3435,1635,304,,,,,,0.943
+1909,Illinois-Missouri League,Galesburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3433,1589,329,,,,,,0.939
+1909,Illinois-Missouri League,Pekin,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3642,1531,347,,,,,,0.937
 1909,New England League,Worcester,regular,,,,,77,47,,0.621,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,New England League,Brockton,regular,,,,,75,48,,0.61,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,New England League,Lynn,regular,,,,,74,49,,0.602,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
