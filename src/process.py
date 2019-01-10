@@ -57,15 +57,14 @@ class Workbook(object):
     def individual_batting(self):
         """Return a DataFrame containing data from the Batting sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='Batting')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
+        try:
+            df = pd.read_excel(self.fn, sheet_name='Batting')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum(). \
                            apply(lambda x: 'B%04d%d' %
                                  (x, damm.encode("%04d" % x)))
-        df.rename(inplace=True, columns={'nameClub': 'nameClub1'})
+        df = df.rename(columns={'nameClub': 'nameClub1'})
         if 'S_STINT' not in df:
             if 'nameClub2' in df:
                 df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
@@ -74,9 +73,9 @@ class Workbook(object):
             multiclub = df[df['S_STINT'] == 'T']
             clubs = self._compute_stints(multiclub, 'G')
             df = pd.concat([df, clubs], sort=False, ignore_index=True)
-        df['year'] = df['year'].fillna(method='pad')
-        df['nameLeague'] = df['nameLeague'].fillna(method='pad')
-        df.sort_values(['person.ref', 'S_STINT'], inplace=True)
+        df = df.assign(year=df['year'].fillna(method='pad'),
+                       nameLeague=df['nameLeague'].fillna(method='pad')) \
+               .sort_values(['person.ref', 'S_STINT'])
         for col in ['nameLast', 'nameFirst', 'phase.name', 'bats']:
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
@@ -98,60 +97,63 @@ class Workbook(object):
         # strings and not floats
         for col in ['dateFirst', 'dateLast']:
             if col in df:
-                df[col] = df[col].apply(lambda x: str(int(x)) if not pd.isnull(x) else x)
-                df[col] = df[col].fillna("")
+                df[col] = df[col].apply(lambda x:
+                                        str(int(x)) if not pd.isnull(x) else x) \
+                                 .fillna("")
                 df[col] = df.apply(lambda x:
                                    str(int(x['year']))+x[col].rjust(4, '0')
                                    if 0 < len(x[col]) < 8
                                    else x[col], axis=1)
 
-        df.rename(inplace=True,
-                  columns={'year':         'league.year',
-                           'nameLeague':   'league.name',
-                           'nameClub1':    'entry.name',
-                           'nameLast':     'person.name.last',
-                           'nameFirst':    'person.name.given',
-                           'bats':         'person.bats',
-                           'dateFirst':    'S_FIRST',
-                           'dateLast':     'S_LAST',
-                           'G':            'B_G',
-                           'AB':           'B_AB',
-                           'R':            'B_R',
-                           'ER':           'B_ER',
-                           'H':            'B_H',
-                           'TB':           'B_TB',
-                           'H1B':          'B_1B',
-                           'H2B':          'B_2B',
-                           'H3B':          'B_3B',
-                           'HR':           'B_HR',
-                           'RBI':          'B_RBI',
-                           'BB':           'B_BB',
-                           'IBB':          'B_IBB',
-                           'SO':           'B_SO',
-                           'GDP':          'B_GDP',
-                           'HP':           'B_HP',
-                           'SH':           'B_SH',
-                           'SF':           'B_SF',
-                           'SB':           'B_SB',
-                           'CS':           'B_CS',
-                           'AVG':          'B_AVG',
-                           'AVG_RANK':     'B_AVG_RANK'})
-        return df
+        return df.rename(columns={'year':         'league.year',
+                                  'nameLeague':   'league.name',
+                                  'nameClub1':    'entry.name',
+                                  'nameLast':     'person.name.last',
+                                  'nameFirst':    'person.name.given',
+                                  'bats':         'person.bats',
+                                  'dateFirst':    'S_FIRST',
+                                  'dateLast':     'S_LAST',
+                                  'G':            'B_G',
+                                  'AB':           'B_AB',
+                                  'R':            'B_R',
+                                  'ER':           'B_ER',
+                                  'H':            'B_H',
+                                  'TB':           'B_TB',
+                                  'H1B':          'B_1B',
+                                  'H2B':          'B_2B',
+                                  'H3B':          'B_3B',
+                                  'HR':           'B_HR',
+                                  'RBI':          'B_RBI',
+                                  'BB':           'B_BB',
+                                  'IBB':          'B_IBB',
+                                  'SO':           'B_SO',
+                                  'GDP':          'B_GDP',
+                                  'HP':           'B_HP',
+                                  'SH':           'B_SH',
+                                  'SF':           'B_SF',
+                                  'SB':           'B_SB',
+                                  'CS':           'B_CS',
+                                  'AVG':          'B_AVG',
+                                  'AVG_RANK':     'B_AVG_RANK'})
 
     @property
     def individual_pitching(self):
         """Return a DataFrame containing data from the Pitching sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='Pitching')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
+        #with open(self.fn) as f:
+        #    try:
+        #        df = pd.read_excel(f, sheet_name='Pitching')
+        #    except xlrd.biffh.XLRDError:
+        #        return pd.DataFrame(columns=['league.year'])
+        try:
+            df = pd.read_excel(self.fn, sheet_name='Pitching')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum() \
                             .apply(lambda x:
                                    'P%04d%d' % (1000+x,
                                                 damm.encode("%04d" % (1000+x))))
-        df.rename(inplace=True, columns={'nameClub': 'nameClub1'})
+        df = df.rename(columns={'nameClub': 'nameClub1'})
         if 'S_STINT' not in df:
             if 'nameClub2' in df:
                 df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
@@ -162,63 +164,60 @@ class Workbook(object):
             df = pd.concat([df, clubs], sort=False, ignore_index=True)
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
-        df.sort_values(['person.ref', 'S_STINT'], inplace=True)
+        df = df.sort_values(['person.ref', 'S_STINT'])
         for col in ['nameLast', 'nameFirst', 'phase.name', 'throws']:
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
         df.loc[df['S_STINT'] == 'T', 'nameClub1'] = None
 
-        df.rename(inplace=True,
-                  columns={'year':         'league.year',
-                           'nameLeague':   'league.name',
-                           'nameClub1':    'entry.name',
-                           'nameLast':     'person.name.last',
-                           'nameFirst':    'person.name.given',
-                           'throws':       'person.throws',
-                           'GP':           'P_G',
-                           'GS':           'P_GS',
-                           'CG':           'P_CG',
-                           'SHO':          'P_SHO',
-                           'GF':           'P_GF',
-                           'TO':           'P_TO',
-                           'W':            'P_W',
-                           'L':            'P_L',
-                           'T':            'P_T',
-                           'PCT':          'P_PCT',
-                           'IP':           'P_IP',
-                           'AB':           'P_AB',
-                           'H':            'P_H',
-                           'R':            'P_R',
-                           'ER':           'P_ER',
-                           'HR':           'P_HR',
-                           'BB':           'P_BB',
-                           'IBB':          'P_IBB',
-                           'SO':           'P_SO',
-                           'HB':           'P_HP',
-                           'SH':           'P_SH',
-                           'SF':           'P_SF',
-                           'WP':           'P_WP',
-                           'ERA':          'P_ERA',
-                           'BK':           'P_BK',
-                           'SB':           'P_SB',
-                           'AVG':          'P_AVG',
-                           'ERA_RANK':     'P_ERA_RANK'})
-        return df
+        return df.rename(columns={'year':         'league.year',
+                                  'nameLeague':   'league.name',
+                                  'nameClub1':    'entry.name',
+                                  'nameLast':     'person.name.last',
+                                  'nameFirst':    'person.name.given',
+                                  'throws':       'person.throws',
+                                  'GP':           'P_G',
+                                  'GS':           'P_GS',
+                                  'CG':           'P_CG',
+                                  'SHO':          'P_SHO',
+                                  'GF':           'P_GF',
+                                  'TO':           'P_TO',
+                                  'W':            'P_W',
+                                  'L':            'P_L',
+                                  'T':            'P_T',
+                                  'PCT':          'P_PCT',
+                                  'IP':           'P_IP',
+                                  'AB':           'P_AB',
+                                  'H':            'P_H',
+                                  'R':            'P_R',
+                                  'ER':           'P_ER',
+                                  'HR':           'P_HR',
+                                  'BB':           'P_BB',
+                                  'IBB':          'P_IBB',
+                                  'SO':           'P_SO',
+                                  'HB':           'P_HP',
+                                  'SH':           'P_SH',
+                                  'SF':           'P_SF',
+                                  'WP':           'P_WP',
+                                  'ERA':          'P_ERA',
+                                  'BK':           'P_BK',
+                                  'SB':           'P_SB',
+                                  'AVG':          'P_AVG',
+                                  'ERA_RANK':     'P_ERA_RANK'})
 
     @property
     def individual_fielding(self):
         """Return a DataFrame containing data from the Fielding sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='Fielding')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
+        try:
+            df = pd.read_excel(self.fn, sheet_name='Fielding')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum() \
                             .apply(lambda x:
                                    'F%04d%d' % (2000+x,
                                                 damm.encode("%04d" % (2000+x))))
-        df.rename(inplace=True, columns={'nameClub': 'nameClub1'})
+        df = df.rename(columns={'nameClub': 'nameClub1'})
         if 'S_STINT' not in df:
             if 'nameClub2' in df:
                 df['S_STINT'] = df['nameClub2'].apply(lambda x: 'T' if not pd.isnull(x) else '0')
@@ -229,7 +228,7 @@ class Workbook(object):
             df = pd.concat([df, clubs], sort=False, ignore_index=True)
         df['year'] = df['year'].fillna(method='pad')
         df['nameLeague'] = df['nameLeague'].fillna(method='pad')
-        df.sort_values(['person.ref', 'S_STINT'], inplace=True)
+        df = df.sort_values(['person.ref', 'S_STINT'])
         for col in ['nameLast', 'nameFirst', 'Pos', 'phase.name', 'throws']:
             if col in df:
                 df[col] = df.groupby('person.ref')[col].fillna(method='backfill')
@@ -252,14 +251,12 @@ class Workbook(object):
                                           axis=1)
         melted = melted.pivot(columns='variable', values='value', index='rowid')
         df = pd.merge(df, melted, left_on='rowid', right_index=True)
-        df.rename(inplace=True,
-                  columns={'year':         'league.year',
-                           'nameLeague':   'league.name',
-                           'nameClub1':    'entry.name',
-                           'nameLast':     'person.name.last',
-                           'nameFirst':    'person.name.given',
-                           'throws':       'person.throws'})
-        return df
+        return df.rename(columns={'year':         'league.year',
+                                  'nameLeague':   'league.name',
+                                  'nameClub1':    'entry.name',
+                                  'nameLast':     'person.name.last',
+                                  'nameFirst':    'person.name.given',
+                                  'throws':       'person.throws'})
 
     @property
     def individual_playing(self):
@@ -331,11 +328,10 @@ class Workbook(object):
     def individual_managing(self):
         """Return a DataFrame containing data from the Managing sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='Managing')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=self._individual_managing_columns)
+        try:
+            df = pd.read_excel(self.fn, sheet_name='Managing')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=self._individual_managing_columns)
         df['person.ref'] = (~df['nameLast'].isnull()).cumsum() \
                            .apply(lambda x:
                                   'M%04d%d' % (9000+x,
@@ -350,15 +346,14 @@ class Workbook(object):
                                    str(int(x['year']))+x[col].rjust(4, '0')
                                    if 0 < len(x[col]) < 8
                                    else x[col], axis=1)
-        df.rename(inplace=True,
-                  columns={'year':          'league.year',
-                           'nameLeague':    'league.name',
-                           'nameClub':      'entry.name',
-                           'nameLast':      'person.name.last',
-                           'nameFirst':     'person.name.given',
-                           'phase':         'phase.name',
-                           'dateFirst':     'S_FIRST',
-                           'dateLast':      'S_LAST'})
+        df = df.rename(columns={'year':          'league.year',
+                                'nameLeague':    'league.name',
+                                'nameClub':      'entry.name',
+                                'nameLast':      'person.name.last',
+                                'nameFirst':     'person.name.given',
+                                'phase':         'phase.name',
+                                'dateFirst':     'S_FIRST',
+                                'dateLast':      'S_LAST'})
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         return self._standardize_columns(df, self._individual_managing_columns)
@@ -367,24 +362,22 @@ class Workbook(object):
     def _team_standings(self):
         """Return a DataFrame containing data from the standings sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='Standings')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
-        df.rename(inplace=True,
-                  columns={'year':    'league.year',
-                           'nameLeague':  'league.name',
-                           'nameClub':  'entry.name',
-                           'phase':     'phase.name',
-                           'division':  'division.name',
-                           'dateFirst': 'S_FIRST',
-                           'dateLast':  'S_LAST',
-                           'W':       'R_W',
-                           'L':       'R_L',
-                           'T':       'R_T',
-                           'PCT':     'R_PCT',
-                           'RANK':    'R_RANK'})
+        try:
+            df = pd.read_excel(self.fn, sheet_name='Standings')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
+        df = df.rename(columns={'year':    'league.year',
+                                'nameLeague':  'league.name',
+                                'nameClub':  'entry.name',
+                                'phase':     'phase.name',
+                                'division':  'division.name',
+                                'dateFirst': 'S_FIRST',
+                                'dateLast':  'S_LAST',
+                                'W':       'R_W',
+                                'L':       'R_L',
+                                'T':       'R_T',
+                                'PCT':     'R_PCT',
+                                'RANK':    'R_RANK'})
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         return df
@@ -393,36 +386,34 @@ class Workbook(object):
     def _team_batting(self):
         """Return a DataFrame containing data from the TeamBatting sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='TeamBatting')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
-        df.rename(inplace=True,
-                  columns={'year':     'league.year',
-                           'nameLeague':  'league.name',
-                           'nameClub':    'entry.name',
-                           'phase':    'phase.name',
-                           'G':        'B_G',
-                           'IP':       'B_IP',
-                           'AB':       'B_AB',
-                           'R':        'B_R',
-                           'ER':       'B_ER',
-                           'OR':       'P_R',
-                           'H':        'B_H',
-                           'TB':       'B_TB',
-                           'H1B':      'B_1B',
-                           'H2B':      'B_2B',
-                           'H3B':      'B_3B',
-                           'HR':       'B_HR',
-                           'SH':       'B_SH',
-                           'SB':       'B_SB',
-                           'BB':       'B_BB',
-                           'HP':       'B_HP',
-                           'SO':       'B_SO',
-                           'RBI':      'B_RBI',
-                           'LOB':      'B_LOB',
-                           'AVG':      'B_AVG'})
+        try:
+            df = pd.read_excel(self.fn, sheet_name='TeamBatting')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
+        df = df.rename(columns={'year':     'league.year',
+                                'nameLeague':  'league.name',
+                                'nameClub':    'entry.name',
+                                'phase':    'phase.name',
+                                'G':        'B_G',
+                                'IP':       'B_IP',
+                                'AB':       'B_AB',
+                                'R':        'B_R',
+                                'ER':       'B_ER',
+                                'OR':       'P_R',
+                                'H':        'B_H',
+                                'TB':       'B_TB',
+                                'H1B':      'B_1B',
+                                'H2B':      'B_2B',
+                                'H3B':      'B_3B',
+                                'HR':       'B_HR',
+                                'SH':       'B_SH',
+                                'SB':       'B_SB',
+                                'BB':       'B_BB',
+                                'HP':       'B_HP',
+                                'SO':       'B_SO',
+                                'RBI':      'B_RBI',
+                                'LOB':      'B_LOB',
+                                'AVG':      'B_AVG'})
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         return df
@@ -431,39 +422,37 @@ class Workbook(object):
     def _team_pitching(self):
         """Return a DataFrame containing data from the TeamPitching sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='TeamPitching')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
-        df.rename(inplace=True,
-                  columns={'year':     'league.year',
-                           'nameLeague':  'league.name',
-                           'nameClub':    'entry.name',
-                           'phase':    'phase.name',
-                           'GP':       'P_G',
-                           'CG':       'P_CG',
-                           'SHO':      'P_SHO',
-                           'GF':       'P_GF',
-                           'W':        'P_W',
-                           'L':        'P_L',
-                           'T':        'P_T',
-                           'PCT':      'P_PCT',
-                           'IP':       'P_IP',
-                           'AB':       'P_AB',
-                           'R':        'P_R',
-                           'ER':       'P_ER',
-                           'H':        'P_H',
-                           'HR':       'P_HR',
-                           'BB':       'P_BB',
-                           'IBB':      'P_IBB',
-                           'SO':       'P_SO',
-                           'HB':       'P_HP',
-                           'SH':       'P_SH',
-                           'SF':       'P_SF',
-                           'WP':       'P_WP',
-                           'BK':       'P_BK',
-                           'ERA':      'P_ERA'})
+        try:
+            df = pd.read_excel(self.fn, sheet_name='TeamPitching')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
+        df = df.rename(columns={'year':     'league.year',
+                                'nameLeague':  'league.name',
+                                'nameClub':    'entry.name',
+                                'phase':    'phase.name',
+                                'GP':       'P_G',
+                                'CG':       'P_CG',
+                                'SHO':      'P_SHO',
+                                'GF':       'P_GF',
+                                'W':        'P_W',
+                                'L':        'P_L',
+                                'T':        'P_T',
+                                'PCT':      'P_PCT',
+                                'IP':       'P_IP',
+                                'AB':       'P_AB',
+                                'R':        'P_R',
+                                'ER':       'P_ER',
+                                'H':        'P_H',
+                                'HR':       'P_HR',
+                                'BB':       'P_BB',
+                                'IBB':      'P_IBB',
+                                'SO':       'P_SO',
+                                'HB':       'P_HP',
+                                'SH':       'P_SH',
+                                'SF':       'P_SF',
+                                'WP':       'P_WP',
+                                'BK':       'P_BK',
+                                'ERA':      'P_ERA'})
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         return df
@@ -472,27 +461,25 @@ class Workbook(object):
     def _team_fielding(self):
         """Return a DataFrame containing data from the TeamFielding sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='TeamFielding')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
-        df.rename(inplace=True,
-                  columns={'year':     'league.year',
-                           'nameLeague':  'league.name',
-                           'nameClub':    'entry.name',
-                           'phase':    'phase.name',
-                           'G':        'F_G',
-                           'TC':       'F_TC',
-                           'PO':       'F_PO',
-                           'A':        'F_A',
-                           'E':        'F_E',
-                           'DP':       'F_DP',
-                           'TP':       'F_TP',
-                           'PB':       'F_PB',
-                           'CI':       'F_XI',
-                           'LOB':      'F_LOB',
-                           'PCT':      'F_PCT'})
+        try:
+            df = pd.read_excel(self.fn, sheet_name='TeamFielding')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
+        df = df.rename(columns={'year':     'league.year',
+                                'nameLeague':  'league.name',
+                                'nameClub':    'entry.name',
+                                'phase':    'phase.name',
+                                'G':        'F_G',
+                                'TC':       'F_TC',
+                                'PO':       'F_PO',
+                                'A':        'F_A',
+                                'E':        'F_E',
+                                'DP':       'F_DP',
+                                'TP':       'F_TP',
+                                'PB':       'F_PB',
+                                'CI':       'F_XI',
+                                'LOB':      'F_LOB',
+                                'PCT':      'F_PCT'})
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
         return df
@@ -501,13 +488,11 @@ class Workbook(object):
     def _team_attendance(self):
         """Return a DataFrame containing data from the Attendance sheet.
         """
-        with open(self.fn) as f:
-            try:
-                df = pd.read_excel(f, sheet_name='Attendance')
-            except xlrd.biffh.XLRDError:
-                return pd.DataFrame(columns=['league.year'])
-        df.rename(inplace=True,
-                  columns={'year':        'league.year',
+        try:
+            df = pd.read_excel(self.fn, sheet_name='Attendance')
+        except xlrd.biffh.XLRDError:
+            return pd.DataFrame(columns=['league.year'])
+        df = df.rename(columns={'year':        'league.year',
                            'nameLeague':  'league.name',
                            'nameClub':    'entry.name',
                            'phase':       'phase.name',
