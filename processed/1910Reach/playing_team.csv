@@ -23,6 +23,10 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1909,Eastern League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,,4117,1971,280,,,,,,0.955
 1909,Eastern League,Jersey City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,,4104,1915,320,,,,,,0.95
 1909,Eastern League,Baltimore,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,156,,4141,1837,322,,,,,,0.949
+1909,Northeast Arkansas League,Jonesboro,regular,,,,,30,23,,0.566,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Northeast Arkansas League,Newport,regular,,,,,29,25,,0.537,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Northeast Arkansas League,Marianna,regular,,,,,24,29,,0.453,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Northeast Arkansas League,Paragould,regular,,,,,24,30,,0.444,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,Southern Association,Atlanta,regular,,,,,87,49,,0.64,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,Southern Association,Nashville,regular,,,,,82,55,,0.594,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,Southern Association,Montgomery,regular,,,,,76,60,,0.559,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
