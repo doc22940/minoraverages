@@ -23,6 +23,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1906,American Association,Milwaukee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6235,4060,1862,313,,,,,,0.95
 1906,American Association,Kansas City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,156,6559,4077,2137,345,,,,,,0.947
 1906,American Association,Indianapolis,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,6689,4109,2211,369,,,,,,0.945
+1906,Connecticut State League,Norwich,regular,,,,,72,53,,0.576,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Springfield,regular,,,,,70,56,,0.556,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,New Haven,regular,,,,,68,57,,0.544,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Hartford,regular,,,,,62,57,,0.521,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Waterbury,regular,,,,,60,63,,0.488,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Holyoke,regular,,,,,58,65,,0.472,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Bridgeport,regular,,,,,54,72,,0.429,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,New London,regular,,,,,53,74,,0.417,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Springfield,regular,,,,,,,,,,,,,4193,560,,1069,,,,,,,,,,,,,,,,0.257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,New Haven,regular,,,,,,,,,,,,,4159,527,,1061,,,,,,,,,,,,,,,,0.255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Norwich,regular,,,,,,,,,,,,,4100,582,,1011,,,,,,,,,,,,,,,,0.247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,4174,459,,1021,,,,,,,,,,,,,,,,0.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,4149,513,,993,,,,,,,,,,,,,,,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,4050,460,,970,,,,,,,,,,,,,,,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,Hartford,regular,,,,,,,,,,,,,4158,512,,990,,,,,,,,,,,,,,,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,New London,regular,,,,,,,,,,,,,4131,397,,910,,,,,,,,,,,,,,,,0.22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Connecticut State League,New Haven,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3360,1688,206,,,,,,0.961
+1906,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3196,1575,225,,,,,,0.951
+1906,Connecticut State League,Hartford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3252,1794,294,,,,,,0.945
+1906,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3370,1568,293,,,,,,0.944
+1906,Connecticut State League,Norwich,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3309,1432,302,,,,,,0.94
+1906,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3326,1551,310,,,,,,0.94
+1906,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3282,1650,335,,,,,,0.936
+1906,Connecticut State League,New London,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3311,1620,328,,,,,,0.934
 1906,Eastern League,Buffalo,regular,,,,,85,55,,0.607,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Eastern League,Jersey City,regular,,,,,80,57,,0.584,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Eastern League,Baltimore,regular,,,,,76,61,,0.555,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
