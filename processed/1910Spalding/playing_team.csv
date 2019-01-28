@@ -139,6 +139,12 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1909,Connecticut State League,New Britain,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3198,1545,341,,,,,,0.933
 1909,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3248,1603,356,,,,,,0.932
 1909,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3362,1483,365,,,,,,0.93
+1909,Eastern Carolina League,Wilson,regular,,,,,50,39,,0.562,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Eastern Carolina League,Wilmington,regular,,,,,50,40,,0.556,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Eastern Carolina League,Fayetteville,regular,,,,,49,41,,0.544,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Eastern Carolina League,Raleigh,regular,,,,,49,41,,0.544,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Eastern Carolina League,Goldsboro,regular,,,,,43,46,,0.483,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1909,Eastern Carolina League,Rocky Mount,regular,,,,,28,61,,0.315,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,90,48,,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,Illinois-Indiana-Iowa League,Springfield,regular,,,,,81,53,,0.604,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1909,Illinois-Indiana-Iowa League,Davenport,regular,,,,,77,59,,0.5660000000000001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
