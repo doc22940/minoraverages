@@ -23,6 +23,11 @@ from __future__ import unicode_literals
 from builtins import chr
 from builtins import str
 from builtins import object
+import sys
+import os
+import glob
+import logging
+
 import xlrd
 import pandas as pd
 import damm
@@ -559,11 +564,12 @@ def process_source(source):
     """Process workbooks from 'source', transforming all data and
     outputting to CSV files in processed.
     """
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
     books = [fn for fn in glob.glob("transcript/%s/*.xls" % source)
              if not "~" in fn]
-    print("Processing source %s" % source)
+    logging.info(f"Processing source {source}")
     for book in books:
-        print("  %s" % book)
+        logging.info(f"  {book}")
     xlsbooks = [Workbook(fn) for fn in books]
 
     try:
@@ -599,8 +605,4 @@ def process_source(source):
     print()
 
 if __name__ == '__main__':
-    import glob
-    import sys
-    import os
-
     process_source(sys.argv[1])
