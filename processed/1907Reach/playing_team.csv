@@ -143,6 +143,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1906,New York State League,Binghamton,regular,,,,,58,70,,0.453,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,New York State League,Utica,regular,,,,,60,73,,0.451,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,New York State League,Wilkes-Barre,regular,,,,,52,76,,0.406,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Youngstown,regular,,,,,84,53,,0.613,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Akron,regular,,,,,83,55,,0.601,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Lancaster,regular,,,,,73,66,,0.525,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,New Castle,regular,,,,,73,67,,0.522,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Marion,regular,,,,,71,69,,0.507,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Newark,regular,,,,,65,74,,0.468,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Mansfield,regular,,,,,59,77,,0.434,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Sharon,regular,,,,,46,93,,0.331,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Youngstown,regular,,,,,,,,,,,,,4441,579,,1138,,,,,,,,,,,,,,,,0.256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Lancaster,regular,,,,,,,,,,,,,4479,463,,1080,,,,,,,,,,,,,,,,0.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Akron,regular,,,,,,,,,,,,,4563,519,,1091,,,,,,,,,,,,,,,,0.239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,New Castle,regular,,,,,,,,,,,,,4233,415,,970,,,,,,,,,,,,,,,,0.229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Marion,regular,,,,,,,,,,,,,4565,484,,1019,,,,,,,,,,,,,,,,0.223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Newark,regular,,,,,,,,,,,,,4431,483,,987,,,,,,,,,,,,,,,,0.223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Mansfield,regular,,,,,,,,,,,,,4314,410,,962,,,,,,,,,,,,,,,,0.223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Sharon,regular,,,,,,,,,,,,,4261,372,,924,,,,,,,,,,,,,,,,0.217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Ohio-Pennsylvania League,Youngstown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3649,1695,220,,,,,,0.96
+1906,Ohio-Pennsylvania League,New Castle,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3579,1759,228,,,,,,0.959
+1906,Ohio-Pennsylvania League,Akron,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3766,1706,255,,,,,,0.955
+1906,Ohio-Pennsylvania League,Marion,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3681,1743,279,,,,,,0.951
+1906,Ohio-Pennsylvania League,Mansfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3557,1741,275,,,,,,0.951
+1906,Ohio-Pennsylvania League,Lancaster,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3666,1597,293,,,,,,0.947
+1906,Ohio-Pennsylvania League,Sharon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3493,1609,286,,,,,,0.947
+1906,Ohio-Pennsylvania League,Newark,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3629,1663,306,,,,,,0.945
 1906,Southern Association,Birmingham,regular,,,,,86,46,,0.652,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Southern Association,Memphis,regular,,,,,79,55,,0.59,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Southern Association,Atlanta,regular,,,,,80,56,,0.588,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
