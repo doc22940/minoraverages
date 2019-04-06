@@ -71,6 +71,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,Connecticut State League,Northampton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3296,1600,273,,,,,,0.9470000000000001
 1910,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3251,1606,298,,,,,,0.9420000000000001
 1910,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3269,1513,313,,,,,,0.94
+1910,Illinois-Indiana-Iowa League,Springfield,regular,,,,,88,48,,0.647,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,82,56,,0.592,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Peoria,regular,,,,,75,64,,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Waterloo,regular,,,,,72,67,,0.518,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,60,76,,0.441,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,60,79,,0.432,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Davenport,regular,,,,,59,80,,0.424,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Danville,regular,,,,,57,82,,0.41,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,4394,533,,1099,1468,,,,,,,,,,,148,,169,,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,4591,533,,1104,1427,,,,,,,,,,,190,,275,,0.24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Waterloo,regular,,,,,,,,,,,,,4400,393,,997,1159,,,,,,,,,,,205,,314,,0.227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,4477,458,,1006,1249,,,,,,,,,,,169,,205,,0.225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,4429,410,,993,1227,,,,,,,,,,,192,,148,,0.224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,4517,431,,1001,1250,,,,,,,,,,,215,,176,,0.222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Danville,regular,,,,,,,,,,,,,4329,365,,955,1153,,,,,,,,,,,224,,182,,0.221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,4511,387,,978,1243,,,,,,,,,,,162,,128,,0.217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Illinois-Indiana-Iowa League,Danville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3687,2032,225,,,,,,0.962
+1910,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3667,1739,220,,,,,,0.961
+1910,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3714,1886,246,,,,,,0.9580000000000001
+1910,Illinois-Indiana-Iowa League,Waterloo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3753,1824,258,,,,,,0.9560000000000001
+1910,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3722,1869,256,,,,,,0.9560000000000001
+1910,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3759,1839,266,,,,,,0.9560000000000001
+1910,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3756,1781,293,,,,,,0.95
+1910,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3763,1777,353,,,,,,0.94
 1910,Pacific Coast League,Portland,regular,,,,,114,87,,0.5670000000000001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Pacific Coast League,Oakland,regular,,,,,122,98,,0.555,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Pacific Coast League,San Francisco,regular,,,,,114,106,,0.518,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
