@@ -81,3 +81,11 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1913,Pacific Coast League,Oakland,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,214,,5775,2877,346,,,,,,0.962
 1913,Pacific Coast League,Venice,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,212,,5656,2904,351,,,,,,0.96
 1913,Pacific Coast League,Los Angeles,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,210,,5542,2971,404,,,,,,0.955
+1913,Southern Association,Atlanta,regular,,,,,81,56,8,0.591,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Southern Association,Mobile,regular,,,,,81,57,3,0.587,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Southern Association,Birmingham,regular,,,,,74,64,6,0.536,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Southern Association,Chattanooga,regular,,,,,70,64,7,0.523,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Southern Association,Montgomery,regular,,,,,68,69,6,0.496,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Southern Association,Memphis,regular,,,,,64,74,6,0.463,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Southern Association,Nashville,regular,,,,,62,76,4,0.446,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Southern Association,New Orleans,regular,,,,,45,85,13,0.346,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
