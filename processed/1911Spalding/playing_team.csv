@@ -231,6 +231,22 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,Virginia League,Norfolk,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,5432,3401,1776,255,,,,,,0.9530000000000001
 1910,Virginia League,Lynchburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,5385,3366,1756,263,,,,,,0.9510000000000001
 1910,Virginia League,Petersburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,5056,3210,1592,254,,,,,,0.95
+1910,Western Canada League,Calgary,regular/first,,,,,37,16,,0.6980000000000001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Edmonton,regular/first,,,,,32,20,,0.615,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Medicine Hat,regular/first,,,,,28,23,,0.549,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Moose Jaw,regular/first,,,,,25,25,,0.5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Lethridge,regular/first,,,,,23,30,,0.432,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Brandon,regular/first,,,,,24,32,,0.429,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Winnipeg,regular/first,,,,,22,33,,0.4,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Regina,regular/first,,,,,19,31,,0.38,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Edmonton,regular/second,,,,,29,12,,0.707,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Calgary,regular/second,,,,,31,13,,0.705,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Winnipeg,regular/second,,,,,31,17,,0.646,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Moose Jaw,regular/second,,,,,24,19,,0.558,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Lethridge,regular/second,,,,,17,23,,0.425,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Saskatoon,regular/second,,,,,17,24,,0.41500000000000004,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Brandon,regular/second,,,,,17,27,,0.386,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Western Canada League,Regina,regular/second,,,,,7,38,,0.155,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Western League,Sioux City,regular,,,,,108,60,,0.643,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Western League,Denver,regular,,,,,102,65,,0.611,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Western League,Lincoln,regular,,,,,95,71,,0.5720000000000001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
