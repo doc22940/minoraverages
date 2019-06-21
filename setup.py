@@ -12,5 +12,6 @@ setup(
     entry_points="""
         [console_scripts]
         averages=averages.process:main
+        tojson=averages.tojson:main
     """
 )
