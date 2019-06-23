@@ -42,11 +42,11 @@ league.year,league.name,phase.name,entry.name,seq,person.ref,person.name.last,pe
 1913,Federal League,regular,Chicago,0,M90018,Keeley,Burton E.,,
 1913,Federal League,regular,Cleveland,0,M90026,Young,"Denton T. ""Cy""",,
 1913,Federal League,regular,Covington,0,M90039,Leever,Samuel,,
-1913,Federal League,regular,Indianapolis,0,M90039,,"William C. ""Whoa Bill""",,
-1913,Federal League,regular,Kansas City,1,M90047,Leever,Samuel,,19130811
-1913,Federal League,regular,Kansas City,2,M90052,Swartling,Hugo,,
-1913,Federal League,regular,Pittsburgh,0,M90060,Phillippe,"Charles L. ""Deacon""",,
-1913,Federal League,regular,St. Louis,0,M90071,O'Connor,Jack,,
+1913,Federal League,regular,Indianapolis,0,M90047,Phillips,"William C. ""Whoa Bill""",,
+1913,Federal League,regular,Kansas City,1,M90052,Leever,Samuel,,19130811
+1913,Federal League,regular,Kansas City,2,M90060,Swartling,Hugo,,
+1913,Federal League,regular,Pittsburgh,0,M90071,Phillippe,"Charles L. ""Deacon""",,
+1913,Federal League,regular,St. Louis,0,M90083,O'Connor,Jack,,
 1914,Illinois-Missouri League,regular,Champaign,0,M90018,Wilson,Fred (Blackie),,
 1914,Illinois-Missouri League,regular,Kankakee,1,M90026,Randall,Harry (Eph),,
 1914,Illinois-Missouri League,regular,Kankakee,2,M90039,Conley,Gene,19140525,
