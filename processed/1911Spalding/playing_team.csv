@@ -173,6 +173,24 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,Minnesota-Wisconsin League,Duluth,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3379,1543,252,,,,,,0.9510000000000001
 1910,Minnesota-Wisconsin League,Superior,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3345,1561,250,,,,,,0.9510000000000001
 1910,Minnesota-Wisconsin League,Rochester,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,3085,1422,243,,,,,,0.9490000000000001
+1910,Missouri-Iowa-Nebraska-Kansas League,Falls City,regular/first,,,,,57,40,,0.587,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Clarinda,regular/first,,,,,56,42,,0.5720000000000001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Shenandoah,regular/first,,,,,47,52,,0.47500000000000003,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Auburn,regular/first,,,,,46,51,,0.47400000000000003,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Maryville,regular/first,,,,,45,54,,0.455,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,regular/first,,,,,43,55,,0.439,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Maryville,regular,,,,,,,,,,,99,,2592,305,,601,,,,,,,,,,,,72,,126,,0.232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,regular,,,,,,,,,,,98,,2980,283,,656,,,,,,,,,,,,104,,168,,0.22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Clarinda,regular,,,,,,,,,,,98,,3014,400,,648,,,,,,,,,,,,110,,175,,0.212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Falls City,regular,,,,,,,,,,,97,,2965,380,,649,,,,,,,,,,,,110,,179,,0.212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Shenandoah,regular,,,,,,,,,,,99,,3252,389,,689,,,,,,,,,,,,85,,129,,0.211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Auburn,regular,,,,,,,,,,,97,,3379,371,,671,,,,,,,,,,,,113,,193,,0.199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Missouri-Iowa-Nebraska-Kansas League,Maryville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99,,2095,958,179,,,,,,0.9450000000000001
+1910,Missouri-Iowa-Nebraska-Kansas League,Shenandoah,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99,,2314,1055,253,,,,,,0.93
+1910,Missouri-Iowa-Nebraska-Kansas League,Falls City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,97,,2341,1008,251,,,,,,0.93
+1910,Missouri-Iowa-Nebraska-Kansas League,Clarinda,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,,2390,1146,271,,,,,,0.929
+1910,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,,2304,1084,257,,,,,,0.929
+1910,Missouri-Iowa-Nebraska-Kansas League,Auburn,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,97,,2683,1594,347,,,,,,0.925
 1910,New England League,New Bedford,regular,,,,,77,46,,0.626,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,New England League,Lynn,regular,,,,,68,52,,0.5670000000000001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,New England League,Worcester,regular,,,,,67,54,,0.554,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
