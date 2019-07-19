@@ -21,13 +21,16 @@ def process_table(data):
             data[col] = data[col].apply(lambda x: ("%.3f" % x).lstrip("0"))
     return [dropnull(x) for x in data.to_dict(orient='records')]
 
-name_map = {'Batting':      'player_batting',
-            'Pitching':     'player_pitching',
-            'Fielding':     'player_fielding',
+name_map = {'Batting':      'person_batting',
+            'Pitching':     'person_pitching',
+            'Fielding':     'person_fielding',
+            'Managing':     'person_managing',
+            'Umpiring':     'person_umpiring',
             'TeamBatting':  'team_batting',
             'TeamPitching': 'team_pitching',
             'TeamFielding': 'team_fielding',
             'Standings':    'team_standings',
+            'Attendance':   'team_attendance',
             'HeadToHead':   'team_head_to_head'}
 
 class Int64Encoder(json.JSONEncoder):
