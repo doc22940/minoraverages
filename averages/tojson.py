@@ -1,5 +1,7 @@
 import sys
 import json
+import decimal
+import pathlib
 from collections import OrderedDict
 
 import numpy as np
@@ -10,61 +12,38 @@ def dropnull(rec):
             for k, v, in rec.items()
             if isinstance(v, list) or not pd.isnull(v)}
 
-def xform_league(data):
-    return data.drop(['year', 'nameLeague'], axis='columns')
-
-def xform_person(data):
-    """Transform structure of person data columns.
-    """
-    if 'nameFirst' in data:
-        data['nameLast'] = data.apply(lambda x:
-                                      {'name':
-                                           dropnull({'last': x['nameLast'],
-                                                     'first': x['nameFirst']})},
-                                      axis=1)
-                                                
-        del data['nameFirst']
-    else:
-        data['nameLast'] = data.apply(lambda x:
-                                      {'name':
-                                           dropnull({'last': x['nameLast']})},
-                                      axis=1)
-    return data.rename(columns={'nameLast': 'person'})
-
-def xform_team_splits(data):
-    data['splits'] = data.apply(lambda x:
-                                [{"team": {"name": x[col]}}
-                                 for col in data.columns
-                                 if col.startswith('nameClub') and
-                                    not pd.isnull(x[col]) and x[col] != "all"],
-                                axis=1)
-    return data[[c for c in data.columns if not c.startswith('nameClub')]]
-
-def xform_totals(data):
-    data['totals'] = [dropnull(x)
-                      for x in data[[c for c in data.columns
-                                    if c not in ['row', 'person', 'splits']]]
-                                   .to_dict(orient='records')]
-    return data[['row', 'person', 'totals', 'splits']]
-
 def process_table(data):
-    data = data.assign(row=np.arange(len(data))+1) \
-               .pipe(xform_league) \
-               .pipe(xform_person) \
-               .pipe(xform_team_splits) \
-               .pipe(xform_totals)
-    data = [dropnull(x) for x in data.to_dict(orient='records')]
-    return data
+    data.insert(0, 'row', np.arange(len(data))+1)
+    data = data.drop(['year', 'nameLeague'], axis='columns') \
+               .rename(columns={'nameClub': 'nameClub1'})
+    for (i, col) in enumerate(data.columns):
+        if col in ['AVG', 'SLG', 'PCT']:
+            data[col] = data[col].apply(lambda x: ("%.3f" % x).lstrip("0"))
+    return [dropnull(x) for x in data.to_dict(orient='records')]
 
 name_map = {'Batting':      'player_batting',
             'Pitching':     'player_pitching',
-            'Fielding':     'player_fielding'}
+            'Fielding':     'player_fielding',
+            'TeamBatting':  'team_batting',
+            'TeamPitching': 'team_pitching',
+            'TeamFielding': 'team_fielding',
+            'Standings':    'team_standings',
+            'HeadToHead':   'team_head_to_head'}
 
-def main():
+class Int64Encoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.int64):
+            if not pd.isnull(obj):
+                return int(obj)
+            else:
+                return None
+        return json.JSONEncoder.default(self, obj)
+
+def convert_workbook(fn):
     leagues = []
     tables = OrderedDict()
-    for (name, data) in pd.read_excel(sys.argv[1], sheet_name=None).items():
-        if name not in name_map: continue
+    for (name, data) in pd.read_excel(fn, sheet_name=None).items():
+        if name == "Metadata": continue
         leagues.append(data[['year', 'nameLeague']].drop_duplicates())
         tables[name_map[name]] = process_table(data)
 
@@ -74,6 +53,14 @@ def main():
     js = OrderedDict()
     js['league'] = league
     js['tables'] = tables
-    js = json.dumps(js, indent=2)
-    print(js)
+    return js
 
+def main():
+    source = pathlib.Path("transcript")/sys.argv[1]
+    dest = pathlib.Path("json")/sys.argv[1]
+    for fn in sorted(source.glob("*.xls")):
+        print(fn)
+        data = convert_workbook(fn)
+        dest.mkdir(exist_ok=True, parents=True)
+        with open(dest/(fn.name.replace(".xls", ".json")), "w") as f:
+            f.write(json.dumps(data, indent=2, cls=Int64Encoder))
