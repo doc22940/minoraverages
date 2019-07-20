@@ -1,4 +1,12 @@
 league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R_W,R_L,R_T,R_PCT,R_RANK,R_ATT,B_G,B_IP,B_AB,B_R,B_ER,B_H,B_TB,B_1B,B_2B,B_3B,B_HR,B_RBI,B_BB,B_IBB,B_SO,B_GDP,B_HP,B_SH,B_SF,B_SB,B_CS,B_AVG,P_G,P_CG,P_SHO,P_GF,P_W,P_L,P_T,P_PCT,P_IP,P_AB,P_R,P_ER,P_H,P_HR,P_BB,P_IBB,P_SO,P_HP,P_SH,P_SF,P_WP,P_BK,P_ERA,F_G,F_TC,F_PO,F_A,F_E,F_DP,F_TP,F_PB,F_XI,F_LOB,F_PCT
+1913,Canadian League,Ottawa,regular,,,,,66,39,,0.629,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Canadian League,London,regular,,,,,64,39,,0.621,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Canadian League,St. Thomas,regular,,,,,56,48,,0.538,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Canadian League,Peterboro,regular,,,,,55,48,,0.534,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Canadian League,Guelph,regular,,,,,54,49,,0.524,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Canadian League,Hamilton,regular,,,,,52,52,,0.5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Canadian League,Berlin,regular,,,,,38,66,,0.365,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Canadian League,Brantford,regular,,,,,30,74,,0.288,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Central League,Grand Rapids,regular,,,,,92,48,,0.657,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Central League,Fort Wayne,regular,,,,,77,63,,0.55,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Central League,Springfield,regular,,,,,67,71,,0.486,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
