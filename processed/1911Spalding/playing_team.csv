@@ -113,6 +113,12 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,Connecticut State League,Northampton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3296,1600,273,,,,,,0.9470000000000001
 1910,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,3251,1606,298,,,,,,0.9420000000000001
 1910,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3269,1513,313,,,,,,0.94
+1910,Cotton States League,Greenwood,regular,,,,,71,36,,0.664,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Cotton States League,Jackson,regular,,,,,71,37,,0.658,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Cotton States League,Hattiesburg,regular,,,,,50,60,,0.455,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Cotton States League,Yazoo City,regular,,,,,44,62,,0.41500000000000004,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Cotton States League,Vicksburg,regular,,,,,46,65,,0.41400000000000003,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Cotton States League,Meridian,regular,,,,,45,67,,0.402,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Illinois-Indiana-Iowa League,Springfield,regular,,,,,88,48,,0.647,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Illinois-Indiana-Iowa League,Rock Island,regular,,,,,82,56,,0.592,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Illinois-Indiana-Iowa League,Peoria,regular,,,,,75,64,,0.54,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
