@@ -258,6 +258,16 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1913,Virginia League,Norfolk,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3623,1857,298,,,,,,0.948
 1913,Virginia League,Portsmouth,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3993,1615,321,,,,,,0.946
 1913,Virginia League,Petersburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,3784,1860,465,,,,,,0.924
+1913,Western Tri-State League,Walla Walla,regular/first,,,,,45,20,,0.692,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,Boise,regular/first,,,,,40,23,,0.635,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,Pendleton,regular/first,,,,,31,29,,0.517,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,North Yakima,regular/first,,,,,30,34,,0.469,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,Baker,regular/first,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,La Grande,regular/first,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,Boise,regular/second,,,,,32,22,,0.593,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,North Yakima,regular/second,,,,,27,27,,0.5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,Walla Walla,regular/second,,,,,26,28,,0.491,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Western Tri-State League,Pendleton,regular/second,,,,,23,31,,0.434,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Wisconsin-Illinois League,Oshkosh,regular,,,,,75,46,,0.62,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Wisconsin-Illinois League,Racine,regular,,,,,72,51,,0.585,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Wisconsin-Illinois League,Green Bay,regular,,,,,69,57,,0.548,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
