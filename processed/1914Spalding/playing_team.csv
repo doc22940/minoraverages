@@ -139,6 +139,24 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1913,New York State League,Syracuse,regular,,,,,61,78,,0.439,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,New York State League,Elmira,regular,,,,,56,85,,0.397,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,New York State League,Scranton,regular,,,,,49,91,,0.35,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Winston-Salem,regular,,,,,66,49,,0.574,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Durham,regular,,,,,65,49,,0.57,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Raleigh,regular,,,,,60,53,,0.531,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Asheville,regular,,,,,58,55,,0.513,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Charlotte,regular,,,,,47,67,,0.412,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Greensboro,regular,,,,,46,69,,0.4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Ashevillle,regular,,,,,,,,,,,117,,3865,492,,989,,,,,,,,,,,,,,,,0.256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Raleigh,regular,,,,,,,,,,,116,,3832,475,,962,,,,,,,,,,,,,,,,0.252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Durham,regular,,,,,,,,,,,115,,3720,484,,921,,,,,,,,,,,,,,,,0.248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Winston-Salem,regular,,,,,,,,,,,117,,3733,539,,924,,,,,,,,,,,,,,,,0.248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Greensboro,regular,,,,,,,,,,,116,,3745,403,,892,,,,,,,,,,,,,,,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Charlotte,regular,,,,,,,,,,,118,,3567,373,,831,,,,,,,,,,,,,,,,0.233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,North Carolina State League,Asheville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,3051,1545,235,,,,,,0.951
+1913,North Carolina State League,Greensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,2998,1419,240,,,,,,0.949
+1913,North Carolina State League,Raleigh,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,2976,1528,246,,,,,,0.948
+1913,North Carolina State League,Durham,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,115,,3032,1502,249,,,,,,0.948
+1913,North Carolina State League,Winston-Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117,,3014,1486,256,,,,,,0.946
+1913,North Carolina State League,Charlotte,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118,,3007,1382,274,,,,,,0.941
 1913,Northern League,Winona,regular,,,,,83,38,,0.686,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Northern League,Superior,regular,,,,,72,42,,0.632,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Northern League,Winnipeg,regular,,,,,69,53,,0.566,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
