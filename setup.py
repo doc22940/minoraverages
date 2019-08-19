@@ -1,9 +1,9 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
-    name='averages',
+    name='hgame-averages',
     version='0.1',
-    packages=find_packages(),
+    packages=['hgame.averages'],
     include_package_data=True,
     python_requires=">=3.7",
     install_requires=[
@@ -11,7 +11,6 @@ setup(
     ],
     entry_points="""
         [console_scripts]
-        averages=averages.process:main
-        tojson=averages.tojson:main
+        hgame-averages=hgame.averages.process:main
     """
 )
