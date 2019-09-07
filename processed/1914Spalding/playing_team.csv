@@ -129,6 +129,19 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1913,Eastern Association,Pittsfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3691,1817,293,,,,,,0.95
 1913,Eastern Association,Meriden,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3511,1751,294,,,,,,0.947
 1913,Eastern Association,Hartford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,3607,1741,315,,,,,,0.944
+1913,Empire State League,Valdosta,regular/first,,,,,32,15,,0.681,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Cordele,regular/first,,,,,29,21,,0.586,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Thomasville,regular/first,,,,,25,23,,0.521,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Americus,regular/first,,,,,21,28,,0.429,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Waycross,regular/first,,,,,19,27,,0.413,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Brunswick,regular/first,,,,,19,31,,0.38,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Thomasville,regular/second,,,,,32,17,,0.653,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Valdosta,regular/second,,,,,26,25,,0.51,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Waycross,regular/second,,,,,24,25,,0.49,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Americus,regular/second,,,,,24,26,,0.48,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Brunswick,regular/second,,,,,23,26,,0.469,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Thomasville,final,,,,,4,2,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Empire State League,Valdosta,final,,,,,2,4,,0.333,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Illinois-Indiana-Iowa League,Quincy,regular,,,,,79,60,,0.568,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,74,62,,0.544,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Illinois-Indiana-Iowa League,Davenport,regular,,,,,68,66,,0.507,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
