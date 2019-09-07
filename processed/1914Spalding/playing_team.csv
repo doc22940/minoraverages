@@ -194,6 +194,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1913,Kansas State League,Salina,regular,,,,,26,62,,0.295,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Kansas State League,Junction City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Kansas State League,Manhattan,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Paducah,regular,,,,,80,47,,0.63,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,78,47,,0.624,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,73,53,,0.579,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Henderson,regular,,,,,70,55,,0.56,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Owensboro,regular,,,,,69,56,,0.552,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,57,68,,0.456,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Harrisburg,regular,,,,,42,85,,0.331,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Vincennes,regular,,,,,34,92,,0.269,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Paducah,regular,,,,,,,,,,,127,,4219,682,,1205,,,,,,,,,,,,,,,,0.286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,,,,,,,126,,4286,689,,1167,,,,,,,,,,,,,,,,0.272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,,,,,,,125,,4318,669,,1167,,,,,,,,,,,,,,,,0.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,,,,,,,125,,4071,516,,1045,,,,,,,,,,,,,,,,0.257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Owensboro,regular,,,,,,,,,,,125,,4058,536,,1027,,,,,,,,,,,,,,,,0.253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Harrisburg,regular,,,,,,,,,,,127,,4313,530,,1083,,,,,,,,,,,,,,,,0.251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Henderson,regular,,,,,,,,,,,125,,4139,578,,1024,,,,,,,,,,,,,,,,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Vincennes,regular,,,,,,,,,,,126,,4187,514,,1007,,,,,,,,,,,,,,,,0.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,Kentucky-Illinois-Tennessee League,Henderson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3316,1529,252,,,,,,0.95
+1913,Kentucky-Illinois-Tennessee League,Paducah,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3336,1495,255,,,,,,0.949
+1913,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3321,1475,253,,,,,,0.949
+1913,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3300,1522,306,,,,,,0.94
+1913,Kentucky-Illinois-Tennessee League,Owensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3301,1516,320,,,,,,0.938
+1913,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,3194,1474,341,,,,,,0.932
+1913,Kentucky-Illinois-Tennessee League,Harrisburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3251,1557,359,,,,,,0.93
+1913,Kentucky-Illinois-Tennessee League,Vincennes,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3175,1592,413,,,,,,0.918
 1913,Michigan State League,Manistee,regular,,,,,73,47,,0.608,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Michigan State League,Traverse City,regular,,,,,62,57,,0.521,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,Michigan State League,Muskegon,regular,,,,,61,59,,0.508,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
