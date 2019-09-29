@@ -266,6 +266,18 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1913,Nebraska State League,Hastings,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.95
 1913,Nebraska State League,Columbus,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.946
 1913,Nebraska State League,Grand Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.936
+1913,New Brunswick-Maine League,Fredericton,regular,,,,,41,24,,0.631,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,St. John,regular,,,,,41,29,,0.586,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,St. Croix,regular,,,,,31,30,,0.508,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,Bangor,regular,,,,,18,48,,0.273,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,St. Croix,regular,,,,,,,,,,,61,,2128,339,,590,,,,,,,,,,,,,,,,0.277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,Fredericton,regular,,,,,,,,,,,65,,2173,390,,593,,,,,,,,,,,,,,,,0.273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,Bangor,regular,,,,,,,,,,,66,,2317,238,,633,,,,,,,,,,,,,,,,0.273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,St. John,regular,,,,,,,,,,,70,,2397,398,,649,,,,,,,,,,,,,,,,0.271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1913,New Brunswick-Maine League,St. John,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,,1918,871,177,,,,,,0.94
+1913,New Brunswick-Maine League,Bangor,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,,1690,827,192,,,,,,0.929
+1913,New Brunswick-Maine League,Fredericton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,,1735,749,193,,,,,,0.928
+1913,New Brunswick-Maine League,St. Croix,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,,1552,709,209,,,,,,0.915
 1913,New England League,Lowell,regular,,,,,81,45,,0.643,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,New England League,Portland,regular,,,,,71,49,,0.592,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1913,New England League,Worcester,regular,,,,,71,54,,0.568,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
