@@ -65,6 +65,20 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,Central Association,Keokuk,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3830,1741,261,,,,,,0.9550000000000001
 1910,Central Association,Kewanee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3776,1763,278,,,,,,0.9520000000000001
 1910,Central Association,Burlington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3594,1657,300,,,,,,0.9460000000000001
+1910,Central California League,Alameda,regular/first,,,,,12,6,,0.666,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,San Leandro,regular/first,,,,,12,7,,0.632,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Berkeley,regular/first,,,,,10,7,,0.588,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Richmond,regular/first,,,,,10,7,,0.588,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Elmhurst,regular/first,,,,,6,9,,0.4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Fruitvale,regular/first,,,,,3,9,,0.25,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Richmond,regular/second,,,,,10,3,,0.728,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,San Leandro,regular/second,,,,,6,3,,0.666,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Berkeley,regular/second,,,,,7,4,,0.636,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Alameda,regular/second,,,,,6,7,,0.462,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Elmhurst,regular/second,,,,,6,7,,0.462,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Fruitvale,regular/second,,,,,4,9,,0.308,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Richmond,finals,,,,,0,2,,0.0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Central California League,Alameda,finals,,,,,2,0,,1.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Central Kansas League,Ellsworth,regular,,,,,53,28,,0.654,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Central Kansas League,Clay Center,regular,,,,,48,33,,0.593,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Central Kansas League,Abilene,regular,,,,,44,33,,0.5710000000000001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -213,6 +227,16 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,Kansas State League,Newton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2897,1304,281,,,,,,0.937
 1910,Kansas State League,Arkansas City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2782,1282,291,,,,,,0.932
 1910,Kansas State League,Lyons,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2772,1320,208,,,,,,0.928
+1910,Kentucky-Illinois-Tennessee League,Vincennes,regular/first,,,,,36,23,,0.61,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Clarksville,regular/first,,,,,34,23,,0.596,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Paducah,regular/first,,,,,26,33,,0.441,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Hopkinsville,regular/first,,,,,21,38,,0.356,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,McLeansboro,regular/second,,,,,40,18,,0.69,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Harrisburg,regular/second,,,,,29,29,,0.5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Hopkinsville,regular/second,,,,,29,30,,0.492,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Paducah,regular/second,,,,,29,31,,0.483,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Vincennes,regular/second,,,,,28,31,,0.47500000000000003,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Kentucky-Illinois-Tennessee League,Clarksville,regular/second,,,,,21,37,,0.362,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Michigan State League,Cadillac,regular/first,,,,,43,42,,0.558,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Michigan State League,Traverse City,regular/first,,,,,50,45,,0.526,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Michigan State League,Muskegon,regular/first,,,,,49,47,,0.51,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -323,6 +347,14 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,New York State League,Utica,regular,,,,,69,69,,0.5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,New York State League,Troy,regular,,,,,48,85,,0.361,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,New York State League,Binghamton,regular,,,,,44,90,,0.328,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Caruthersville,regular/first,,,,,39,22,,0.639,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Paragould,regular/first,,,,,34,24,,0.586,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Jonesboro,regular/first,,,,,29,27,,0.518,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Blytheville,regular/first,,,,,14,43,,0.246,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Paragould,regular/second,,,,,31,22,,0.585,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Caruthersville,regular/second,,,,,29,26,,0.537,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Jonesboro,regular/second,,,,,24,28,,0.462,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Northeast Arkansas League,Blytheville,regular/second,,,,,24,32,,0.429,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Northwestern League,Spokane,regular,,,,,96,65,,0.596,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Northwestern League,Vancouver,regular,,,,,89,71,,0.556,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Northwestern League,Tacoma,regular,,,,,73,84,,0.465,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -511,6 +543,12 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1910,Virginia League,Norfolk,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,5432,3401,1776,255,,,,,,0.9530000000000001
 1910,Virginia League,Lynchburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,5385,3366,1756,263,,,,,,0.9510000000000001
 1910,Virginia League,Petersburg,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,5056,3210,1592,254,,,,,,0.95
+1910,Virginia Valley League,Huntington,regular/first,,,,,61,42,,0.592,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Virginia Valley League,Charleston,regular/first,,,,,62,53,,0.539,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Virginia Valley League,Point Pleasant,regular/first,,,,,57,51,,0.527,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Virginia Valley League,Ashland-Catlettsburg,regular/first,,,,,52,55,,0.486,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Virginia Valley League,Parkersburg,regular/first,,,,,49,64,,0.433,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1910,Virginia Valley League,Montgomery,regular/first,,,,,47,63,,0.427,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Washington State League,Raymond,regular/first,,,,,37,19,,0.661,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Washington State League,Chehalis,regular/first,,,,,35,19,,0.618,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1910,Washington State League,Aberdeen,regular/first,,,,,24,31,,0.444,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
