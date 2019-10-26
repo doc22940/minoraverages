@@ -1,5 +1,6 @@
 import sys
 import json
+import pathlib
 from collections import OrderedDict
 
 import numpy as np
@@ -25,7 +26,7 @@ def format_percentages(df):
         frac = frac.ljust(2, "0")
         return ".".join([full, frac])
 
-    for col in ["R_PCT", "B_AVG", "P_AVG", "P_PCT", "F_PCT"]:
+    for col in ["R_PCT", "B_AVG", "B_SLG", "P_AVG", "P_PCT", "F_PCT"]:
         if col in df:
             df[col] = (
                 df[col].replace("1", "1.000").replace("0", "0.000")
@@ -35,6 +36,20 @@ def format_percentages(df):
         df["P_ERA"] = df["P_ERA"].apply(format_era)
     return df
     
+
+def format_dates(df):
+    def format_date(x):
+        if pd.isnull(x):
+            return x
+        if len(x) == 8:
+            return f"{x[:4]}-{x[4:6]}-{x[6:]}"
+        raise ValueError(f"Invalid date field {x}")
+    
+    for col in ["S_FIRST", "S_LAST"]:
+        if col in df:
+            df[col] = df[col].apply(format_date)
+    return df
+
 
 def add_row_metadata(df, record_type):
     df.insert(loc=0, column='_row', value=np.arange(len(df))+1)
@@ -57,6 +72,30 @@ def rename_columns(df, column_map):
     return df
 
 
+def extract_standings_team(df):
+    column_map = {
+        "year":            "league_season",
+        "nameLeague":      "league_name",
+        "nameClub":        "club_name",
+        "division":        "division_name",
+        "phase":           "league_phase",
+        "G":               "R_G",
+        "W":               "R_W",
+        "L":               "R_L",
+        "T":               "R_T",
+        "PCT":             "R_PCT",
+        "RANK":            "R_RANK",
+        "NOTES":           "NOTES",
+    }
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_team")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
+    return [dropnull(x) for x in df.to_dict(orient='records')]
+        
+
 def extract_head_to_head(df):
     df = pd.melt(df, id_vars=["year", "nameLeague", "nameClub"],
                  var_name="opponent_name", value_name="R_W")
@@ -68,64 +107,117 @@ def extract_head_to_head(df):
         "opponent_name":   "opponent_name",
         "R_W":             "R_W",
     }
-    df = df[~df["R_W"].isnull()].pipe(rename_columns, column_map)
-    df = df.pipe(add_row_metadata, "playing_team").pipe(format_percentages)
+    df = (
+        df[~df["R_W"].isnull()]
+        .pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_team")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
     return [dropnull(x) for x in df.to_dict(orient='records')]
     
 
-def extract_standings_team(df):
+def extract_attendance_team(df):
     column_map = {
         "year":            "league_season",
         "nameLeague":      "league_name",
         "nameClub":        "club_name",
         "phase":           "league_phase",
-        "G":               "R_G",
-        "W":               "R_W",
-        "L":               "R_L",
-        "T":               "R_T",
-        "PCT":             "R_PCT",
-        "RANK":            "R_RANK",
-        "NOTES":           "NOTES",
+        "ATT":             "R_ATT",
     }
-    df = df.pipe(rename_columns, column_map)
-    df = df.pipe(add_row_metadata, "playing_team").pipe(format_percentages)
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_team")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
     return [dropnull(x) for x in df.to_dict(orient='records')]
         
-
 def extract_batting_team(df):
     column_map = {
         "year":            "league_season",
         "nameLeague":      "league_name",
         "nameClub":        "club_name",
+        "phase":           "league_phase",
         "G":               "B_G",
         "AB":              "B_AB",
         "R":               "B_R",
+        "OR":              "P_R",
         "ER":              "B_ER",
         "H":               "B_H",
         "TB":              "B_TB",
+        "EB":              "B_EB",    # "extra bases"
         "H1B":             "B_1B",
         "H2B":             "B_2B",
         "H3B":             "B_3B",
         "HR":              "B_HR",
+        "RBI":             "B_RBI",
         "BB":              "B_BB",
+        "IBB":             "B_IBB",
         "SO":              "B_SO",
+        "GDP":             "B_GDP",
+        "HP":              "B_HP",
         "SH":              "B_SH",
+        "SF":              "B_SF",
         "SB":              "B_SB",
+        "CS":              "B_CS",
+        "ROE":             "B_ROE",
         "LOB":             "B_LOB",
         "AVG":             "B_AVG",
+        "SLG":             "B_SLG",
         "W":               "R_W",
         "L":               "R_L",
         "T":               "R_T"
     }
-    df = df.pipe(rename_columns, column_map)
-    df = df.pipe(add_row_metadata, "playing_team").pipe(format_percentages)
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_team")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
     return [dropnull(x) for x in df.to_dict(orient='records')]
     
+def extract_pitching_team(df):
+    column_map = {
+        "year":            "league_season",
+        "nameLeague":      "league_name",
+        "nameClub":        "club_name",
+        "phase":           "league_phase",
+        "GP":              "P_G",
+        "CG":              "P_CG",
+        "SHO":             "P_SHO",
+        "IP":              "P_IP",
+        "AB":              "P_AB",
+        "R":               "P_R",
+        "ER":              "P_ER",
+        "H":               "P_H",
+        "HR":              "P_HR",
+        "BB":              "P_BB",
+        "IBB":             "P_IBB",
+        "SO":              "P_SO",
+        "HB":              "P_HP",
+        "SH":              "P_SH",
+        "SF":              "P_SF",
+        "WP":              "P_WP",
+        "BK":              "P_BK",
+        "SB":              "P_SB",
+        "CS":              "P_CS",
+        "ERA":             "P_ERA",
+    }
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_team")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
+    return [dropnull(x) for x in df.to_dict(orient='records')]
+
 def extract_fielding_team(df):
     column_map = {
         "year":            "league_season",
         "nameLeague":      "league_name",
         "nameClub":        "club_name",
+        "phase":           "league_phase",
         "G":               "F_G",
         "TC":              "F_TC",
         "PO":              "F_PO",
@@ -134,14 +226,39 @@ def extract_fielding_team(df):
         "DP":              "F_DP",
         "TP":              "F_TP",
         "PB":              "F_PB",
+        "SB":              "F_SB",
         "PCT":             "F_PCT",
         "P_W":             "P_W",
         "P_L":             "P_L",
         "P_T":             "P_T",
     }
-    df = df.pipe(rename_columns, column_map)
-    df = df.pipe(add_row_metadata, "playing_team").pipe(format_percentages)
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_team")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
     return [dropnull(x) for x in df.to_dict(orient='records')]
+
+
+def extract_managing_individual(df):
+    column_map = {
+        "year":            "league_season",
+        "nameLeague":      "league_name",
+        "nameLast":        "person_name_last",
+        "nameFirst":       "person_name_first",
+        "nameClub":        "club_name",
+        "seq":             "S_ORDER",
+        "dateFirst":       "S_FIRST",
+    }
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "managing_individual")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
+    return [dropnull(x) for x in df.to_dict(orient='records')]
+        
 
 def extract_batting_individual(df):
     column_map = {
@@ -149,11 +266,15 @@ def extract_batting_individual(df):
         "nameLeague":      "league_name",
         "nameLast":        "person_name_last",
         "nameFirst":       "person_name_first",
+        "bats":            "person_bats",
         "nameClub":        "club1_name",
         "nameClub1":       "club1_name",
         "nameClub2":       "club2_name",
         "nameClub3":       "club3_name",
         "nameClub4":       "club4_name",
+        "nameClub5":       "club5_name",
+        "phase":           "league_phase",
+        "Pos":             "F_POS",
         "G":               "B_G",
         "AB":              "B_AB",
         "R":               "B_R",
@@ -165,15 +286,27 @@ def extract_batting_individual(df):
         "H2B":             "B_2B",
         "H3B":             "B_3B",
         "HR":              "B_HR",
+        "RBI":             "B_RBI",
         "BB":              "B_BB",
+        "IBB":             "B_IBB",
         "SO":              "B_SO",
+        "GDP":             "B_GDP",
+        "HP":              "B_HP",
         "SH":              "B_SH",
+        "SF":              "B_SF",
         "SB":              "B_SB",
         "AVG":             "B_AVG",
+        "AVG_RANK":        "B_AVG_RANK",
+        "SLG":             "B_SLG",
         "NOTES":           "NOTES",
     }
-    df = df.pipe(rename_columns, column_map)
-    df = df.pipe(add_row_metadata, "playing_individual").pipe(format_percentages)
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_individual")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
+    df['club1_name'] = df['club1_name'].replace({"all": None})
     return [dropnull(x) for x in df.to_dict(orient='records')]
 
 
@@ -183,28 +316,48 @@ def extract_pitching_individual(df):
         "nameLeague":      "league_name",
         "nameLast":        "person_name_last",
         "nameFirst":       "person_name_first",
+        "throws":          "person_throws",
         "nameClub":        "club1_name",
         "nameClub1":       "club1_name",
         "nameClub2":       "club2_name",
         "nameClub3":       "club3_name",
         "nameClub4":       "club4_name",
+        "nameClub5":       "club5_name",
+        "phase":           "league_phase",
         "GP":              "P_G",
-        "RL":              "P_G_RP",    # games as reliever
+        "GS":              "P_GS",
+        "REL":             "P_G_RP",    # games as reliever
+        "EIG":             "P_G_EI",    # extra-inning games
+        "0H":              "P_G_0H",
+        "1H":              "P_G_1H",
+        "2H":              "P_G_2H",
+        "3H":              "P_G_3H",
+        "4H":              "P_G_4H",
+        "5H":              "P_G_5H",
         "CG":              "P_CG",
         "SHO":             "P_SHO",
         "TO":              "P_TO",
         "GF":              "P_GF",
+        "DEC":             "P_DEC",
         "W":               "P_W",
         "L":               "P_L",
         "T":               "P_T",
+        "ND":              "P_ND",
         "PCT":             "P_PCT",
         "IP":              "P_IP",
         "TBF":             "P_TBF",
         "AB":              "P_AB",
         "R":               "P_R",
+        "R/G":             "P_RPG",    # runs per gamey
         "ER":              "P_ER",
         "H":               "P_H",
+        "H/G":             "P_HPG",    # hits per game
+        "TB":              "P_TB",
+        "H2B":             "P_2B",
+        "H3B":             "P_3B",
+        "HR":              "P_HR",
         "BB":              "P_BB",
+        "IBB":             "B_IBB",
         "SO":              "P_SO",
         "HB":              "P_HP",
         "SH":              "P_SH",
@@ -213,10 +366,15 @@ def extract_pitching_individual(df):
         "SB":              "P_SB",
         "AVG":             "P_AVG",
         "ERA":             "P_ERA",
+        "ERA_RANK":        "P_ERA_RANK",
         "NOTES":           "NOTES",
     }
-    df = df.pipe(rename_columns, column_map)
-    df = df.pipe(add_row_metadata, "playing_individual").pipe(format_percentages)
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_individual")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
     return [dropnull(x) for x in df.to_dict(orient='records')]
 
 
@@ -226,27 +384,37 @@ def extract_fielding_individual(df):
         "nameLeague":      "league_name",
         "nameLast":        "person_name_last",
         "nameFirst":       "person_name_first",
+        "throws":          "person_throws",
         "nameClub":        "club1_name",
         "nameClub1":       "club1_name",
         "nameClub2":       "club2_name",
         "nameClub3":       "club3_name",
         "nameClub4":       "club4_name",
+        "nameClub5":       "club5_name",
+        "phase":           "league_phase",
         "Pos":             "F_POS",
         "G":               "F_G",
         "INN":             "F_INN",
+        "TC":              "F_TC",
         "PO":              "F_PO",
         "A":               "F_A",
         "E":               "F_E",
-        "TC":              "F_TC",
+        "DP":              "F_DP",
+        "TP":              "F_TP",
         "PB":              "F_PB",
         "SB":              "F_SB",
         "CS":              "F_CS",
         "CN":              "F_PK",
         "PCT":             "F_PCT",
+        "P_WP":            "P_WP",
         "NOTES":           "NOTES",
     }
-    df = df.pipe(rename_columns, column_map)
-    df = df.pipe(add_row_metadata, "playing_individual").pipe(format_percentages)
+    df = (
+        df.pipe(rename_columns, column_map)
+        .pipe(add_row_metadata, "playing_individual")
+        .pipe(format_percentages)
+        .pipe(format_dates)
+    )
     return [dropnull(x) for x in df.to_dict(orient='records')]
 
 
@@ -255,9 +423,12 @@ function_map = {
     "Pitching":  extract_pitching_individual,
     "Fielding":  extract_fielding_individual,
     "TeamBatting":   extract_batting_team,
+    "TeamPitching":  extract_pitching_team,
     "TeamFielding":  extract_fielding_team,
     "Standings":    extract_standings_team,
     "HeadToHead":   extract_head_to_head,
+    "Attendance":   extract_attendance_team,
+    "Managing":     extract_managing_individual,
 }
 
 name_map = {
@@ -265,26 +436,40 @@ name_map = {
     "Pitching":  "pitching_individual",
     "Fielding":  "fielding_individual",
     "TeamBatting":   "batting_team",
+    "TeamPitching":  "pitching_team",
     "TeamFielding":  "fielding_team",
     "Standings":     "standings_team",
     "HeadToHead":    "headtohead_team",
+    "Attendance":    "attendance_team",
+    "Managing":      "managing_individual",
 }
 
-def main():
-    leagues = []
+
+def process_file(fn):
     tables = OrderedDict()
-    for (name, data) in pd.read_excel(sys.argv[1],
+    for (name, data) in pd.read_excel(fn,
                                       dtype=str, sheet_name=None).items():
+        if name == "Metadata":
+            continue
         if name not in function_map:
             print(f"WARNING: Unknown sheet name {name}")
             continue
         print(f"Processing worksheet {name}")
-        leagues.append(data[['year', 'nameLeague']].drop_duplicates())
         tables[name_map[name]] = function_map[name](data)
+    return tables
 
-    js = json.dumps(tables, indent=2)
-    with open("outfile.json", "w") as f:
-        f.write(js)
+def main():
+    inpath = pathlib.Path(sys.argv[1])
+    outpath = pathlib.Path(sys.argv[1].replace("transcript", "json"))
+    outpath.mkdir(exist_ok=True, parents=True)
+
+    for fn in sorted(pathlib.Path(sys.argv[1]).glob("*.xls")):
+        print(f"Processing {fn}")
+        tables = process_file(fn)
+        js = json.dumps(tables, indent=2)
+        with (outpath / fn.name.replace(".xls", ".json")).open("w") as f:
+            f.write(js)
+        print()
 
 
 if __name__ == '__main__':
