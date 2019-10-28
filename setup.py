@@ -11,6 +11,6 @@ setup(
     ],
     entry_points="""
         [console_scripts]
-        hgame-averages=hgame.averages.process:main
+        hgame-averages=hgame.averages.main:cli
     """
 )

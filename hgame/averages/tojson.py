@@ -1,4 +1,3 @@
-import sys
 import json
 import pathlib
 from collections import OrderedDict
@@ -27,7 +26,7 @@ def extract_club_splits(df, prefix):
     i = 1
     while True:
         colname = f"club{i}_name"
-        if not colname in df:
+        if colname not in df:
             return df
         df.insert(loc=df.columns.get_loc(colname)+1,
                   column=f"club{i}_{prefix}_G",
@@ -57,7 +56,7 @@ def format_percentages(df):
     if "P_ERA" in df:
         df["P_ERA"] = df["P_ERA"].apply(format_era)
     return df
-    
+
 
 def format_dates(df):
     def format_date(x, season):
@@ -70,7 +69,7 @@ def format_dates(df):
         elif len(x) == 2:
             return f"{season}-{x}"
         raise ValueError(f"Invalid date field {x}")
-    
+
     for col in ["S_FIRST", "S_LAST"]:
         if col in df:
             df[col] = df[col].apply(lambda x:
@@ -87,7 +86,7 @@ def format_names(df):
             df[col] = df[col].str.replace(chr(8217), "'")
     return df
 
-            
+
 def add_row_metadata(df, record_type):
     df.insert(loc=0, column='_row', value=np.arange(len(df))+1)
     df.insert(loc=1, column='_type', value=record_type)
@@ -132,7 +131,7 @@ def extract_standings_team(df):
         .pipe(format_dates)
     )
     return [dropnull(x) for x in df.to_dict(orient='records')]
-        
+
 
 def extract_head_to_head(df):
     df = pd.melt(df, id_vars=["year", "nameLeague", "nameClub"],
@@ -153,7 +152,7 @@ def extract_head_to_head(df):
         .pipe(format_dates)
     )
     return [dropnull(x) for x in df.to_dict(orient='records')]
-    
+
 
 def extract_attendance_team(df):
     column_map = {
@@ -170,7 +169,8 @@ def extract_attendance_team(df):
         .pipe(format_dates)
     )
     return [dropnull(x) for x in df.to_dict(orient='records')]
-        
+
+
 def extract_batting_team(df):
     column_map = {
         "year":            "league_season",
@@ -215,7 +215,8 @@ def extract_batting_team(df):
         .pipe(format_dates)
     )
     return [dropnull(x) for x in df.to_dict(orient='records')]
-    
+
+
 def extract_pitching_team(df):
     column_map = {
         "year":            "league_season",
@@ -256,6 +257,7 @@ def extract_pitching_team(df):
         .pipe(format_dates)
     )
     return [dropnull(x) for x in df.to_dict(orient='records')]
+
 
 def extract_fielding_team(df):
     column_map = {
@@ -306,7 +308,7 @@ def extract_managing_individual(df):
         .pipe(format_names)
     )
     return [dropnull(x) for x in df.to_dict(orient='records')]
-        
+
 
 def extract_umpiring_individual(df):
     column_map = {
@@ -559,8 +561,8 @@ def process_file(source, fn):
         data["tables"][name_map[name]] = function_map[name](df)
     return data
 
-def main():
-    source = sys.argv[1]
+
+def main(source):
     inpath = pathlib.Path("transcript")/source
     outpath = pathlib.Path("json")/source
     outpath.mkdir(exist_ok=True, parents=True)
@@ -572,7 +574,3 @@ def main():
         with (outpath / fn.name.replace(".xls", ".json")).open("w") as f:
             f.write(js)
         print()
-
-
-if __name__ == '__main__':
-    main()
