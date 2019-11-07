@@ -88,6 +88,12 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,International League,Rochester,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6121,3868,1963,290,,,13,,,0.953
 1912,International League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153,6317,4058,1959,300,,,27,,,0.952
 1912,International League,Providence,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,6337,4097,1923,317,,,17,,,0.95
+1912,Northwestern League,Seattle,regular,,,,,99,66,,0.6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Northwestern League,Spokane,regular,,,,,95,72,,0.568,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Northwestern League,Vancouver,regular,,,,,93,74,,0.556,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Northwestern League,Portland,regular,,,,,75,88,,0.46,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Northwestern League,Victoria,regular,,,,,73,93,,0.439,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Northwestern League,Tacoma,regular,,,,,62,104,,0.373,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Ohio State League,Portsmouth,regular/first,,,,,43,30,,0.589,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Ohio State League,Mansfield,regular/first,,,,,45,34,,0.57,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Ohio State League,Newark,regular/first,,,,,42,36,,0.538,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
