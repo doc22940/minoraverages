@@ -87,9 +87,10 @@ def format_names(df):
     return df
 
 
-def add_row_metadata(df, record_type):
-    df.insert(loc=0, column='_row', value=np.arange(len(df))+1)
-    df.insert(loc=1, column='_type', value=record_type)
+def add_row_metadata(df, table, record_type):
+    df.insert(loc=0, column='_table', value=table)
+    df.insert(loc=1, column='_row', value=np.arange(len(df))+1)
+    df.insert(loc=2, column='_type', value=record_type)
     return df
 
 
@@ -126,7 +127,7 @@ def extract_standings_team(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_team")
+        .pipe(add_row_metadata, "standings_team", "playing_team")
         .pipe(format_percentages)
         .pipe(format_dates)
     )
@@ -147,7 +148,7 @@ def extract_head_to_head(df):
     df = (
         df[~df["R_W"].isnull()]
         .pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_team")
+        .pipe(add_row_metadata, "headtohead_team", "playing_team")
         .pipe(format_percentages)
         .pipe(format_dates)
     )
@@ -164,7 +165,7 @@ def extract_attendance_team(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_team")
+        .pipe(add_row_metadata, "attendance_team", "playing_team")
         .pipe(format_percentages)
         .pipe(format_dates)
     )
@@ -210,7 +211,7 @@ def extract_batting_team(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_team")
+        .pipe(add_row_metadata, "batting_team", "playing_team")
         .pipe(format_percentages)
         .pipe(format_dates)
     )
@@ -252,7 +253,7 @@ def extract_pitching_team(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_team")
+        .pipe(add_row_metadata, "pitching_team", "playing_team")
         .pipe(format_percentages)
         .pipe(format_dates)
     )
@@ -282,7 +283,7 @@ def extract_fielding_team(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_team")
+        .pipe(add_row_metadata, "fielding_team", "playing_team")
         .pipe(format_percentages)
         .pipe(format_dates)
     )
@@ -302,7 +303,7 @@ def extract_managing_individual(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "managing_individual")
+        .pipe(add_row_metadata, "managing_individual", "managing_individual")
         .pipe(format_percentages)
         .pipe(format_dates)
         .pipe(format_names)
@@ -321,7 +322,7 @@ def extract_umpiring_individual(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "umpiring_individual")
+        .pipe(add_row_metadata, "umpiring_individual", "umpiring_individual")
         .pipe(format_percentages)
         .pipe(format_dates)
         .pipe(format_names)
@@ -388,7 +389,7 @@ def extract_batting_individual(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_individual")
+        .pipe(add_row_metadata, "batting_individual", "playing_individual")
         .pipe(extract_club_splits, "B")
         .pipe(format_percentages)
         .pipe(format_dates)
@@ -459,7 +460,7 @@ def extract_pitching_individual(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_individual")
+        .pipe(add_row_metadata, "pitching_individual", "playing_individual")
         .pipe(extract_club_splits, "P")
         .pipe(format_percentages)
         .pipe(format_dates)
@@ -507,7 +508,7 @@ def extract_fielding_individual(df):
     }
     df = (
         df.pipe(rename_columns, column_map)
-        .pipe(add_row_metadata, "playing_individual")
+        .pipe(add_row_metadata, "fielding_individual", "playing_individual")
         .pipe(extract_club_splits, "F")
         .pipe(format_percentages)
         .pipe(format_dates)
@@ -530,26 +531,12 @@ function_map = {
     "Umpiring":      extract_umpiring_individual,
 }
 
-name_map = {
-    "Batting":       "batting_individual",
-    "Pitching":      "pitching_individual",
-    "Fielding":      "fielding_individual",
-    "TeamBatting":   "batting_team",
-    "TeamPitching":  "pitching_team",
-    "TeamFielding":  "fielding_team",
-    "Standings":     "standings_team",
-    "HeadToHead":    "headtohead_team",
-    "Attendance":    "attendance_team",
-    "Managing":      "managing_individual",
-    "Umpiring":      "umpiring_individual",
-}
-
 
 def process_file(source, fn):
     data = OrderedDict()
     data["_source"] = OrderedDict()
     data["_source"]["title"] = source
-    data["tables"] = OrderedDict()
+    data["records"] = []
     for (name, df) in pd.read_excel(fn,
                                     dtype=str, sheet_name=None).items():
         if name == "Metadata":
@@ -558,7 +545,7 @@ def process_file(source, fn):
             print(f"WARNING: Unknown sheet name {name}")
             continue
         print(f"Processing worksheet {name}")
-        data["tables"][name_map[name]] = function_map[name](df)
+        data["records"].extend(function_map[name](df))
     return data
 
 
