@@ -239,6 +239,14 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1958,Carolina League,Wilson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3583,1361,223,132,0,27,,,0.957
 1958,Carolina League,Greensboro,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3611,1550,240,158,0,33,,,0.956
 1958,Carolina League,High Point-Thomasville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140,,3669,1502,258,108,0,39,,,0.952
+1958,Cuban Winter League,Almendares,regular,,,,,46,26,,0.639,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Cuban Winter League,Marianao,regular,,,,,38,34,,0.528,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Cuban Winter League,Cienfuegos,regular,,,,,31,41,,0.431,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Cuban Winter League,Havana,regular,,,,,29,43,,0.403,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Dominican Winter League,Escogido,regular,,,,,38,21,,0.644,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Dominican Winter League,Licey,regular,,,,,30,29,,0.508,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Dominican Winter League,Aguilas Cibaenas,regular,,,,,26,34,,0.433,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Dominican Winter League,Estrellas Orientales,regular,,,,,25,35,,0.417,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Eastern League,Binghamton,regular/first,Northern,,,,45,27,0,0.625,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Eastern League,Springfield,regular/first,Northern,,,,36,35,1,0.597,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Eastern League,Williamsport,regular/first,Northern,,,,33,38,0,0.465,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -293,6 +301,10 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1958,Eastern League,Allentown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,3464,1314,197,106,0,22,,,0.96
 1958,Eastern League,Williamsport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132,,3461,1404,207,134,0,17,,,0.959
 1958,Eastern League,Binghamton,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,134,,3468,1466,226,119,0,25,,,0.956
+1958,Florida Instructional League,Athletics,regular,,,,,27,19,,0.587,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Florida Instructional League,Yankees,regular,,,,,26,20,,0.565,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Florida Instructional League,Cardinals,regular,,,,,23,25,,0.479,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Florida Instructional League,Braves,regular,,,,,16,28,,0.364,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Illinois-Indiana-Iowa League,Davenport,regular/first,,,,,40,19,1,0.678,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Illinois-Indiana-Iowa League,Burlington,regular/first,,,,,32,27,0,0.542,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Illinois-Indiana-Iowa League,Green Bay,regular/first,,,,,29,29,1,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -490,6 +502,14 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1958,Nebraska State League,Grand Island,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,,1531,604,162,51,0,29,,,0.929
 1958,Nebraska State League,Holdrege,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,,1611,547,168,52,0,47,,,0.928
 1958,Nebraska State League,Kearney,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,,1573,597,171,44,0,25,,,0.927
+1958,Nicaraguan Winter League,Boer,regular/first,,,,,20,10,,0.667,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Nicaraguan Winter League,Cinco Estrellas,regular/first,,,,,15,15,,0.5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Nicaraguan Winter League,Leon,regular/first,,,,,13,17,,0.433,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Nicaraguan Winter League,Oriental,regular/first,,,,,12,18,,0.4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Nicaraguan Winter League,Oriental,regular/second,,,,,17,13,,0.567,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Nicaraguan Winter League,Boer,regular/second,,,,,16,14,,0.533,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Nicaraguan Winter League,Cinco Estrellas,regular/second,,,,,15,15,,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Nicaraguan Winter League,Leon,regular/second,,,,,12,18,,0.4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Northern League,St. Cloud,regular,,,,,72,50,2,0.59,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Northern League,Fargo-Moorhead,regular,,,,,72,51,0,0.585,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Northern League,Winnipeg,regular,,,,,65,53,0,0.551,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -574,6 +594,10 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1958,Northwest League,Tri-City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,,3288,1393,229,120,0,48,,,0.953
 1958,Northwest League,Wenatchee,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3344,1315,247,114,1,41,,,0.95
 1958,Northwest League,Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3336,1387,271,92,0,28,,,0.946
+1958,Occidental Winter League,Rapinos,regular,,,,,28,25,,0.528,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Occidental Winter League,Pastora,regular,,,,,27,26,,0.509,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Occidental Winter League,Gavilanes,regular,,,,,26,26,,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Occidental Winter League,Cabimas,regular,,,,,21,30,,0.412,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Pacific Coast League,Phoenix,regular,,,,,89,65,0,0.578,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Pacific Coast League,San Diego,regular,,,,,84,69,0,0.549,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Pacific Coast League,Vancouver,regular,,,,,79,73,1,0.52,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -606,6 +630,10 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1958,Pacific Coast League,San Diego,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153,,3990,1568,176,149,1,9,,,0.969
 1958,Pacific Coast League,Phoenix,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,,3987,1569,186,149,0,26,,,0.968
 1958,Pacific Coast League,Seattle,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,,3952,1527,189,139,1,15,,,0.967
+1958,Panama Winter League,Azucareros,regular,,,,,23,13,,0.639,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Panama Winter League,Marlboro,regular,,,,,19,17,,0.528,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Panama Winter League,Carta Vieja,regular,,,,,16,20,,0.444,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Panama Winter League,Cerveza Balboa,regular,,,,,14,22,,0.389,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Pioneer League,Great Falls,regular/first,,,,,39,28,1,0.582,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Pioneer League,Pocatello,regular/first,,,,,38,29,2,0.567,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Pioneer League,Boise,regular/first,,,,,36,29,0,0.554,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -650,6 +678,11 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1958,Pioneer League,Magic Valley,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132,,3330,1423,239,119,0,32,,,0.952
 1958,Pioneer League,Idaho Falls,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,131,,3378,1313,241,100,0,18,,,0.951
 1958,Pioneer League,Billings,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,3331,1380,252,122,0,13,,,0.949
+1958,Puerto Rican Winter League,San Juan,regular,,,,,39,24,,0.619,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Puerto Rican Winter League,Santurce,regular,,,,,36,27,,0.571,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Puerto Rican Winter League,Caguas-Guayama,regular,,,,,30,34,,0.469,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Puerto Rican Winter League,Mayaguez,regular,,,,,28,36,,0.438,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Puerto Rican Winter League,Ponce,regular,,,,,26,38,,0.406,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Sophomore League,Midland,regular,Eastern,,,,72,48,0,0.609,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Sophomore League,San Angelo,regular,Eastern,,,,61,59,0,0.509,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Sophomore League,Plainview,regular,Eastern,,,,50,70,0,0.417,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -804,6 +837,14 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1958,Texas League,Houston,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,5813,4004,1614,195,116,0,15,,,0.966
 1958,Texas League,Corpus Christi,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,152,5693,3970,1528,195,119,0,29,,,0.966
 1958,Texas League,Tulsa,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,152,5834,3893,1736,205,145,0,10,,,0.965
+1958,Venezuelan Winter League,Valencia,regular,,,,,28,18,,0.609,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Venezuelan Winter League,Oriente,regular,,,,,25,21,,0.543,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Venezuelan Winter League,Caracas,regular,,,,,24,22,,0.522,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Venezuelan Winter League,Pampero,regular,,,,,17,28,,0.378,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Veracruz Winter League,Puebla,regular,,,,,38,22,,0.633,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Veracruz Winter League,Cordoba,regular,,,,,34,26,,0.567,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Veracruz Winter League,Jalapa,regular,,,,,30,30,,0.5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1958,Veracruz Winter League,Veracruz,regular,,,,,18,42,,0.3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Western League,Colorado Springs,regular,,,,,87,60,0,0.592,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Western League,Amarillo,regular,,,,,84,63,1,0.571,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1958,Western League,Lincoln,regular,,,,,75,71,0,0.514,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
