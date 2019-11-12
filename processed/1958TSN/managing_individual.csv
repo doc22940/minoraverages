@@ -5,7 +5,7 @@ league.year,league.name,phase.name,entry.name,seq,person.ref,person.name.last,pe
 1957,Alabama-Florida League,regular,Panama City,0,M90047,Deery,James,,
 1957,Alabama-Florida League,regular,Fort Walton Beach,0,M90052,Cobb,Neal,,
 1957,Alabama-Florida League,regular,Pensacola,1,M90060,Fitzgerald,Louie,,
-1957,Alabama-Florida League,regular,Pensacola,2,M90071,Ford,Rex,19570610,19570619
+1957,Alabama-Florida League,regular,Pensacola,2,M90071,Ford,Rex,19570610,
 1957,Alabama-Florida League,regular,Pensacola,3,M90083,Fitzgerald,Louie,19570620,
 1957,Alabama-Florida League,regular,Selma,0,M90094,Kerr,John (Buddy),,
 1957,Appalachian League,regular,Bluefield,0,M90018,Bragan,James,,
@@ -49,9 +49,9 @@ league.year,league.name,phase.name,entry.name,seq,person.ref,person.name.last,pe
 1957,Illinois-Indiana-Iowa League,regular,Keokuk,0,M90052,May,Merrill (Pinky),,
 1957,Illinois-Indiana-Iowa League,regular,Cedar Rapids,0,M90060,Ozark,Daniel,,
 1957,Midwest League,regular,Kokomo,1,M90018,Reiser,Harold (Pete),,
-1957,Midwest League,regular,Kokomo,2,M90026,Ackerman,Carl,19570508,19570513
-1957,Midwest League,regular,Kokomo,3,M90039,Reiser,Harold (Pete),19570514,19570522
-1957,Midwest League,regular,Kokomo,4,M90047,Ackerman,Carl,19570523,19570530
+1957,Midwest League,regular,Kokomo,2,M90026,Ackerman,Carl,19570508,
+1957,Midwest League,regular,Kokomo,3,M90039,Reiser,Harold (Pete),19570514,
+1957,Midwest League,regular,Kokomo,4,M90047,Ackerman,Carl,19570523,
 1957,Midwest League,regular,Kokomo,5,M90052,Reiser,Harold (Pete),19570601,
 1957,Midwest League,regular,Decatur,0,M90060,Unser,Albert,,
 1957,Midwest League,regular,Dubuque,0,M90071,Noga,George,,
