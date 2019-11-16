@@ -553,13 +553,16 @@ def process_file(source, fn):
 
 def main(source):
     inpath = pathlib.Path("transcript")/source
-    outpath = pathlib.Path("json")/source
+    outpath = pathlib.Path("json")
     outpath.mkdir(exist_ok=True, parents=True)
 
+    books = []
     for fn in sorted(inpath.glob("*.xls")):
         print(f"Processing {fn}")
-        tables = process_file(source, fn)
-        js = json.dumps(tables, indent=2)
-        with (outpath / fn.name.replace(".xls", ".json")).open("w") as f:
-            f.write(js)
+        books.append(process_file(source, fn))
         print()
+
+    js = json.dumps(books, indent=2)
+    with (outpath / f"{source}.json").open("w") as f:
+            f.write(js)
+    print()
