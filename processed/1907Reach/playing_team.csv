@@ -205,6 +205,12 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1906,Ohio-Pennsylvania League,Lancaster,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3666,1597,293,,,,,,0.947
 1906,Ohio-Pennsylvania League,Sharon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3493,1609,286,,,,,,0.947
 1906,Ohio-Pennsylvania League,Newark,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3629,1663,306,,,,,,0.945
+1906,Pacific Coast League,Portland,regular,,,,,115,60,,0.657,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Pacific Coast League,Seattle,regular,,,,,99,83,,0.544,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Pacific Coast League,Los Angeles,regular,,,,,95,87,,0.522,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Pacific Coast League,San Francisco,regular,,,,,91,84,,0.52,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Pacific Coast League,Oakland,regular,,,,,77,110,,0.411,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1906,Pacific Coast League,Fresno,regular,,,,,64,117,,0.353,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Pennsylvania-Ohio-Maryland League,Uniontown,regular,,,,,56,42,,0.571,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Pennsylvania-Ohio-Maryland League,Washington,regular,,,,,57,44,,0.564,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1906,Pennsylvania-Ohio-Maryland League,Braddock,regular,,,,,55,43,,0.561,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
