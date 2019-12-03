@@ -100,6 +100,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,Central League,Akron,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,3283,1643,264,,,,,,0.949
 1912,Central League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,3305,1532,281,,,,,,0.945
 1912,Central League,Terre Haute,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129,,3400,1868,328,,,,,,0.941
+1912,Connecticut State League,New Haven,regular,,,,,76,41,,0.65,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Hartford,regular,,,,,67,51,,0.568,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Bridgeport,regular,,,,,61,55,,0.526,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Holyoke,regular,,,,,57,58,,0.496,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Springfield,regular,,,,,50,70,,0.417,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Waterbury,regular,,,,,39,75,,0.342,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Bridgeport,regular,,,,,,,,,,,117,,3882,497,,1000,,,,,,,,,,,,,,,,0.258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Holyoke,regular,,,,,,,,,,,119,,3887,486,,968,,,,,,,,,,,,,,,,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,New Haven,regular,,,,,,,,,,,121,,3984,498,,984,,,,,,,,,,,,,,,,0.247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Waterbury,regular,,,,,,,,,,,116,,3838,404,,905,,,,,,,,,,,,,,,,0.236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Springfield,regular,,,,,,,,,,,123,,4050,410,,941,,,,,,,,,,,,,,,,0.232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Hartford,regular,,,,,,,,,,,122,,3926,472,,904,,,,,,,,,,,,,,,,0.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,New Haven,regular,,,,,,,,,,,,,,,,,,,157,59,27,,,,,,,204,,215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,149,35,14,,,,,,,150,,186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,144,28,35,,,,,,,181,,178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,,,140,36,22,,,,,,,118,,189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Hartford,regular,,,,,,,,,,,,,,,,,,,160,44,28,,,,,,,154,,150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,155,74,26,,,,,,,156,,147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Connecticut State League,Hartford,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122,,3237,1489,240,,,,,,0.952
+1912,Connecticut State League,New Haven,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121,,3306,1691,247,,,,,,0.95
+1912,Connecticut State League,Bridgeport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,117,,3131,1516,254,,,,,,0.95
+1912,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3297,1717,288,,,,,,0.946
+1912,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,3042,1461,259,,,,,,0.946
+1912,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,3162,1544,275,,,,,,0.945
 1912,International League,Toronto,regular,,,,,91,62,,0.595,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,International League,Rochester,regular,,,,,86,67,,0.562,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,International League,Newark,regular,,,,,80,72,,0.526,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
