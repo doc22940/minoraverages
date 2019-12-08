@@ -124,6 +124,30 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,Connecticut State League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,3297,1717,288,,,,,,0.946
 1912,Connecticut State League,Waterbury,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116,,3042,1461,259,,,,,,0.946
 1912,Connecticut State League,Holyoke,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119,,3162,1544,275,,,,,,0.945
+1912,Illinois-Indiana-Iowa League,Springfield,regular,,,,,92,45,,0.672,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Davenport,regular,,,,,75,61,,0.551,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Decatur,regular,,,,,67,68,,0.496,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Quincy,regular,,,,,68,72,,0.486,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,65,73,,0.471,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Danville,regular,,,,,63,71,,0.47,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Peoria,regular,,,,,58,74,,0.439,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,58,78,,0.427,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,136,,4331,638,,1170,1666,,,,,,,,,,,192,,227,,0.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Quincy,regular,,,,,,,,,,,138,,4523,533,,1183,1525,,,,,,,,,,,195,,183,,0.262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Danville,regular,,,,,,,,,,,136,,4251,476,,1061,1383,,,,,,,,,,,206,,175,,0.249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,137,,4423,455,,1098,1409,,,,,,,,,,,178,,174,,0.248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,139,,4482,507,,1103,1430,,,,,,,,,,,143,,261,,0.246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,138,,4346,491,,1049,1327,,,,,,,,,,,215,,232,,0.244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,138,,4505,544,,1101,1430,,,,,,,,,,,167,,186,,0.244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,136,,4349,505,,1059,1339,,,,,,,,,,,178,,206,,0.244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Illinois-Indiana-Iowa League,Davenport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3614,1663,191,,,10,,,0.965
+1912,Illinois-Indiana-Iowa League,Danville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3517,1689,205,,,10,,,0.962
+1912,Illinois-Indiana-Iowa League,Decatur,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3629,1631,225,,,19,,,0.959
+1912,Illinois-Indiana-Iowa League,Quincy,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,138,,3617,1832,237,,,17,,,0.958
+1912,Illinois-Indiana-Iowa League,Springfield,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3564,1649,231,,,11,,,0.958
+1912,Illinois-Indiana-Iowa League,Dubuque,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139,,3552,1827,251,,,17,,,0.955
+1912,Illinois-Indiana-Iowa League,Bloomington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,,3600,1767,270,,,9,,,0.952
+1912,Illinois-Indiana-Iowa League,Peoria,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,136,,3606,1780,282,,,30,,,0.95
 1912,International League,Toronto,regular,,,,,91,62,,0.595,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,International League,Rochester,regular,,,,,86,67,,0.562,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,International League,Newark,regular,,,,,80,72,,0.526,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
