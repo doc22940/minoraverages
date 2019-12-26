@@ -180,7 +180,7 @@ class Workbook(object):
                 df[col] = df.groupby('person.ref')[col] \
                             .fillna(method='backfill')
         df.loc[df['S_STINT'] == 'T', 'nameClub1'] = None
-
+        df['F_P_POS'] = 1
         return df.rename(columns={'year':         'league.year',
                                   'nameLeague':   'league.name',
                                   'nameClub1':    'entry.name',
