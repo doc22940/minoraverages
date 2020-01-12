@@ -252,6 +252,7 @@ def extract_pitching_team(df):
         "CS":              "P_CS",
         "ERA":             "P_ERA",
     }
+    df['F_P_POS'] = 1
     df = (
         df.pipe(rename_columns, column_map)
         .pipe(add_row_metadata, "pitching_team", "playing_team")
