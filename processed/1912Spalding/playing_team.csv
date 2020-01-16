@@ -17,6 +17,16 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1911,Appalachian League,Johnson City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99,,2460,1302,233,,,,,,0.9420000000000001
 1911,Appalachian League,Morristown,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,,2361,1211,259,,,,,,0.932
 1911,Appalachian League,Bristol,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,,2410,1172,314,,,,,,0.92
+1911,Central Kansas League,Concordia,regular/first,,,,,20,16,,0.556,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Clay Center,regular/first,,,,,19,17,,0.528,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Junction City,regular/first,,,,,19,17,,0.528,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Manhattan,regular/first,,,,,14,22,,0.389,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Junction City,regular/second,,,,,24,11,,0.686,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Clay Center,regular/second,,,,,21,14,,0.6000000000000001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Manhattan,regular/second,,,,,14,21,,0.4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Concordia,regular/second,,,,,11,24,,0.314,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Concordia,final,,,,,4,3,,0.5710000000000001,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1911,Central Kansas League,Junction City,final,,,,,3,4,,0.429,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1911,Michigan State League,Manistee,regular,,,,,74,45,,0.622,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1911,Michigan State League,Cadillac,regular,,,,,73,45,,0.619,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1911,Michigan State League,Muskegon,regular,,,,,73,45,,0.619,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
