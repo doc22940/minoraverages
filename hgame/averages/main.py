@@ -2,6 +2,7 @@ import click
 
 from . import process
 from . import tojson
+from . import totoml
 
 
 @click.group()
@@ -19,3 +20,10 @@ def do_csv(source):
 @click.argument("source")
 def do_json(source):
     tojson.main(source)
+
+
+@cli.command("toml")
+@click.argument("source")
+def do_toml(source):
+    totoml.main(source)
+
