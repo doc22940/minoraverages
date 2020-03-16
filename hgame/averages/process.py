@@ -428,12 +428,16 @@ class Workbook(object):
                                 'H2B':      'B_2B',
                                 'H3B':      'B_3B',
                                 'HR':       'B_HR',
-                                'SH':       'B_SH',
-                                'SB':       'B_SB',
-                                'BB':       'B_BB',
-                                'HP':       'B_HP',
-                                'SO':       'B_SO',
                                 'RBI':      'B_RBI',
+                                'BB':       'B_BB',
+                                'IBB':      'B_IBB',
+                                'SO':       'B_SO',
+                                'GDP':      'B_GDP',
+                                'HP':       'B_HP',
+                                'SH':       'B_SH',
+                                'SF':       'B_SF',
+                                'SB':       'B_SB',
+                                'CS':       'B_CS',
                                 'LOB':      'B_LOB',
                                 'AVG':      'B_AVG'})
         if 'phase.name' not in df:
@@ -461,6 +465,7 @@ class Workbook(object):
                                 'T':        'P_T',
                                 'PCT':      'P_PCT',
                                 'IP':       'P_IP',
+                                'TBF':      'P_TBF',
                                 'AB':       'P_AB',
                                 'R':        'P_R',
                                 'ER':       'P_ER',
@@ -501,6 +506,8 @@ class Workbook(object):
                                 'PB':       'F_PB',
                                 'CI':       'F_XI',
                                 'LOB':      'F_LOB',
+                                'SB':       'F_SB',
+                                'CS':       'F_CS',
                                 'PCT':      'F_PCT'})
         if 'phase.name' not in df:
             df['phase.name'] = 'regular'
@@ -548,15 +555,15 @@ class Workbook(object):
                    'B_G', 'B_IP', 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_TB',
                    'B_1B', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
                    'B_BB', 'B_IBB', 'B_SO', 'B_GDP', 'B_HP',
-                   'B_SH', 'B_SF', 'B_SB', 'B_CS',
+                   'B_SH', 'B_SF', 'B_SB', 'B_CS', 'B_LOB',
                    'B_AVG',
                    'P_G', 'P_CG', 'P_SHO', 'P_GF',
                    'P_W', 'P_L', 'P_T', 'P_PCT',
-                   'P_IP', 'P_AB', 'P_R', 'P_ER', 'P_H', 'P_HR',
+                   'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H', 'P_HR',
                    'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH', 'P_SF',
                    'P_WP', 'P_BK', 'P_ERA',
                    'F_G', 'F_TC', 'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP',
-                   'F_PB', 'F_XI', 'F_LOB', 'F_PCT']
+                   'F_PB', 'F_SB', 'F_CS', 'F_XI', 'F_LOB', 'F_PCT']
         return self._standardize_columns(playing, columns)
 
 
