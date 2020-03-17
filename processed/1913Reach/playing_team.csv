@@ -304,6 +304,24 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,Michigan State League,Ludington,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3054,1207,197,,,,,,,,0.956
 1912,Michigan State League,Boyne City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2974,1490,255,,,,,,,,0.946
 1912,Michigan State League,Cadillac,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3013,1746,322,,,,,,,,0.937
+1912,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,regular,,,,,61,38,,0.616,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Falls City,regular,,,,,61,41,,0.598,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Auburn,regular,,,,,59,41,,0.59,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Humboldt,regular,,,,,44,57,,0.435,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Beatrice,regular,,,,,42,59,,0.415,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Hiawatha,regular,,,,,35,66,,0.346,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Humboldt,regular,,,,,,,,,,,,,2040,275,,564,,,,,,,109,,,,,103,,90,,,0.276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Auburn,regular,,,,,,,,,,,,,2950,391,,795,,,,,,,153,,,,,118,,194,,,0.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,regular,,,,,,,,,,,,,2161,381,,565,,,,,,,233,,,,,101,,155,,,0.261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Falls City,regular,,,,,,,,,,,,,2883,379,,698,,,,,,,194,,,,,112,,103,,,0.243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Hiawatha,regular,,,,,,,,,,,,,1545,184,,369,,,,,,,108,,,,,47,,77,,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Beatrice,regular,,,,,,,,,,,,,2484,276,,559,,,,,,,186,,,,,79,,123,,,0.225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Missouri-Iowa-Nebraska-Kansas League,Auburn,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2431,1013,171,,,,,,,,0.953
+1912,Missouri-Iowa-Nebraska-Kansas League,Humboldt,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1447,756,111,,,,,,,,0.952
+1912,Missouri-Iowa-Nebraska-Kansas League,Falls City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2084,1066,177,,,,,,,,0.947
+1912,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1910,643,158,,,,,,,,0.942
+1912,Missouri-Iowa-Nebraska-Kansas League,Beatrice,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2112,1011,193,,,,,,,,0.941
+1912,Missouri-Iowa-Nebraska-Kansas League,Hiawatha,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1281,653,134,,,,,,,,0.935
 1912,Nebraska State League,Hastings,regular,,,,,66,45,,0.595,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Nebraska State League,Fremont,regular,,,,,66,45,,0.595,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Nebraska State League,Kearney,regular,,,,,64,48,,0.571,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
