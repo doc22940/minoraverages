@@ -60,7 +60,7 @@ class Workbook(object):
     def _clear_spurious_blanks(df):
         for col in df.columns:
             if col.startswith("name"):
-                df[col] = df[col].astype(str).str.strip().replace("", None)
+                df[col] = df[col].str.strip().replace("", None)
         return df
 
 
@@ -69,7 +69,9 @@ class Workbook(object):
         """Return a DataFrame containing data from the Batting sheet.
         """
         try:
-            df = pd.read_excel(self.fn, sheet_name='Batting')
+            df = pd.read_excel(self.fn, sheet_name='Batting',
+                               dtype={'nameFirst': str,
+                                      'nameClub2': str})
         except xlrd.biffh.XLRDError:
             return pd.DataFrame(columns=['league.year'])
         df = self._clear_spurious_blanks(df)
@@ -162,7 +164,9 @@ class Workbook(object):
         """Return a DataFrame containing data from the Pitching sheet.
         """
         try:
-            df = pd.read_excel(self.fn, sheet_name='Pitching')
+            df = pd.read_excel(self.fn, sheet_name='Pitching',
+                               dtype={'nameFirst': str,
+                                      'nameClub2': str})
         except xlrd.biffh.XLRDError:
             return pd.DataFrame(columns=['league.year'])
         df = self._clear_spurious_blanks(df)
@@ -232,7 +236,9 @@ class Workbook(object):
         """Return a DataFrame containing data from the Fielding sheet.
         """
         try:
-            df = pd.read_excel(self.fn, sheet_name='Fielding')
+            df = pd.read_excel(self.fn, sheet_name='Fielding',
+                               dtype={'nameFirst': str,
+                                      'nameClub2': str})
         except xlrd.biffh.XLRDError:
             return pd.DataFrame(columns=['league.year'])
         df = self._clear_spurious_blanks(df)
