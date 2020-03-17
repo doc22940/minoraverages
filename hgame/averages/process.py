@@ -60,7 +60,10 @@ class Workbook(object):
     def _clear_spurious_blanks(df):
         for col in df.columns:
             if col.startswith("name"):
-                df[col] = df[col].str.strip().replace("", None)
+                try:
+                    df[col] = df[col].str.strip().replace("", None)
+                except AttributeError:
+                    print(f"WARNING: Unable to clean data in column {col}")
         return df
 
 
