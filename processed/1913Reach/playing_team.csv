@@ -326,6 +326,16 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1910,643,158,,,,,,,,0.942
 1912,Missouri-Iowa-Nebraska-Kansas League,Beatrice,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2112,1011,193,,,,,,,,0.941
 1912,Missouri-Iowa-Nebraska-Kansas League,Hiawatha,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1281,653,134,,,,,,,,0.935
+1912,Mountain States League,Ironton,regular/first,,,,,30,11,,0.732,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Ashland,regular/first,,,,,23,15,,0.603,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Huntington,regular/first,,,,,24,17,,0.585,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Charleston,regular/first,,,,,18,22,,0.45,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Montgomery,regular/first,,,,,10,24,,0.294,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Williamson,regular/first,,,,,10,26,,0.278,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Ironton,regular,,,,,35,12,,0.745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Ashland-Catlettsburg,regular,,,,,26,19,,0.577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Huntington,regular,,,,,27,20,,0.574,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Mountain States League,Williamson,regular,,,,,11,30,,0.268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Nebraska State League,Hastings,regular,,,,,66,45,,0.595,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Nebraska State League,Fremont,regular,,,,,66,45,,0.595,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Nebraska State League,Kearney,regular,,,,,64,48,,0.571,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
