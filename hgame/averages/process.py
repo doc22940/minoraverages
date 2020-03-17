@@ -56,6 +56,14 @@ class Workbook(object):
         clubs.columns = ['person.ref', 'nameClub1', 'S_STINT', g_label]
         return clubs
 
+    @staticmethod
+    def _clear_spurious_blanks(df):
+        for col in df.columns:
+            if col.startswith("name"):
+                df[col] = df[col].str.strip().replace("", None)
+        return df
+
+
     @property
     def individual_batting(self):
         """Return a DataFrame containing data from the Batting sheet.
@@ -64,6 +72,7 @@ class Workbook(object):
             df = pd.read_excel(self.fn, sheet_name='Batting')
         except xlrd.biffh.XLRDError:
             return pd.DataFrame(columns=['league.year'])
+        df = self._clear_spurious_blanks(df)
         df['person.ref'] = ((~df['nameLast'].isnull()).cumsum().
                             apply(lambda x: 'B%04d%d' %
                                   (x, damm.encode("%04d" % x))))
@@ -156,6 +165,7 @@ class Workbook(object):
             df = pd.read_excel(self.fn, sheet_name='Pitching')
         except xlrd.biffh.XLRDError:
             return pd.DataFrame(columns=['league.year'])
+        df = self._clear_spurious_blanks(df)
         df['person.ref'] = (
             (~df['nameLast'].isnull()).cumsum()
             .apply(lambda x: 'P%04d%d' %
@@ -196,6 +206,7 @@ class Workbook(object):
                                   'W':            'P_W',
                                   'L':            'P_L',
                                   'T':            'P_T',
+                                  'SV':           'P_SV',
                                   'PCT':          'P_PCT',
                                   'IP':           'P_IP',
                                   'AB':           'P_AB',
@@ -224,6 +235,7 @@ class Workbook(object):
             df = pd.read_excel(self.fn, sheet_name='Fielding')
         except xlrd.biffh.XLRDError:
             return pd.DataFrame(columns=['league.year'])
+        df = self._clear_spurious_blanks(df)
         df['person.ref'] = (
             (~df['nameLast'].isnull()).cumsum()
             .apply(lambda x: 'F%04d%d' %
@@ -298,7 +310,7 @@ class Workbook(object):
             'B_SB', 'B_CS',
             'B_AVG', 'B_AVG_RANK',
             'P_G', 'P_GS', 'P_CG', 'P_SHO', 'P_TO', 'P_GF',
-            'P_W', 'P_L', 'P_T', 'P_PCT',
+            'P_W', 'P_L', 'P_T', 'P_PCT', 'P_SV',
             'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H',
             'P_HR', 'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH',
             'P_WP', 'P_BK', 'P_SB',
@@ -464,6 +476,7 @@ class Workbook(object):
                                 'L':        'P_L',
                                 'T':        'P_T',
                                 'PCT':      'P_PCT',
+                                'SV':       'P_SV',
                                 'IP':       'P_IP',
                                 'TBF':      'P_TBF',
                                 'AB':       'P_AB',
@@ -558,7 +571,7 @@ class Workbook(object):
                    'B_SH', 'B_SF', 'B_SB', 'B_CS', 'B_LOB',
                    'B_AVG',
                    'P_G', 'P_CG', 'P_SHO', 'P_GF',
-                   'P_W', 'P_L', 'P_T', 'P_PCT',
+                   'P_W', 'P_L', 'P_T', 'P_PCT', 'P_SV',
                    'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H', 'P_HR',
                    'P_BB', 'P_IBB', 'P_SO', 'P_HP', 'P_SH', 'P_SF',
                    'P_WP', 'P_BK', 'P_ERA',
