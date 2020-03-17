@@ -372,6 +372,40 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,Northwestern League,Portland,regular,,,,,75,88,,0.46,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Northwestern League,Victoria,regular,,,,,73,93,,0.439,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Northwestern League,Tacoma,regular,,,,,62,104,,0.373,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Salem,regular/first,,,,,35,15,,0.7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,McKeesport,regular/first,,,,,35,18,,0.66,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Steubenville,regular/first,,,,,28,26,,0.519,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Alliance-Sebring,regular/first,,,,,25,26,,0.49,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,East Liverpool,regular/first,,,,,23,30,,0.434,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Sharon,regular/first,,,,,21,30,,0.412,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,McConnellville,regular/first,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,New Castle,regular/first,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,East Liverpool,regular/second,,,,,7,4,,0.636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Sharon,regular/second,,,,,7,4,,0.636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Steubenville,regular/second,,,,,5,5,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Fairmont,regular/second,,,,,5,5,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,McKeesport,regular/second,,,,,4,4,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Alliance,regular/second,,,,,1,7,,0.125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,East Liverpool,regular/third,,,,,18,12,,0.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Sharon,regular/third,,,,,16,15,,0.516,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Fairmont,regular/third,,,,,15,16,,0.484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Follansbee,regular/third,,,,,14,15,,0.483,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Steubenville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,East Liverpool,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Connellsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Sharon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,McKeesport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,Alliance,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,New Castle,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Ohio-Pennsylvania League,McKeesport,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.947
+1912,Ohio-Pennsylvania League,Alliance,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.946
+1912,Ohio-Pennsylvania League,Sharon,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.944
+1912,Ohio-Pennsylvania League,East Liverpool,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.943
+1912,Ohio-Pennsylvania League,Steubenville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.941
+1912,Ohio-Pennsylvania League,Salem,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.94
+1912,Ohio-Pennsylvania League,New Castle,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.931
+1912,Ohio-Pennsylvania League,Connellsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.927
 1912,Ohio State League,Portsmouth,regular/first,,,,,43,30,,0.589,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Ohio State League,Mansfield,regular/first,,,,,45,34,,0.57,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Ohio State League,Newark,regular/first,,,,,42,36,,0.538,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
