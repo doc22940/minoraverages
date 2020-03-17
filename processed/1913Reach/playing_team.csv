@@ -214,6 +214,24 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,International League,Rochester,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154,6121,3868,1963,290,,,13,,,,,0.953
 1912,International League,Montreal,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153,6317,4058,1959,300,,,27,,,,,0.952
 1912,International League,Providence,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,6337,4097,1923,317,,,17,,,,,0.95
+1912,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,68,29,,0.701,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Henderson,regular,,,,,52,48,,0.52,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Evansville,regular,,,,,46,53,,0.465,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Paducah,regular,,,,,46,54,,0.46,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,44,54,,0.449,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,41,59,,0.41,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,,,,,,,,,3124,377,,768,,,,,,,,,,,,,,,,,0.246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,,,,,,,,,3242,366,,789,,,,,,,,,,,,,,,,,0.243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,,,,,,,,,3112,432,,753,,,,,,,,,,,,,,,,,0.241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Evansville,regular,,,,,,,,,,,,,3289,360,,779,,,,,,,,,,,,,,,,,0.237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Paducah,regular,,,,,,,,,,,,,3189,351,,742,,,,,,,,,,,,,,,,,0.232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Henderson,regular,,,,,,,,,,,,,3117,321,,652,,,,,,,,,,,,,,,,,0.209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Kentucky-Illinois-Tennessee League,Evansville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2641,1160,181,,,,,,,,0.954
+1912,Kentucky-Illinois-Tennessee League,Clarksville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2521,1151,191,,,,,,,,0.95
+1912,Kentucky-Illinois-Tennessee League,Paducah,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2592,1236,233,,,,,,,,0.942
+1912,Kentucky-Illinois-Tennessee League,Henderson,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,1185,236,,,,,,,,0.941
+1912,Kentucky-Illinois-Tennessee League,Cairo,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2591,1179,239,,,,,,,,0.94
+1912,Kentucky-Illinois-Tennessee League,Hopkinsville,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2560,1085,247,,,,,,,,0.936
 1912,Michigan State League,Manistee,regular,,,,,83,35,,0.703,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Michigan State League,Traverse City,regular,,,,,79,40,,0.664,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Michigan State League,Ludington,regular,,,,,60,59,,0.504,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
