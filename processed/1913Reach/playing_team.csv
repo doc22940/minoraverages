@@ -474,6 +474,13 @@ league.year,league.name,entry.name,phase.name,division.name,S_FIRST,S_LAST,R_G,R
 1912,South Central League,Marshall,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,2635,1624,817,194,25,,,,,,,0.926
 1912,South Central League,Tyler,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,2593,1635,767,191,21,,,,,,,0.926
 1912,South Central League,Longview,regular,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,2371,1575,630,166,23,,,,,,,0.925
+1912,Southeastern League,Selma,regular/first,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Southeastern League,Gadsden,regular/second,,,,,19,4,,0.826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Southeastern League,Rome,regular/second,,,,,11,10,,0.524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Southeastern League,Selma,regular/second,,,,,10,12,,0.455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Southeastern League,Anniston,regular/second,,,,,8,11,,0.421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Southeastern League,Talladega,regular/second,,,,,8,14,,0.364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1912,Southeastern League,Cedartown,regular/second,,,,,6,11,,0.353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Southern Association,Birmingham,regular,,,,,85,51,3,0.625,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Southern Association,Mobile,regular,,,,,79,58,2,0.576,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1912,Southern Association,New Orleans,regular,,,,,71,64,4,0.526,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
